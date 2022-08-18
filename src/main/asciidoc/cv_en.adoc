@@ -9,12 +9,12 @@
 [cols="1h,3",frame=none,grid=none]
 !===
 ! Name
-! Brian Thomas Matthews
+! BRIAN THOMAS MATTHEWS
 ! Address
-! ul. 14-ya Liniya, d. 70 kv. 10, +
-Rostov-on-Don, +
+! UL. 14-YA LINIYA, D. 70 KB. 10, +
+ROSTOV-ON-DON, +
 344019, +
-Russia
+RUSSIA
 ! Phone    ! +7 961 310 5068
 ! E-mail   ! brian@btmatthews.com
 ! Twitter  ! bmatthews68
@@ -25,11 +25,11 @@ Russia
 image:images/me.jpg[]
 |===
 
-I am a self-motivated IT professional with over 30 years hands-on experience developing and delivering solutions for the banking/finance, government, insurance, software, telecommunications and transportation industries on Java and .NET stacks.
+I am a self-motivated IT professional with 33 years hands-on experience developing and delivering solutions for the banking/finance, government, insurance, software, telecommunications and transportation industries on Java and .NET stacks. My preferred technology stack is Java and Spring Boot.
 
-I have over 15 years project management experience using traditional waterfall-based, iterative and agile software development life cycles. I am a practitioner of the SCRUM agile project management technique.
+I have over 15 years project management experience using traditional waterfall-based, iterative and agile software development life cycles. I am a practitioner of the SCRUM agile project management technique but have complete a post-graduate diploma in traditional project management with the Open University.
 
-I have experience coordinating development teams based across multiple geographic locations and time zones. I have worked with off shore development teams in Tunisia, India, Singapore and Philippines and I have worked overseas in UK, USA, France, Japan and Tunisia.
+I have experience coordinating development teams based across multiple geographic locations and time zones. I have worked with off-shore development teams in Tunisia, India, Singapore and Philippines and I have worked overseas in UK, USA, France, Japan, Russia and Tunisia.
 
 I have been working remotely from Russia since October 2017.
 
@@ -38,7 +38,7 @@ I have been working remotely from Russia since October 2017.
 [frame=none,grid=none,options="autowidth"]
 |===
 h| Company       h| Period          h| Role
-| <<Synchronoss>> | Jan 16 - Now     | Software Engineer (Contract)
+| <<Synchronoss>> | Jan 16 - Nov 22  | Software Engineer (Contract)
 | <<THBS>>        | Jan 14 - Dec 15  | Portal Team Lead (Contract)
 | <<Daon>>        | Sep 13 - Dec 13  | Software Engineer (Contract)
 | <<Realex>>      | Feb 13 - Aug 13  | Software Engineer (Contract)
@@ -69,27 +69,29 @@ h| Company       h| Period          h| Role
 [[Synchronoss]]
 == Synchronoss, Dublin, Ireland
 
-=== Software Engineer (Contract) | January 2016 - January 2020
+=== Software Engineer (Contract) | January 2016 - November 2022
 
-I have worked on several of the core services, and many of the shared libraries, of Synchronoss' Personal Cloud product suite (https://synchronoss.com/products/cloud/personal-cloud-solution/) for mobile telecommunications providers such as Verizon and BT.
-
-* Digital Vault -- provides APIs to manage meta-data about content backed up from users' mobile and desktop devices.
+I have worked on several of the core services, and many of the shared libraries, of Synchronoss' Personal Cloud product suite (https://synchronoss.com/products/cloud/personal-cloud-solution/). Personal Cloud is used by mobile telecommunications providers such as Verizon and BT.
 
 * Collection Manager -- manages collections of media content for photo albums and music playlists
-
-* Smart Albums -- uses geo-location and timestamp information in images and videos to automatically create and maintain albums as content is being uploaded to Digital Vault.
-
-* Cloud Share -- provides APIs to share uploaded content with other users.
 
 * Message Minder -- provides APIs to back-up, restore and manage call logs and SMS, MMS and RCS messages from users' mobile devices.
 
 * Authentication, Tokens & Provisioning -- provides APIs to provision and authenticate users and to refresh authentication tokens.
 
+* Digital Vault -- provides APIs to manage meta-data about content backed up from users' mobile and desktop devices.
+
+* Cloud Share -- provides APIs to share uploaded content with other users.
+
+* Smart Albums -- uses geo-location and timestamp information in images and videos to automatically create and maintain albums as content is being uploaded to Digital Vault.
+
 === Achievements
 
 * Re-designed the processing pipe-line of the Smart Album component to increase through-put and avoid the need for expensive rollback operations.
 
-* Migrated Message Minder and ATP components to Spring Boot and upgraded JAX-RS implementations to Jersey 2.
+* Upgraded Message Minder to Spring Boot 2.4 and replaced Jersey 2 with Spring WebMVC
+
+* Migrated Message Minder and ATP components to Spring Boot 1.5 and upgraded JAX-RS implementations to Jersey 2.
 
 * Implemented support for RCS messages in Message Minder.
 
@@ -101,12 +103,16 @@ I have worked on several of the core services, and many of the shared libraries,
 
 * Designed and developed the Collection Manager component for managing photo albums and music playlists.
 
+* Performing deployments to shared development environments and coordinating the production deployments
+
+* Troubleshooting issues with customer deployments
+
 [%autowidth,frame=none,grid=none]
 |===
 h| Programming Languages: | Java, Groovy
-h| Frameworks:            | Spring, Spring Boot, Spring Cloud, Spring Security, JAX-RS (Jersey)
+h| Frameworks:            | Spring, Spring Boot, Spring Cloud, Spring Security, Spring Data, JAX-RS (Jersey)
 h| Target Environments:   | Docker, Kubernetes, Cassandra, MariaDB/MySQL, Oracle, Eureka, Memcached, Kafka, RabbitMQ, SwiftMQ, MacOS, Linux
-h| Development Tools:     | Git, Maven, Gradle, JIRA, Bamboo, Confluence, Stash, AsciiDoctor, Docbook, Cucumber, Sonar
+h| Development Tools:     | Git, Maven, Gradle, Helm, JIRA, Bamboo, Confluence, Stash/Bitbucket, AsciiDoctor, Docbook, Cucumber, Sonar, NexusIQ, Fortify
 |===
 
 [[THBS]]
@@ -151,8 +157,7 @@ h| Development Tools:     | IntelliJ, Git, Maven, Grunt, Jenkins, Chef, Vagrant,
 
 === Software Engineer (Contract) | September - December 2013
 
-I worked independently developing features for the IdentityX product suite (http://www.identityx.com) which uses
-biometric and multi-factor authentication to secure banking transactions on mobile devices.
+I worked independently developing features for the IdentityX product suite (http://www.identityx.com) which uses biometric and multi-factor authentication to secure banking transactions on mobile devices.
 
 === Achievements
 
@@ -258,7 +263,9 @@ h| Development Tools:     | Maven, Subversion, JIRA, Greenhopper, Artifactory, S
 
 === Technical Architect (Contract) | May 2011 – July 2011
 
-I was taken on by D&B to be an architect on user interface and input handler components of their new Data Supply Chain infrastructure. The Data Supply Chain infrastructure is responsible for processing all inbound data used by D&B to accumulate business intelligence, derive linkage information and calculate credit scores. The project has not progressed past the requirements gathering phase when I left.
+I was taken on by D&B to be an architect on user interface and input handler components of their new Data Supply Chain infrastructure.
+The Data Supply Chain infrastructure is responsible for processing all inbound data used by D&B to accumulate business intelligence, derive linkage information and calculate credit scores.
+The project had not progressed past the requirements gathering phase when I left.
 
 [[Fujitsu1]]
 == Fujitsu, Dublin, Ireland
@@ -295,8 +302,7 @@ h| Development Tools:     | Maven, ANT, Fisheye, Bamboo, Crucible, Proximity, Gr
 
 === Software Engineer (Contract) | October 2009 - June 2010
 
-I developed decoders for Corvil (http://www.corvil.com) to handle market data feed, trading and middle-ware protocols
-in order to perform gap detection and message correlation within their latency analysis tools.
+I developed decoders for Corvil (http://www.corvil.com) to handle market data feed, trading and middle-ware protocols in order to perform gap detection and message correlation within their latency analysis tools.
 
 === Achievements
 
@@ -319,7 +325,8 @@ h| Development Tools:     | g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Va
 
 === Technical Architect (Contract), Feb 09 – Sep 09
 
-I was the technical architect for My Web (http://myweb.vodafone.com), Vodafone’s new mobile portal that evolved into Vodafone 360. It was originally launched for Egypt, Germany, Greece, Ireland, Italy, Netherlands, Portugal, Spain, South Africa, Turkey and UK in 2009.
+I was the technical architect for My Web (http://myweb.vodafone.com), Vodafone’s new mobile portal that evolved into Vodafone 360.
+It was originally launched for Egypt, Germany, Greece, Ireland, Italy, Netherlands, Portugal, Spain, South Africa, Turkey and UK in 2009.
 
 === Achievements
 
@@ -340,7 +347,9 @@ h| Development Tools:     | Maven, Hudson, Archiva, Eclipse, Subversion, Grinder
 
 === Director / Architect | August 2006 – Jul 2008
 
-I was mainly responsible for designing the architecture and overseeing the implementation of MyComplianceOffice (http://www.mycomplianceoffice.com/). MyComplianceOffice is a “Software as a Service” (SaaS) hosted/multi-tenant solution that allows US-based registered investment advisors and hedge funds manage their compliance related business processes. MyComplianceOffice was built using portal server, workflow and document management technologies.
+I was mainly responsible for designing the architecture and overseeing the implementation of MyComplianceOffice (http://www.mycomplianceoffice.com/).
+MyComplianceOffice is a “Software as a Service” (SaaS) hosted/multi-tenant solution that allows US-based registered investment advisors and hedge funds manage their compliance related business processes.
+MyComplianceOffice was built using portal server, workflow and document management technologies.
 
 === Achievements
 
@@ -373,7 +382,9 @@ h| Development Tools:     | Maven, Continuum, Archiva, Eclipse, Clearcase, Apach
 
 === Information Security Consultant / Architect | October 2005 - July 2006
 
-I was the architect supporting teams responsible for developing and maintaining Fidelity Investments' enterprise-wide automated access provisioning, risk management and reporting system. The core components were an intranet facing application for raising and processing access requests and workflow engine that integrated the various 3rd party solutions and automate the provisioning processes. The intranet facing application was developed using ASP.NET and the workflow engine was implemented using C# and the NxBRE rules engine.
+I was the architect supporting teams responsible for developing and maintaining Fidelity Investments' enterprise-wide automated access provisioning, risk management and reporting system.
+The core components were an intranet facing application for raising and processing access requests and workflow engine that integrated the various 3rd party solutions and automate the provisioning processes.
+The intranet facing application was developed using ASP.NET and the workflow engine was implemented using C# and the NxBRE rules engine.
 
 === Achievements
 
@@ -394,10 +405,9 @@ h| Development Tools:     | Visual Studio, Clearcase, ClearQuest
 
 === Lead System Architect | October 2003 – September 2005
 
-I was seconded to a private telecommunications company owned by Fidelity Investments called KVH. At KVH I reported to
-the CIO but also worked closely with the CTO and CFO designing the integration of and supporting the implementation
-of Business and Operations Support Systems. The majority of the applications at KVH were deployed on Windows
-based platforms.
+I was seconded to a private telecommunications company owned by Fidelity Investments called KVH.
+At KVH I reported to the CIO but also worked closely with the CTO and CFO designing the integration of and supporting the implementation of Business and Operations Support Systems.
+The majority of the applications at KVH were deployed on Windows based platforms.
 
 === Achievements
 
@@ -405,8 +415,7 @@ based platforms.
 
 * Conducted product evaluations and engaged in vendor negotiations.
 
-* Designed and supported the development of eKVH (http://ekvh.co.jp/) - a Business to Consumer (B2C) portal developed
-  using BEA WebLogic Portal by an outsourced team in India.
+* Designed and supported the development of eKVH (http://ekvh.co.jp/) - a Business to Consumer (B2C) portal developed using BEA WebLogic Portal by an outsourced team in India.
 
 * Designed and developed a Business to Employee (B2E) portal implemented in Struts.
 
@@ -425,9 +434,9 @@ h| Development Tools:    | Eclipse, CVS, LoadRunner, QuickTest Pro
 
 I played a leading role in three major product developments:
 
-* PlanViewer (http://www.planviewer.co.uk/) is provided by Fidelity International Limited (FIL) to allow members, sponsors and administrators of defined contributions pension schemes to view balances, review transaction history, switch out of existing investments or change their future contribution mix. PlanViewer was a J2EE application developed using Struts.
+* PlanViewer (http://www.planviewer.co.uk/) was provided by Fidelity International Limited (FIL) to allow members, sponsors and administrators of defined contributions pension schemes to view balances, review transaction history, switch out of existing investments or change their future contribution mix. PlanViewer was a J2EE application developed using Struts.
 
-* ActiveTrader Pro (http://personal.fidelity.com/accounts/activetrader) is a desktop trading application provided by Fidelity eBusiness for the high net worth and active trader market segments to access their brokerage accounts, place trades, receive streaming quotes and review market news. ActiveTrader Pro was a Windows desktop application developed in {cpp} using ActiveX components.
+* ActiveTrader Pro (http://personal.fidelity.com/accounts/activetrader) was a desktop trading application provided by Fidelity eBusiness to the high net worth and active trader market segments to access their brokerage accounts, place trades, receive streaming quotes and review market news. ActiveTrader Pro was a Windows desktop application developed in {cpp} using ActiveX components.
 
 * Fidelity Online Xpress+ (FOX+) was Fidelity Investments' original desktop trading application available to all customer segments. FOX+ allowed customers to access their accounts, place trades, receive static quotes and review market news. FOX+ was a Windows desktop application developed in {cpp}.
 
@@ -435,7 +444,7 @@ I played a leading role in three major product developments:
 
 * I was a member of the Development Audit Team (DAT) which audited projects to ensure they adhered to best practices from a project management perspective during the project initiation, requirements gathering and solution design phases.
 
-* I was a founding member of the Technical Review Board (TRB) which reviewed the proposed architectures and detailed designs of projects to ensure that those projects were technically feasible and following best practices
+* I was a founding member of the Technical Review Board (TRB) which reviewed the proposed architectures and detailed designs of projects to ensure that those projects were technically feasible and following best practices.
 
 * Ported PlanViewer from a proprietary model-view-controller framework to Struts 1.1.
 
@@ -447,7 +456,7 @@ I played a leading role in three major product developments:
 
 * Streamlined the configuration management and release engineering practices for FOX+.
 
-* Dramatically reduced the size of the downloadable product installer for FOX+ from 12MB to 3MB.
+* Dramatically reduced the size of the downloadable product installer for FOX+ by 75% (from 12MB to 3MB).
 
 * Successfully delivered quarterly releases of FOX+.
 
@@ -477,7 +486,7 @@ I joined IFS as the Senior Software Architect to design the architecture for a n
 [%autowidth,frame=none,grid=none]
 |===
 h| Programming Languages: | {cpp}
-h| Frameworks:            | Orbix, MFC
+h| Frameworks:            | Orbix, Microsoft Foundation Classes
 h| Target Environments:   | Windows NT
 h| Development Tools:     | Visual {cpp}, Visual SourceSafe
 |===
@@ -487,7 +496,8 @@ h| Development Tools:     | Visual {cpp}, Visual SourceSafe
 
 === Technical Lead (Contract) | October 1998 – July 1999
 
-I worked for the IP Technology Organization, which was developing a platform to construct and manage network services called Common Open IP Platform (COIPP). I provided CORBA expertise to the team responsible for implementing the middle-tier components of the provisioning, billing and management systems.
+I worked for the IP Technology Organization, which was developing a platform to construct and manage network services called Common Open IP Platform (COIPP).
+I provided CORBA expertise to the team responsible for implementing the middle-tier components of the provisioning, billing and management systems.
 
 === Achievements
 
@@ -531,12 +541,15 @@ h| Development Tools:     | Visual {cpp}, Visual SourceSafe, make
 
 === Software Engineer (Contractor) | April 1996 – September 1997
 
-I worked for the Infrastructure and Automation Tools team. I was responsible for developing agents that were installed on file, database, e-mail, web and proxy servers to collect usage metrics. Those metrics were used to predict future server and disk space needs. The agents were installed on over 3,000 servers world-wide.
+I worked for the Infrastructure and Automation Tools team.
+I was responsible for developing agents that were installed on file, database, e-mail, web and proxy servers to collect usage metrics.
+Those metrics were used to predict future server and disk space needs.
+The agents were installed on over 3,000 servers world-wide.
 
 [%autowidth,frame=none,grid=none]
 |===
 h| Programming Languages: | {cpp}
-h| Frameworks:            | MFC
+h| Frameworks:            | Windows SDK, Microsoft Foundation Classes
 h| Target Environments:   | SQL Server, Windows NT
 h| Development Tools:     | Visual {cpp}, Visual SourceSafe
 |===
@@ -558,7 +571,7 @@ office application suite called Lotus SmartSuite.
 [%autowidth,frame=none,grid=none]
 |===
 h| Programming Languages: | {cpp}
-h| Frameworks:            |
+h| Frameworks:            | Windows SDK
 h| Target Environments:   | Windows 3.x/95/NT
 h| Development Tools:     | Visual {cpp}, PVCS, Lotus Notes
 |===
@@ -574,14 +587,14 @@ I developed and maintained applications to support the purchasing, goods inwards
 
 * Recruited and led the development team.
 
-* Ported existing applications from OS/2 to Windows 3.x.
+* Ported existing components from OS/2 to Windows 3.x.
 
 * Carried out maintenance and implemented enhancements to meet changing business practices.
 
 [%autowidth,frame=none,grid=none]
 |===
 h| Programming Languages: | {cpp}
-h| Frameworks:            | Object Windows Library
+h| Frameworks:            | OS/2 SDK, Object Windows Library
 h| Target Environments:   | Lotus Notes, Sybase, Windows 3.x, OS/2
 h| Development Tools:     | Borland {cpp}, {csetpp}, PVCS
 |===
@@ -591,12 +604,14 @@ h| Development Tools:     | Borland {cpp}, {csetpp}, PVCS
 
 ===  Software Engineer (Contract) | April 1994 – July 1994
 
-I was part of a small team that ported a product called Omnishare to run on a standard IBM compatible PC. Omnishare was a conferencing tool that allowed users to share and annotate documents using the same telephone line for voice and data. It had been originally designed to run on custom hardware.
+I was part of a small team that ported a product called Omnishare to run on a standard IBM compatible PC.
+Omnishare was a conferencing tool that allowed users to share and annotate documents using the same telephone line for voice and data.
+It had been originally designed to run on custom hardware.
 
 [%autowidth,frame=none,grid=none]
 |===
 h| Programming Languages: | {cpp}
-h| Frameworks:            |  MFC
+h| Frameworks:            | Windows SDK, Microsoft Foundation Classes
 h| Target Environments:   | Windows 3.x
 h| Development Tools:     | Visual {cpp}, Visual SourceSafe
 |===
@@ -606,18 +621,18 @@ h| Development Tools:     | Visual {cpp}, Visual SourceSafe
 
 === Technical Lead (Contractor) | October 1993 – March 1994
 
-I provided consultancy to the team developing a data warehousing tool called DataRefresher. When I joined the team DataRefresher was failing to meet the acceptance criteria set by the QA team due to significant memory leaks, race conditions and inter-process communication issues.
+I provided consultancy to the team developing a data warehousing tool called DataRefresher.
+When I joined the team DataRefresher was failing to meet the acceptance criteria set by the QA team due to significant memory leaks, race conditions and inter-process communication issues.
 
 === Achievements
 
-* I identified the sources of all major defects that had been preventing the QA team accept a build.
+* I identified the sources of all major defects that had been preventing the QA team from accepting a build.
 
 * Re-introduced release engineering processes that had been abandoned by the development team.
 
 [%autowidth,frame=none,grid=none]
 |===
 h| Programming Languages: | {cpp}
-h| Frameworks:            |
 h| Target Environments:   | OS/2, DB2, Communications Manager
 h| Development Tools:     | {csetpp}
 |===
@@ -627,16 +642,19 @@ h| Development Tools:     | {csetpp}
 
 ===  Software Engineer (Contract) | March - September 1993
 
-I was part of the team that developed a client-server application called Advanced Transmanche Operations Management System (ATOMS). ATOMS was the passenger booking and rolling stock management system developed for British Rail, SNCF France and SNCF Belgium to operate services running through the Euro Tunnel.
+I was part of the team that developed a client-server application called Advanced Transmanche Operations Management System (ATOMS).
+ATOMS was the passenger booking and rolling stock management system developed for British Rail, SNCF France and SNCF Belgium to operate services running through the Euro Tunnel.
 
 === Achievements
 
 * Designed and implemented the framework for the ATOMS user interface.
 
+* Stream-lined the build process allowing regular deliveries to the off-site QA team.
+
 [%autowidth,frame=none,grid=none]
 |===
 h| Programming Languages: | {cpp}
-h| Frameworks:            |  MFC
+h| Frameworks:            | MFC
 h| Target Environments:   | Windows 3.x, Oracle
 h| Development Tools:     | Visual {cpp}, PVCS
 |===
@@ -646,19 +664,18 @@ h| Development Tools:     | Visual {cpp}, PVCS
 
 === Software Engineer (Contract) | September 1992 – January 1993
 
-I implemented a light-weight object request broker for Windows that allowed inter-process communication between processes on a personal computer and with remote processes running on Unix servers. The object request broker pre-dated Common Object Request Broker Architecture (CORBA) and was based on Advanced Network Systems Architecture (ANSA).
+I implemented a light-weight object request broker for Windows that allowed inter-process communication between processes on a personal computer and with remote processes running on Unix servers.
+The object request broker pre-dated Common Object Request Broker Architecture (CORBA) and was based on Advanced Network Systems Architecture (ANSA).
 
 === Achievements
 
-* Developed the inter-process communication for co-located Windows applications using Dynamic Data Exchange (DDE).
+* Developed an inter-process communication mechanism for co-located Windows applications using Dynamic Data Exchange (DDE).
 
-* Developed the client-side communication between the Windows applications and server processes over a serial
-  connection.
+* Developed the client-side communication between the Windows applications and server processes over a serial connection.
 
 [%autowidth,frame=none,grid=none]
 |===
 h| Programming Languages: | {cpp}
-h| Frameworks:       |
 h| Target Environments:   | Windows 3.x, Unix
 h| Development Tools:     | Visual {cpp}, PVCS
 |===
@@ -668,7 +685,8 @@ h| Development Tools:     | Visual {cpp}, PVCS
 
 === Senior Software Engineer | April 1989 - Aug 1992
 
-I designed and developed bespoke applications for petrochemical companies including DOW Chemical, DuPont, ICI, Bayer and Elf Atochem. These applications were searchable electronic catalogues describing the material properties of the plastics manufactured and sold by those companies.
+I designed and developed bespoke applications for petrochemical companies including DOW Chemical, DuPont, ICI, Bayer and Elf Atochem.
+These applications were searchable electronic catalogues describing the material properties of the plastics manufactured and sold by those companies.
 
 === Achievements
 
@@ -679,7 +697,6 @@ I designed and developed bespoke applications for petrochemical companies includ
 [%autowidth,frame=none,grid=none]
 |===
 h| Programming Languages: | Pascal, C, {cpp}, Assembler
-h| Frameworks:            |
 h| Target Environments:   | MS-DOS
 h| Development Tools:     | Turbo Pascal, Turbo {cpp}, RCS
 |===
@@ -689,6 +706,14 @@ h| Development Tools:     | Turbo Pascal, Turbo {cpp}, RCS
 *B.Sc. in Computer Applications* +
 Dublin City University +
 Graduated with honours in November 1990
+
+== Language Skills
+
+* English -- Native Speaker
+
+* French -- Elementary
+
+* Russian --- Elementary
 
 == References
 
