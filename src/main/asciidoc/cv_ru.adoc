@@ -16,7 +16,7 @@ Rostov-on-Don, +
 344019, +
 Russia
 ! Phone    ! +7 961 310 5068
-! E-mail   ! brian@btmatthews.com
+! E-mail   ! bmatthews68@gmail.com
 ! Twitter  ! bmatthews68
 ! LinkedIn ! http://ie.linkedin.com/in/bmatthews68
 ! GitHub   ! https://github.com/bmatthews68
@@ -38,7 +38,7 @@ image:images/me.jpg[]
 [frame=none,grid=none,options="autowidth"]
 |===
 h| Компания          h| Время          h| Роль
-| <<Synchronoss>> | Январь 16 - Ноябрь     |  Инженер-программист(Работа по контракту)
+| <<Synchronoss>> | Январь 16 - Март 24 |  Инженер-программист(Работа по контракту)
 | <<THBS>>        | Январь 14 -  Декабрь 15  | Руководитель группы портала (Работа по контракту)
 | <<Daon>>        | Сентябрь 13 - Декабрь 13  |  Инженер-программист (Работа по контракту)
 | <<Realex>>      | Февраль 13 - Август 13  |  Инженер-программист (Работа по контракту)

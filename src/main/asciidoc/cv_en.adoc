@@ -16,7 +16,7 @@ ROSTOV-ON-DON, +
 344019, +
 RUSSIA
 ! Phone    ! +7 961 310 5068
-! E-mail   ! brian@btmatthews.com
+! E-mail   ! bmatthews68@gmail.com
 ! Twitter  ! bmatthews68
 ! LinkedIn ! http://ie.linkedin.com/in/bmatthews68
 ! GitHub   ! https://github.com/bmatthews68
@@ -25,7 +25,7 @@ RUSSIA
 image:images/me.jpg[]
 |===
 
-I am a self-motivated IT professional with 33 years hands-on experience developing and delivering solutions for the banking/finance, government, insurance, software, telecommunications and transportation industries on Java and .NET stacks. My preferred technology stack is Java and Spring Boot.
+I am a self-motivated IT professional with 35 years hands-on experience developing and delivering solutions for the banking/finance, government, insurance, software, telecommunications and transportation industries on Java and .NET stacks. My preferred technology stack is Java and Spring Boot.
 
 I have over 15 years project management experience using traditional waterfall-based, iterative and agile software development life cycles. I am a practitioner of the SCRUM agile project management technique but have complete a post-graduate diploma in traditional project management with the Open University.
 
@@ -38,7 +38,7 @@ I have been working remotely from Russia since October 2017.
 [frame=none,grid=none,options="autowidth"]
 |===
 h| Company       h| Period          h| Role
-| <<Synchronoss>> | Jan 16 - Nov 22  | Software Engineer (Contract)
+| <<Synchronoss>> | Jan 16 - Mar 24  | Software Engineer (Contract)
 | <<THBS>>        | Jan 14 - Dec 15  | Portal Team Lead (Contract)
 | <<Daon>>        | Sep 13 - Dec 13  | Software Engineer (Contract)
 | <<Realex>>      | Feb 13 - Aug 13  | Software Engineer (Contract)
@@ -69,9 +69,9 @@ h| Company       h| Period          h| Role
 [[Synchronoss]]
 == Synchronoss, Dublin, Ireland
 
-=== Software Engineer (Contract) | January 2016 - November 2022
+=== Software Engineer (Contract) | January 2016 - March 2024
 
-I have worked on several of the core services, and many of the shared libraries, of Synchronoss' Personal Cloud product suite (https://synchronoss.com/products/cloud/personal-cloud-solution/). Personal Cloud is used by mobile telecommunications providers such as Verizon and BT.
+I have worked on several of the core services, and many of the shared libraries, of Synchronoss' Personal Cloud product suite (https://synchronoss.com/products/cloud/personal-cloud-solution/). Personal Cloud is used by mobile telecommunications providers such as Verizon, AT&T, SoftBank and BT.
 
 * Collection Manager -- manages collections of media content for photo albums and music playlists
 
