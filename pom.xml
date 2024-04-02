@@ -84,9 +84,9 @@
                         </goals>
                         <configuration>
                             <backend>pdf</backend>
-                            <encoding>UTF-8</encoding>
+                            <!--encoding>UTF-8</encoding-->
                             <embedAssets>true</embedAssets>
-                            <headerFooter>true</headerFooter>
+                            <!--headerFooter>true</headerFooter-->
                             <attributes>
                                 <pdf-stylesdir>${project.basedir}/src/main/themes</pdf-stylesdir>
                                 <pdf-style>cv</pdf-style>
