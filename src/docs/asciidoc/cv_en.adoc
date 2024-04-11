@@ -17,7 +17,7 @@ ROSTOV-ON-DON, +
 RUSSIA
 ! Phone    ! +7 961 310 5068
 ! E-mail   ! bmatthews68@gmail.com
-! Twitter  ! bmatthews68
+! Twitter  ! @bmatthews68
 ! LinkedIn ! http://ie.linkedin.com/in/bmatthews68
 ! GitHub   ! https://github.com/bmatthews68
 !===
@@ -25,11 +25,14 @@ RUSSIA
 image:images/me.jpg[]
 |===
 
-I am a self-motivated IT professional with 35 years hands-on experience developing and delivering solutions for the banking/finance, government, insurance, software, telecommunications and transportation industries on Java and .NET stacks. My preferred technology stack is Java and Spring Boot.
+I am a self-motivated IT professional with 35 years hands-on experience developing and delivering solutions for the banking/finance, government, insurance, software, telecommunications and transportation industries on Java and .NET stacks.
+My preferred technology stack is Java and Spring Boot.
 
-I have over 15 years project management experience using traditional waterfall-based, iterative and agile software development life cycles. I am a practitioner of the SCRUM agile project management technique but have complete a post-graduate diploma in traditional project management with the Open University.
+I have over 20 years project management experience using traditional waterfall-based, iterative and agile software development life cycles.
+I am a practitioner of the SCRUM agile project management technique but have complete a post-graduate diploma in traditional project management with the Open University.
 
-I have experience coordinating development teams based across multiple geographic locations and time zones. I have worked with off-shore development teams in Tunisia, India, Singapore and Philippines and I have worked overseas in UK, USA, France, Japan, Russia and Tunisia.
+I have experience coordinating development teams based across multiple geographic locations and time zones.
+I have worked with off-shore development teams in Tunisia, India, Singapore and Philippines and I have worked overseas in UK, USA, France, Japan, Russia and Tunisia.
 
 I have been working remotely from Russia since October 2017.
 
@@ -638,7 +641,7 @@ h| Development Tools:     | {csetpp}
 |===
 
 [[BR]]
-=== British Rail, Darlington, UK
+== British Rail, Darlington, UK
 
 ===  Software Engineer (Contract) | March - September 1993
 
