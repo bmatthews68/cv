@@ -1,3 +1,4 @@
+extends: default
 page:
   layout: portrait
   margin: [0.5in, 0.75in, 0.5in, 0.75in]
