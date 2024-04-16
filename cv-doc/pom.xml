@@ -26,6 +26,7 @@
                             <embedAssets>true</embedAssets>
                             <attributes>
                                 <pdf-theme>uri:classloader:themes/cv-theme.yml</pdf-theme>
+                                <pdf-fontsdir>uri:classloader:fonts</pdf-fontsdir>
                                 <doctype>article</doctype>
                                 <icons>font</icons>
                                 <pagenums/>
