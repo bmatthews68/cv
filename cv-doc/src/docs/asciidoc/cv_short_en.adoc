@@ -165,14 +165,14 @@ I was a member of an Agile team that developed and maintained tools such as the 
 [[Fujitsu2]]
 == Contract Software Engineer @ Fujitsu, Dublin, Ireland (Jan - Feb '13)
 
-Implemented document management features of Road Transport Operator Licencing application using OpenCMIS and Alfresco.
+At Fujitsu, I implemented document management features of Road Transport Operator Licencing application using OpenCMIS and Alfresco.
 
 *Skills:* Java, Spring Framework, Tomcat, JSF, OpenCMIS, Alfresco
 
 [[Newbay]]
 == Contract Software Engineer @ Newbay, Dublin, Ireland (Jan - Oct '12)
 
-At Newbay I developed and maintained Newbay's SyncDrive product, which was a white label application offered to mobile phone operators to allow users synchronize content between their PCs, mobile devices and cloud based storage.
+At Newbay, I developed and maintained SyncDrive, which was a white label application offered to mobile phone operators to allow users synchronize content between their PCs, mobile devices and cloud based storage.
 Initially, I resolved high priority defects in order to complete the first version of SyncDrive for Mac OS X and deliver on time to the operator.
 Then I extensively refactored the code-base to separate presentation, business logic and data concerns in order to eliminate inherent race conditions in the synchronization process and make it possible to write more comprehensive unit tests.
 
@@ -181,19 +181,8 @@ Then I extensively refactored the code-base to separate presentation, business l
 [[LeasePlan]]
 == Contract Software Engineer @ LeasePlan, Dublin, Ireland (Jul '11 - Jan '12)
 
-I was a member of an Agile team that re-engineered LeasePlan’s Internet Quotation web application to improve the user experience and address security concerns raised by external auditors.
-
-=== Achievements
-
-* Introduced Selenium integration tests into the automated Maven build
-
-* Introduced JIRA and GreenHopper for bug tracking and task management
-
-* Migrated code base from Spring 2 to Spring 3
-
-* Implemented support for dynamic look and feel using Apache Jackrabbit as the content repository to allow individual business units and brokers have distinct look and feels
-
-* Addressed performance issues when proxying remote content (car images) provided by 3rd party systems by introducing caching and image scaling
+At LeasePlan, I was re-engineering their Internet Quotation web application to improve the user experience and address security concerns raised by external auditors.
+I migrated the code base from Spring 2 to Spring 3, implemented support for dynamic look and feel using Apache Jackrabbit as the content repository to allow individual business units and brokers have distinct look and feels, and addressed performance issues when proxying remote content (car images) provided by 3rd party systems by introducing caching and image scaling
 
 *Skills:* Java, Javascript, Spring, Spring Security, Struts 2, SQLMaps, Apache Jackrabbit, iSeries, WebShphere, WebSphereMQ, Maven, Subversion, JIRA, Greenhopper, Artifactory, Selenium, Eclipse
 
@@ -207,37 +196,18 @@ The project had not progressed past the requirements gathering phase when I left
 [[Fujitsu1]]
 == Contract SOA Architect @ Fujitsu, Dublin, Ireland (Jun '10 – Apr '11)
 
-At Fujitsu I designed and implemented solutions for the Irish Department of Transport and the Irish Courts Service
-using the principles of Service Oriented Architecture.
-
-=== Achievements
-
-* Designed the integration for the Department of Transport with its equivalents in other EU jurisdictions to share driver, vehicle and owner information using Oracle SOA Suite 10g.
-
-* Implemented web services using Oracle SOA Suite 10g to allow the Road Safety Authority and Taxi Regulator access the driver and vehicle database maintained by the Department of Transport.
-
-* Implemented a web service and front end to allow vehicle owners recover the PIN they need to pay motor tax online.
-
-* Proposed the development toolset and open source technology stack for the Irish Courts Service.
-
-* Designed and led the implementation a proof of concept for the Irish Courts Service to allow plaintiffs seek judgements for liquidated sums online using JBoss, Spring, Spring Web Services, Hibernate and JBoss ESB.
-
-* Upgraded the integration of Murex trading and SWIFT settlement systems at KBC Bank.
+At Fujitsu I designed and implemented solutions for the Irish Department of Transport and the Irish Courts Service.
+I designed the integration for the Department of Transport with its equivalents in other EU jurisdictions to share driver, vehicle and owner information using Oracle SOA Suite 10g, implemented web services to allow the Road Safety Authority and Taxi Regulator access the driver and vehicle database maintained by the Department of Transport and implemented a web service and front end to allow vehicle owners recover the PIN they need to pay motor tax online.
+I proposed the development toolset and open source technology stack for the Irish Courts Service and designed and led the implementation a proof of concept for the Irish Courts Service to allow plaintiffs seek judgements for liquidated sums online using JBoss, Spring, Spring Web Services, Hibernate and JBoss ESB.
+In addition, I upgraded the integration of Murex trading and SWIFT settlement systems at KBC Bank.
 
 *Skills:* Java, Shell Scripting, BPEL, Javascript, Spring, Spring Security, Spring Webflow, Spring Web Services, Hibernate, EHCache, jBPM, Drools, Solaris, WebSphere MQ, OC4J, JBoss, Oracle SOA Suite, JBossESB, Apache, OpenLDAP, Active Directory, MySQL, Ingres, Oracle, Maven, ANT, Fisheye, Bamboo, Crucible, Proximity, Grinder, JMeter, Benerator, Eclipse
 
 [[Corvil]]
 == Contract Software Engineer @ Corvil, Dublin, Ireland (Oct '09 - Jun '10)
 
-I developed decoders for Corvil (http://www.corvil.com) to handle market data feed, trading and middle-ware protocols in order to perform gap detection and message correlation within their latency analysis tools.
-
-=== Achievements
-
-* Implemented a generic template driven decoder that exceeded the performance targets.
-
-* Implemented decoders to handle protocols for the Deutsche Börse, London, NASDAQ, NYSE, Tokyo and Osaka exchanges.
-
-* Implemented a decoder for Tibco Rendezvous by reverse engineering sample traffic.
+At Corvil (http://www.corvil.com), I developed decoders to handle market data feed, trading and middle-ware protocols in order to perform gap detection and message correlation within their latency analysis tools.
+I implemented a generic template driven decoder that exceeded the performance targets handling feeds from the Deutsche Börse, London, NASDAQ, NYSE, Tokyo and Osaka exchanges and a custom decoder for Tibco Rendezvous by reverse engineering sample traffic.
 
 *Skills:* {cpp}, PERL, Python, Boost, STL, Expat, Xerces, BSD Linux, g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Valgrind
 
@@ -254,17 +224,9 @@ In addition, I migrated the build and improved the automation from ANT to Maven 
 [[TerraNua]]
 == Director @ TerraNua, Dublin, Ireland & Tunis, Tunisia (Aug '06 – Jul '08)
 
-At TerraNua, I was mainly responsible for designing the architecture and overseeing the implementation of MyComplianceOffice (http://www.mycomplianceoffice.com/).
-MyComplianceOffice is a “Software as a Service” (SaaS) hosted/multi-tenant solution that allows US-based registered investment advisors and hedge funds manage their compliance related business processes.
-MyComplianceOffice was built using portal server, workflow and document management technologies.
-
-I designed the physical and software architecture for MyComplianceOffice, recruited and led the development team for release 1.0, led the architecture team.
-
-* Established the engineering practices.
-
-* Introduced SCRUM to manage the development phase of the project.
-
-I went on-site to recruit and mentor an offshore development team in Tunisia.
+At TerraNua, I was mainly responsible for designing the architecture and overseeing the implementation of MyComplianceOffice (http://www.mycomplianceoffice.com/) which was a “Software as a Service” (SaaS) hosted/multi-tenant solution that allows US-based registered investment advisors and hedge funds manage their compliance related business processes.
+I designed the physical and software architecture for MyComplianceOffice using portal server, workflow and document management technologies, recruited and led the development team for release 1.0, led the architecture team.
+I later relocated to Tunisia to recruit and  mentor an offshore development team.
 
 *Skills:* Java, Javascript, Spring, Acegi, Spring Web Services, Apache Axis, Spring LDAP, Hibernate, Compass, Lucene, Quartz, Drools, JUG, CGLIB, EhCache, Shark, Jetspeed 2, IBM WebSphere, Netscape iPlanet, SunONE Directory Server, Documentum, Oracle 10g, Solaris, Maven, Continuum, Archiva, Eclipse, Clearcase, Apache HTTP Server, Apache Tomcat, Oracle XE, Windows, Sharepoint, JIRA, LoadRunner, QuickTest Pro, MediaWiki
 
@@ -288,35 +250,20 @@ I created and maintained the blueprint and roadmap for the overall architecture 
 [[Fidelity1]]
 == Principal Consultant @ Fidelity Investments, Dublin, Ireland (Jun '00 – Sep '03)
 
-I played a leading role in three major product developments:
+At Fidelity Investments, I played a leading role in three major product developments.
 
-* PlanViewer (http://www.planviewer.co.uk/) was provided by Fidelity International Limited (FIL) to allow members, sponsors and administrators of defined contributions pension schemes to view balances, review transaction history, switch out of existing investments or change their future contribution mix. PlanViewer was a J2EE application developed using Struts.
-
-* ActiveTrader Pro (http://personal.fidelity.com/accounts/activetrader) was a desktop trading application provided by Fidelity eBusiness to the high net worth and active trader market segments to access their brokerage accounts, place trades, receive streaming quotes and review market news. ActiveTrader Pro was a Windows desktop application developed in {cpp} using ActiveX components.
-
-* Fidelity Online Xpress+ (FOX+) was Fidelity Investments' original desktop trading application available to all customer segments. FOX+ allowed customers to access their accounts, place trades, receive static quotes and review market news. FOX+ was a Windows desktop application developed in {cpp}.
-
-=== Achievements
-
-* I was a member of the Development Audit Team (DAT) which audited projects to ensure they adhered to best practices from a project management perspective during the project initiation, requirements gathering and solution design phases.
-
-* I was a founding member of the Technical Review Board (TRB) which reviewed the proposed architectures and detailed designs of projects to ensure that those projects were technically feasible and following best practices.
-
+I led the development team that ported Fidelity International Limited's (FIL) PlanViewer (http://www.planviewer.co.uk/) pension scheme administration application from a proprietary model-view-controller framework to Apache Struts 1.1.
 * Ported PlanViewer from a proprietary model-view-controller framework to Struts 1.1.
 
-* Led the project team in Dublin that implemented many of the key components of ActiveTrader Pro.
+I led one the 3 development teams that delivered ActiveTrader Pro (http://personal.fidelity.com/accounts/activetrader) which was a desktop trading application provided by Fidelity eBusiness to the high net worth and active trader market segments to access their brokerage accounts, place trades, receive streaming quotes and review market news.
+I also personally designed and implemented the framework for the user interface of ActiveTrader Pro using {cpp} and ActiveX used by all 3 development teams.
 
-* Designed and implemented the framework for the user interface of ActiveTrader Pro.
+I acted as the product manager for Fidelity Online Xpress+ (FOX+) which was Fidelity Investments' original desktop trading application available to all customer segments.
+I streamlined the configuration management and release engineering practices for FOX+, dramatically reduced the size of the downloadable product installer for FOX+ by 75% and successfully delivered quarterly releases of FOX+.
 
-* Achieved 4.5 out of 5 customer satisfaction ratings from the Active Trader Pro project stakeholders.
-
-* Streamlined the configuration management and release engineering practices for FOX+.
-
-* Dramatically reduced the size of the downloadable product installer for FOX+ by 75% (from 12MB to 3MB).
-
-* Successfully delivered quarterly releases of FOX+.
-
-* Achieved 5 out of 5 customer satisfaction ratings from the FOX+ project stakeholders.
+In addition to my project specific roles, I was a member of the Development Audit Team (DAT) and founding member of the Technical Review Board (TRB).
+The DAT audited projects to ensure they adhered to best practices from a project management perspective during the project initiation, requirements gathering and solution design phases.
+The TRB reviewed the proposed architectures and detailed designs of projects to ensure that those projects were technically feasible and following best practices.
 
 *Skills:* Java, {cpp}, Javascript, Struts, STL, MFC, RougeWave Libraries, COM/ATL, ADO, IBM WebSphere, Sybase, Solaris, Windows 95/NT/ME/2000, Eclipse, Visual {cpp}, Clearcase, LoadRunner, WinRunner, ClearQuest, Test Director
 
