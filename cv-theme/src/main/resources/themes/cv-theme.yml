@@ -13,14 +13,14 @@ page:
   size: A4
 vertical-spacing: 2
 base:
-  font-size: 11pt
+  font-size: 10pt
   font_family: Raleway
 heading:
-  font-size: 11pt
+  font-size: 10pt
   font-style: bold
-  h1-font-size: 11pt
-  h2-font-size: 11pt
-  h3-font-size: 11pt
+  h1-font-size: 10pt
+  h2-font-size: 10pt
+  h3-font-size: 10pt
 footer:
   height: 0.5in
   recto:
