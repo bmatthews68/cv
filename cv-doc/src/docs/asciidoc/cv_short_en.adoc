@@ -17,7 +17,6 @@ ROSTOV-ON-DON, +
 RUSSIA
 ! Phone    ! +7 961 310 5068
 ! E-mail   ! bmatthews68@gmail.com
-! Twitter  ! @bmatthews68
 ! LinkedIn ! http://ie.linkedin.com/in/bmatthews68
 ! GitHub   ! https://github.com/bmatthews68
 !===
