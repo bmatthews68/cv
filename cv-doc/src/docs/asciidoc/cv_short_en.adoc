@@ -36,33 +36,6 @@ I have worked with off-shore development teams in Tunisia, India, Singapore and 
 
 == Work History
 
-* <<Synchronoss>> 
-* <<THBS>>       
-* <<Daon>>      
-* <<Realex>>      
-* <<Fujitsu2>>  
-* <<Newbay>>    
-* <<LeasePlan>>   
-* <<DnB>>         
-* <<Fujitsu1>>   
-* <<Corvil>>     
-* <<Vodafone>>    
-* <<TerraNua>>    
-* <<Fidelity2>>  
-* <<KVH>>         
-* <<Fidelity1>>  
-* <<IFS>>         
-* <<ATT2>>    
-* <<IBM2>>        
-* <<Microsoft>>   
-* <<Lotus>>       
-* <<Lehman>>      
-* <<HP>>          
-* <<IBM1>>     
-* <<BR>>         
-* <<ATT1>>        
-* <<Polydata>>    
-
 [[Synchronoss]]
 == Contract Software Engineer @ Synchronoss, Dublin, Ireland (Jan '16 - Mar '24)
 
@@ -144,21 +117,10 @@ I migrated the bulk of the IdentityX code-base from a legacy Ant-based build sys
 [[Realex]]
 == Contract Software Engineer @ Realex Payments, Dublin, Ireland (Feb - Aug '13)
 
-At Realex Payments I was responsible for maintaining the Fraud Management module Real Control 2 used by merchant
-
-I was a member of an Agile team that developed and maintained tools such as the Fraud Management module of Real Control 2 and Hosted Payments Page.
-
-* Real Control 2 is the tool that merchants use to configure security checks for credit chard transactions.
-
-* Hosted Payments Page is a secure check-out solution for merchants that don't want to host their own solution.
-
-=== Achievements
-
-* Completed the Fraud Management module of RealControl 2.
-
-* Designed and implemented the white-labeling solution for Hosted Payments Page using Apache Jackrabbit and Thymeleaf.
-
-* Designed and implemented the integration with alternative payment methods (e.g. PayPal) and exchange rate quoting using Spring Integration.
+At Realex Payments, I was member of the team responsible for maintaining the Fraud Management module Real Control 2 and developing the Hosted Payments Page.
+Real Control 2 is the tool that merchants use to configure security checks for credit chard transactions.
+Hosted Payments Page is a secure check-out solution for merchants that don't want to host their own solution.
+I completed the Fraud Management module of ReadControl 2, Designed and implemented the white-labeling solution for Hosted Payments Page using Apache Jackrabbit and Thymeleaf, and designed and implemented the integration with alternative payment methods (e.g. PayPal) and exchange rate quoting using Spring Integration.
 
 *Skills:* Java, JavaScript, Spring, Spring Security, Spring Integration, Thymeleaf, Apache Jackrabbit, myBatis, Redhat Linux, SpringSource tcServer, SQL Server, Memcached, Eclipse, Maven
 
@@ -253,7 +215,6 @@ I created and maintained the blueprint and roadmap for the overall architecture 
 At Fidelity Investments, I played a leading role in three major product developments.
 
 I led the development team that ported Fidelity International Limited's (FIL) PlanViewer (http://www.planviewer.co.uk/) pension scheme administration application from a proprietary model-view-controller framework to Apache Struts 1.1.
-* Ported PlanViewer from a proprietary model-view-controller framework to Struts 1.1.
 
 I led one the 3 development teams that delivered ActiveTrader Pro (http://personal.fidelity.com/accounts/activetrader) which was a desktop trading application provided by Fidelity eBusiness to the high net worth and active trader market segments to access their brokerage accounts, place trades, receive streaming quotes and review market news.
 I also personally designed and implemented the framework for the user interface of ActiveTrader Pro using {cpp} and ActiveX used by all 3 development teams.
