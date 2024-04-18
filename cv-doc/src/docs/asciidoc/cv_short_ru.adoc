@@ -1,21 +1,21 @@
-= CV/Resumé - Brian Matthews
+= Резюме - Браин Томас Мэттьюс
 :csetpp: CSet++
 
-== Personal Details
+== Персональные данные
 
 [cols="2a,1a",frame=none,grid=none]
 |===
 |
 [cols="1h,3",frame=none,grid=none]
 !===
-! Name
-! BRIAN THOMAS MATTHEWS
-! Address
-! UL. 14-YA LINIYA, D. 70 KB. 10, +
-ROSTOV-ON-DON, +
+! Ф. И. О.
+! Браин Томас Мэттьюс
+! Адрес
+! ул. 14-я Линия, 70, кв. 10, +
+Ростов-на-Дону, +
 344019, +
-RUSSIA
-! Phone    ! +7 961 310 5068
+Россия
+! Мобильный    ! +7 961 310 5068
 ! E-mail   ! bmatthews68@gmail.com
 ! LinkedIn ! http://ie.linkedin.com/in/bmatthews68
 ! GitHub   ! https://github.com/bmatthews68
@@ -24,14 +24,14 @@ RUSSIA
 image:images/me.jpg[]
 |===
 
-I am an IT professional with 35 years hands-on experience developing and delivering solutions for the banking/finance, government, insurance, software, telecommunications and transportation industries on Java and .NET stacks.
-My preferred technology stack is Java and Spring Boot.
+Я являюсь профессионалом с 35-летним опытом разработки, внедрения и предоставления решений для банковской/финансовой, государственной? страховой, программной, телекоммуникационной и транспортной отраслей на основе стеков Java и .NET.
+Я предпочитаю использовать Java и Spring Boot.
 
-I have over 20 years project management experience using waterfall-based, iterative and agile software development life cycles.
-I am a practitioner of the SCRUM agile project management technique but have complete a post-graduate diploma in traditional project management with the Open University.
+У меня более чем 20-летний опыт управления проектами с использованием каскадных, итеративных и гибких жизненных циклов разработки программного обеспечения.
+Я использую методику гибкого управления проектами SCRUM, но также получил диплом аспиранта по традиционному управлению проектами в The Open University.
 
-I have experience coordinating development teams based across multiple geographic locations and time zones.
-I have worked with off-shore development teams in Tunisia, India, Singapore and Philippines and I have worked in Ireland, UK, France, USA, Japan, Tunisia, and Russia.
+У меня есть опыт координации команд разработчиков, работающих в разных географических точках и часовых поясах.
+Я работал с оффшорными командами разработчиков в Тунисе, Индии, Сингапуре и на Филиппинах, а также в Ирландии, Великобритании, Франции, США, Японии, Тунисе и России.
 
 == Work History
 
