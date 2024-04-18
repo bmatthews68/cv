@@ -8,17 +8,16 @@
 |
 [cols="1h,3",frame=none,grid=none]
 !===
-! Ф. И. О.
-! Браин Томас Мэттьюс
+! Ф. И. О.  ! Браин Томас Мэттьюс
 ! Адрес
 ! ул. 14-я Линия, 70, кв. 10, +
 Ростов-на-Дону, +
 344019, +
 Россия
-! Мобильный    ! +7 961 310 5068
-! E-mail   ! bmatthews68@gmail.com
-! LinkedIn ! http://ie.linkedin.com/in/bmatthews68
-! GitHub   ! https://github.com/bmatthews68
+! Мобильный ! +7 961 310 5068
+! E-mail    ! bmatthews68@gmail.com
+! LinkedIn  ! http://ie.linkedin.com/in/bmatthews68
+! GitHub    ! https://github.com/bmatthews68
 !===
 |
 image:images/me.jpg[]
@@ -33,7 +32,7 @@ image:images/me.jpg[]
 У меня есть опыт координации команд разработчиков, работающих в разных географических точках и часовых поясах.
 Я работал с оффшорными командами разработчиков в Тунисе, Индии, Сингапуре и на Филиппинах, а также в Ирландии, Великобритании, Франции, США, Японии, Тунисе и России.
 
-== Work History
+== Опыт работы
 
 [[Synchronoss]]
 == Инженер-программист по контракту @ Synchronoss, Дублин, Ирландия (01/16-03/24)
