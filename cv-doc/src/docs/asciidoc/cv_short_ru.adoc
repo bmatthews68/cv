@@ -108,156 +108,156 @@ I worked on-site with eir (http://www.eir.ie) leading the development, deploymen
 [[Daon]]
 == Инженер-программист по контракту @ Daon, Дублин, Ирландия (09-12/13)
 
-At Daon, I worked independently developing features for the IdentityX product suite (http://www.identityx.com) which uses biometric and multi-factor authentication to secure banking transactions on mobile devices.
-I migrated the bulk of the IdentityX code-base from a legacy Ant-based build system to a Maven-based one, implemented the support for RSA SecurID based authentication for IdentityX, and introduced the Jasmine test framework to unit test the server-side JavaScript scripts that glued together many of the modules of the IdentityX server component.
+В Daon я самостоятельно разрабатывал функции для пакета продуктов IdentityX (http://www.identityx.com), который использует биометрическую и многофакторную аутентификацию для обеспечения безопасности банковских транзакций на мобильных устройствах.
+Я перенес основную часть кодовой базы IdentityX из устаревшей системы сборки на основе Ant в систему на основе Maven, реализовал поддержку аутентификации на основе RSA SecurID для IdentityX и внедрил тестовую платформу Jasmine для модульного тестирования серверных JavaScript-скриптов, которые объединяли многие модули системы серверного компонента IdentityX.
 
 *Навыки:* Java, JavaScript, Spring, Jasmine, Redhat Linux, Windows Server, Tomcat, Oracle, SQL Server, MySQL, Eclipse, Subversion, Maven, Ant, Jenkins
 
 [[Realex]]
 == Инженер-программист по контракту @ Realex Payments, Дублин, Ирландия (02-08/13)
 
-At Realex Payments, I was member of the team responsible for maintaining the Fraud Management module Real Control 2 and developing the Hosted Payments Page.
-Real Control 2 is the tool that merchants use to configure security checks for credit chard transactions.
-Hosted Payments Page is a secure check-out solution for merchants that don't want to host their own solution.
-I completed the Fraud Management module of ReadControl 2, Designed and implemented the white-labeling solution for Hosted Payments Page using Apache Jackrabbit and Thymeleaf, and designed and implemented the integration with alternative payment methods (e.g. PayPal) and exchange rate quoting using Spring Integration.
+В Realex Payments я был членом команды, ответственной за поддержку модуля Fraud Management в RealControl 2 и разработку Hosted Payments Page.
+RealControl 2 - это инструмент, который продавцы используют для настройки проверок безопасности транзакций по кредитным картам.
+Hosted Payments Page - это безопасное решение для оформления заказа для продавцов, которые не хотят размещать свое собственное решение.
+Я завершил разработку модуля Fraud Management в RealControl 2, разработал и внедрил решение для белой маркировки Hosted Payments Page с использованием Apache Jackrabbit и Thymeleaf, а также разработал и внедрил интеграцию с альтернативными способами оплаты (например, PayPal) и определения обменного курса с помощью Spring Integration.
 
 *Навыки:* Java, JavaScript, Spring, Spring Security, Spring Integration, Thymeleaf, Apache Jackrabbit, myBatis, Redhat Linux, SpringSource tcServer, SQL Server, Memcached, Eclipse, Maven
 
 [[Fujitsu2]]
 == Инженер-программист по контракту @ Fujitsu, Дублин, Ирландия (01-02/13)
 
-At Fujitsu, I implemented document management features of Road Transport Operator Licencing application using OpenCMIS and Alfresco.
+В Fujitsu я внедрил функции управления документами в приложение для лицензирования операторов автомобильного транспорта, используя OpenCMIS и Alfresco.
 
 *Навыки:* Java, Spring Framework, Tomcat, JSF, OpenCMIS, Alfresco
 
 [[Newbay]]
 == Инженер-программист по контракту @ Newbay, Дублин, Ирландия (01-10/12)
 
-At Newbay, I developed and maintained SyncDrive, which was a white label application offered to mobile phone operators to allow users synchronize content between their PCs, mobile devices and cloud based storage.
-Initially, I resolved high priority defects in order to complete the first version of SyncDrive for Mac OS X and deliver on time to the operator.
-Then I extensively refactored the code-base to separate presentation, business logic and data concerns in order to eliminate inherent race conditions in the synchronization process and make it possible to write more comprehensive unit tests.
+В Newbay я разработал и поддерживал SyncDrive, которое представляло собой приложение white label, предлагаемое операторам мобильной связи, позволяющее пользователям синхронизировать контент между своими ПК, мобильными устройствами и облачными хранилищами.
+Первоначально я устранил дефекты с высоким приоритетом, чтобы завершить работу над первой версией драйвера Isync для Mac OS X и вовремя доставить ее оператору.
+Затем я провел обширный рефакторинг базы кода, разделив задачи представления, бизнес-логики и обработки данных, чтобы устранить присущие процессу синхронизации условия "гонки" и сделать возможным написание более полных модульных тестов.
 
 *Навыки:* Objective-C, CoreData, Cocoa, OSXFUSE, OCMock, Growl, MacOS X 10.6+, XCode 4, Perforce, JIRA, Confluence, Bamboo, Nexus, Maven
 
 [[LeasePlan]]
 == Инженер-программист по контракту @ LeasePlan, Дублин, Ирландия (07/11-01/12)
 
-At LeasePlan, I was re-engineering their Internet Quotation web application to improve the user experience and address security concerns raised by external auditors.
-I migrated the code base from Spring 2 to Spring 3, implemented support for dynamic look and feel using Apache Jackrabbit as the content repository to allow individual business units and brokers have distinct look and feels, and addressed performance issues when proxying remote content (car images) provided by 3rd party systems by introducing caching and image scaling
+В компании LeasePlan я занимался реинжинирингом их веб-приложения Internet Quotation, чтобы улучшить работу пользователей и решить проблемы безопасности, поднятые внешними аудиторами.
+Я перенес базу кода с Spring 2 на Spring 3, реализовал поддержку динамического внешнего вида, используя Apache Jackrabbit в качестве хранилища контента, чтобы отдельные бизнес-подразделения и брокеры могли по-разному выглядеть, и устранил проблемы с производительностью при проксировании удаленного контента (изображений автомобилей), предоставляемого сторонними системами, введя кэширование и улучшив интерфейс. масштабирование изображения
 
 *Навыки:* Java, Javascript, Spring, Spring Security, Struts 2, SQLMaps, Apache Jackrabbit, iSeries, WebShphere, WebSphereMQ, Maven, Subversion, JIRA, Greenhopper, Artifactory, Selenium, Eclipse
 
 [[DnB]]
 == Технический архитектор по контракту @ D&B, Дублин, Ирландия (05–07/11)
 
-I was taken on by D&B to be an architect on user interface and input handler components of their new Data Supply Chain infrastructure.
-The Data Supply Chain infrastructure is responsible for processing all inbound data used by D&B to accumulate business intelligence, derive linkage information and calculate credit scores.
-The project had not progressed past the requirements gathering phase when I left.
+D&B наняла меня в качестве разработчика пользовательского интерфейса и компонентов обработки входных данных для их новой инфраструктуры цепочки поставок данных.
+Инфраструктура цепочки поставок данных отвечает за обработку всех входящих данных, используемых D&B для сбора бизнес-аналитики, получения информации о связях и расчета кредитных баллов.
+Когда я уходил, проект еще не продвинулся дальше этапа сбора требований.
 
 [[Fujitsu1]]
 == Технический архитектор по контракту @ Fujitsu, Дублин, Ирландия (06/10–04/11)
 
-At Fujitsu I designed and implemented solutions for the Irish Department of Transport and the Irish Courts Service.
-I designed the integration for the Department of Transport with its equivalents in other EU jurisdictions to share driver, vehicle and owner information using Oracle SOA Suite 10g, implemented web services to allow the Road Safety Authority and Taxi Regulator access the driver and vehicle database maintained by the Department of Transport and implemented a web service and front end to allow vehicle owners recover the PIN they need to pay motor tax online.
-I proposed the development toolset and open source technology stack for the Irish Courts Service and designed and led the implementation a proof of concept for the Irish Courts Service to allow plaintiffs seek judgements for liquidated sums online using JBoss, Spring, Spring Web Services, Hibernate and JBoss ESB.
-In addition, I upgraded the integration of Murex trading and SWIFT settlement systems at KBC Bank.
+В Fujitsu я разрабатывал и внедрял решения для Министерства транспорта Ирландии и Ирландской судебной службы.
+Я разработал интеграцию для Министерства транспорта с его аналогами в других юрисдикциях ЕС для обмена информацией о водителях, транспортных средствах и владельцах с использованием Oracle SOA Suite 10g, внедрил веб-сервисы, позволяющие Управлению по безопасности дорожного движения и регулированию такси получать доступ к базе данных водителей и транспортных средств, которую ведет Министерство транспорта, а также внедрил веб-сервис и интерфейс, позволяющий владельцам транспортных средств восстановить PIN-код, необходимый им для оплаты автомобильного налога онлайн.
+Я предложил набор инструментов для разработки и стек технологий с открытым исходным кодом для Ирландской судебной службы, а также разработал и руководил внедрением концепции для Ирландской судебной службы, которая позволит истцам добиваться судебных решений по ликвидированным суммам онлайн, используя JBoss, Spring, Spring Web Services, Hibernate и JBoss ESB.
+Кроме того, я улучшил интеграцию торговых систем Murex и расчетов SWIFT в KBC Bank.
 
 *Навыки:* Java, Shell Scripting, BPEL, Javascript, Spring, Spring Security, Spring Webflow, Spring Web Services, Hibernate, EHCache, jBPM, Drools, Solaris, WebSphere MQ, OC4J, JBoss, Oracle SOA Suite, JBossESB, Apache, OpenLDAP, Active Directory, MySQL, Ingres, Oracle, Maven, ANT, Fisheye, Bamboo, Crucible, Proximity, Grinder, JMeter, Benerator, Eclipse
 
 [[Corvil]]
 == Инженер-программист по контракту @ Corvil, Дублин, Ирландия (10/09 -06/10)
 
-At Corvil (http://www.corvil.com), I developed decoders to handle market data feed, trading and middle-ware protocols in order to perform gap detection and message correlation within their latency analysis tools.
-I implemented a generic template driven decoder that exceeded the performance targets handling feeds from the Deutsche Börse, London, NASDAQ, NYSE, Tokyo and Osaka exchanges and a custom decoder for Tibco Rendezvous by reverse engineering sample traffic.
+В Corvil (http://www.corvil.com) я разработал декодеры для обработки рыночных данных, торговых протоколов и промежуточного программного обеспечения, чтобы выполнять обнаружение пробелов и корреляцию сообщений в рамках их инструментов анализа задержек.
+Я внедрил универсальный декодер, управляемый шаблонами, который превысил целевые показатели по производительности, обрабатывая потоки с бирж Deutsche Börse, Лондона, NASDAQ, NYSE, Токио и Осаки, а также пользовательский декодер для Tibco Rendezvous путем обратного проектирования выборочного трафика.
 
 *Навыки:* {cpp}, PERL, Python, Boost, STL, Expat, Xerces, BSD Linux, g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Valgrind
 
 [[Vodafone]]
 == Технический архитектор по контракту @ Vodafone, Лондон, Великобритания (02-09/09)
 
-At Vodafone, I was the technical architect for My Web (http://myweb.vodafone.com), Vodafone’s new mobile portal that evolved into Vodafone 360.
-It was originally launched for Egypt, Germany, Greece, Ireland, Italy, Netherlands, Portugal, Spain, South Africa, Turkey and UK in 2009.
-I re-designed the software architecture to ensure the system would meet non-functional performance and stability requirements to support an initial active user base  of 7.5m with a peak load of 1,600 page views per second.
-In addition, I migrated the build and improved the automation from ANT to Maven 2.
+В Vodafone я был техническим архитектором My Web (http://myweb.vodafone.com), нового мобильного портала Vodafone, который впоследствии превратился в Vodafone 360.
+Первоначально он был запущен для Египта, Германии, Греции, Ирландии, Италии, Нидерландов, Португалии, Испании, Южной Африки, Турции и Великобритании в 2009 году.
+Я переработал архитектуру программного обеспечения, чтобы система соответствовала требованиям к нефункциональной производительности и стабильности и поддерживала первоначальную базу активных пользователей в 7,5 млн человек с пиковой нагрузкой в 1600 просмотров страниц в секунду.
+Кроме того, я перенес сборку и улучшил автоматизацию с ANT на Maven 2.
 
 *Навыки:* Java, PHP, Javascript, Spring, Spring LDAP, Struts, Hibernate, EHCache, JGroups, Apache Commons, OSGi, Ext/JS, JBoss AS, Apache Felix, Apache HTTPD Server, Oracle 10g, Solaris, Maven, Hudson, Archiva, Eclipse, Subversion, Grinder, JProbe, Mercury Quality Centre
 
 [[TerraNua]]
 == Директор @ TerraNua, Дублин, Ирландия & Тунис, Тунис (08/06 – 07/08)
 
-At TerraNua, I was mainly responsible for designing the architecture and overseeing the implementation of MyComplianceOffice (http://www.mycomplianceoffice.com/) which was a “Software as a Service” (SaaS) hosted/multi-tenant solution that allows US-based registered investment advisors and hedge funds manage their compliance related business processes.
-I designed the physical and software architecture for MyComplianceOffice using portal server, workflow and document management technologies, recruited and led the development team for release 1.0, led the architecture team.
-I later relocated to Tunisia to recruit and  mentor an offshore development team.
+В TerraNua я в основном отвечал за разработку архитектуры и надзор за внедрением MyComplianceOffice (http://www.mycomplianceoffice.com /), который представлял собой размещенное на хостинге мультитенантное решение “Программное обеспечение как услуга” (SaaS), позволяющее зарегистрированным в США инвестиционным консультантам и хедж-фондам управлять своими бизнес-процессами, связанными с соблюдением требований законодательства.
+Я спроектировал физическую и программную архитектуру для MyComplianceOffice, используя сервер портала, технологии документооборота и управления документами, набрал команду разработчиков для выпуска 1.0 и возглавил команду по архитектуре.
+Позже я переехал в Тунис, чтобы набрать команду оффшорных разработчиков и стать их наставником.
 
 *Навыки:* Java, Javascript, Spring, Acegi, Spring Web Services, Apache Axis, Spring LDAP, Hibernate, Compass, Lucene, Quartz, Drools, JUG, CGLIB, EhCache, Shark, Jetspeed 2, IBM WebSphere, Netscape iPlanet, SunONE Directory Server, Documentum, Oracle 10g, Solaris, Maven, Continuum, Archiva, Eclipse, Clearcase, Apache HTTP Server, Apache Tomcat, Oracle XE, Windows, Sharepoint, JIRA, LoadRunner, QuickTest Pro, MediaWiki
 
 [[Fidelity2]]
 == Консультант по информационной безопасности @ Fidelity Investments, Дублин, Ирландия (10/05-07/06)
 
-When I returned to Fidelity Investments from my secondment to KVH I was the architect supporting teams responsible for developing and maintaining Fidelity Investments' enterprise-wide identity management, automated access provisioning, risk management and reporting system.
-The core components were an intranet facing application for raising and processing access requests developed in ASP.NET and workflow engine that integrated the various 3rd party solutions and automate the provisioning processes that I designed and implemented using NxBRE rules engine.
+Когда я вернулся в Fidelity Investments после моего прикомандирования к KVH, я был архитектором, поддерживающим команды, ответственные за разработку и сопровождение системы управления идентификационными данными в масштабах предприятия Fidelity Investments, автоматизированного предоставления доступа, управления рисками и отчетности.
+Основными компонентами были выходящее в Интернет приложение для сбора и обработки запросов на доступ, разработанное в ASP.NET и механизм документооборота, который интегрировал различные сторонние решения и автоматизировал процессы подготовки, которые я разработал и внедрил с помощью механизма правил NxBRE.
 
 *Навыки:* C#, .NET, ASP.NET, NxBRE, IIS, Active Directory, Oracle 9i, Sun Identity Manager, BMC Enterprise Security Station, Windows 2003 Server, Solaris, Visual Studio, Clearcase, ClearQuest
 
 [[KVH]]
 == Ведущий системный архитектор @ KVH, Токио, Япония (10/03–09/05)
 
-I was seconded to a private telecommunications company owned by Fidelity Investments called KVH.
-At KVH I reported to the CIO but also worked closely with the CTO and CFO designing the integration of and supporting the implementation of Business and Operations Support Systems.
-I created and maintained the blueprint and roadmap for the overall architecture of the OSS/BSS platform, conducted product evaluations and engaged in vendor negotiations, designed and supported the development of eKVH (http://ekvh.co.jp/) - a Business to Consumer (B2C) portal developed using BEA WebLogic Portal by an outsourced team in India, and designed and developed a Business to Employee (B2E) portal implemented in Struts.
+Я был прикомандирован к частной телекоммуникационной компании KVH, принадлежащей Fidelity Investments.
+В KVHI я подчинялся директору по информационным технологиям, но также тесно сотрудничал с техническим директором и финансовым директором по финансированию, разрабатывая интеграцию и поддерживая внедрение систем поддержки бизнеса и операций.
+Я создал и поддерживал план и дорожную карту для общей архитектуры платформы OSS/BSS, проводил оценку продукта и участвовал в переговорах с поставщиками, проектировал и поддерживал разработку eKVH (http://ekvh.co.jp /) - портал Business to Consumer (B2C), разработанный с использованием портала BEA WebLogic командой аутсорсеров в Индии, и разработанный портал Business to Employee (B2E), реализованный в Struts.
 
 *Навыки:* Java, Struts, Apache FOP, Hibernate, Velocity, BEA WebLogic Portal, Tomcat, webMethods, Siebel, Oracle eBusiness Suite, Portal Infranet, Micromuse Netcool, Infovista, Eclipse, CVS, LoadRunner, QuickTest Pro
 
 [[Fidelity1]]
 == Главный консультант @ Fidelity Investments, Дублин, Ирландия (06/00–09/03)
 
-At Fidelity Investments, I played a leading role in three major product developments.
+В Fidelity Investments я играл ведущую роль в разработке трех основных продуктов.
 
-I led the development team that ported Fidelity International Limited's (FIL) PlanViewer (http://www.planviewer.co.uk/) pension scheme administration application from a proprietary model-view-controller framework to Apache Struts 1.1.
+Я возглавлял команду разработчиков, которая портировала приложение для администрирования пенсионных программ Fidelity International Limited (FIL) PlanViewer (http://www.planviewer.co.uk/) с собственной платформы model-view-controller на Apache Struts 1.1.
 
-I led one the 3 development teams that delivered ActiveTrader Pro (http://personal.fidelity.com/accounts/activetrader) which was a desktop trading application provided by Fidelity eBusiness to the high net worth and active trader market segments to access their brokerage accounts, place trades, receive streaming quotes and review market news.
-I also personally designed and implemented the framework for the user interface of ActiveTrader Pro using {cpp} and ActiveX used by all 3 development teams.
+Я возглавлял одну из трех команд разработчиков, которые разработали ActiveTrader Pro (http://personal.fidelity.com/accounts/activetrader) - торговое приложение для ПК, предоставляемое компанией Fidelity eBusiness для состоятельных и активных трейдеров, позволяющее им получать доступ к своим брокерским счетам, совершать сделки, получать потоковые котировки и просматривать новости рынка.
+Я также лично разработал и внедрил фреймворк для пользовательского интерфейса ActiveTrader Pro, используя {cpp} и ActiveX, используемые всеми тремя командами разработчиков.
 
-I acted as the product manager for Fidelity Online Xpress+ (FOX+) which was Fidelity Investments' original desktop trading application available to all customer segments.
-I streamlined the configuration management and release engineering practices for FOX+, dramatically reduced the size of the downloadable product installer for FOX+ by 75% and successfully delivered quarterly releases of FOX+.
+Я работал менеджером по продуктам в Fidelity Online Xpress+ (FOX+), которая была оригинальным торговым приложением Fidelity Investments для ПК, доступным для всех сегментов клиентов.
+Я упростил управление конфигурацией и разработку релизов для FOX+, значительно сократил размер загружаемого установщика продукта для FOX+ на 75% и успешно выпускал ежеквартальные версии FOX+.
 
-In addition to my project specific roles, I was a member of the Development Audit Team (DAT) and founding member of the Technical Review Board (TRB).
-The DAT audited projects to ensure they adhered to best practices from a project management perspective during the project initiation, requirements gathering and solution design phases.
-The TRB reviewed the proposed architectures and detailed designs of projects to ensure that those projects were technically feasible and following best practices.
+В дополнение к своим обязанностям, связанным с конкретными проектами, я был членом Группы аудита разработки (DAT) и одним из основателей Совета по техническому обзору (TRB).
+DAT провел аудит проектов, чтобы убедиться, что они соответствуют лучшим практикам с точки зрения управления проектами на этапах инициирования проекта, сбора требований и разработки решений.
+TRB проанализировал предлагаемые архитектуры и подробные проекты проектов, чтобы убедиться, что эти проекты технически осуществимы и соответствуют лучшим практикам.
 
 *Навыки:* Java, {cpp}, Javascript, Struts, STL, MFC, RougeWave Libraries, COM/ATL, ADO, IBM WebSphere, Sybase, Solaris, Windows 95/NT/ME/2000, Eclipse, Visual {cpp}, Clearcase, LoadRunner, WinRunner, ClearQuest, Test Director
 
 [[IFS]]
 == Менеджер по разработке программного обеспечения @ IFS, Дублин, Ирландия (08/99-05/00)
 
-I joined IFS as the Senior Software Architect to design the architecture for a new margin trading system that would replace the company's existing thick client product offering called MarginMan.
-I designed the architecture for the new CORBA based n-tier collateralized margin trading system and then took on the role of Software Development Manager with responsibility for teams based in Dublin, Singapore and Manila
+Я присоединился к IFS в качестве старшего архитектора программного обеспечения, чтобы разработать архитектуру новой системы маржинальной торговли, которая заменила бы существующий продукт компании для крупных клиентов под названием MarginMan.
+Я разработал архитектуру для новой многоуровневой системы маржинальной торговли на базе CORBA, а затем взял на себя роль менеджера по разработке программного обеспечения, отвечающего за команды, базирующиеся в Дублине, Сингапуре и Маниле.
 
 *Навыки:* {cpp}, Orbix, Microsoft Foundation Classes, Windows NT, Visual {cpp}, Visual SourceSafe
 
 [[ATT2]]
 == Технический руководитель по контракту @ AT&T Labs, Реддич, Великобритания (10/98–07/99)
 
-At AT&T Labs I worked for the IP Technology Organization developing a platform to construct and manage network services called Common Open IP Platform (COIPP).
-I provided CORBA expertise to the team responsible for implementing the middle-tier components of the provisioning, billing and management systems, ported existing components from Orbix to VisiBroker and assisted the team that ported the existing components from Windows to Solaris.
-In addition, I migrated the team’s version control solution from PVCS to Clearcase.
+В AT&T Labs я работал в организации, занимающейся IP-технологиями, и разрабатывал платформу для создания сетевых сервисов и управления ими под названием Common Open IP Platform (COIPP).
+Я предоставил опыт работы с CORBA команде, ответственной за внедрение компонентов среднего уровня для систем подготовки, выставления счетов и управления, перенес существующие компоненты с Orbix на VisiBroker и помогал команде, которая конвертировала существующие компоненты с Windows на Solaris.
+Кроме того, я конвертировал командное решение для управления версиями с PVCS на Clearcase.
 
 *Навыки:* Java, {cpp}, Orbix, VisiBroker, MQSeries, Oracle, Solaris, Visual {cpp}, Sun {cpp}, Clearcase, PVCS
 
 [[IBM2]]
 == Руководитель проекта по контракту @ IBM, Дублин, Ирландия (10/97–09/98)
 
-At IBM I worked with the Insurance Solutions Development Centre developing a customer relationship management application for insurance companies called Client Information & Integration System (CIIS).
-I led the teams that designed the overall architecture for CIIS and developed the middle-tier components.
+В IBM я работал в Центре разработки страховых решений, разрабатывая приложение для управления взаимоотношениями с клиентами для страховых компаний под названием Client Information & Integration System (CIIS).
+Я возглавлял команды, которые разрабатывали общую архитектуру для CIIS и компоненты среднего уровня.
 
 *Навыки:* Java, {cpp}, Swing, Orbix, OrbixWeb, DB2, Solaris, Visual {cpp}, Visual SourceSafe, make
 
 [[Microsoft]]
 == Инженер-программист по контракту @ Microsoft, Сиэтл, Вашингтон, США (04/96–09/97)
 
-At Microsoft I worked for the Infrastructure and Automation Tools team.
-I was responsible for developing agents that were installed on over 3,000 file, database, e-mail, web and proxy servers to collect usage metrics.
-Those metrics were used to predict future server and disk space needs.
+В Microsoft я работал в команде разработчиков инфраструктуры и средств автоматизации.
+Я отвечал за разработку агентов, которые были установлены на более чем 3000 файловых, баз данных, почтовых, веб- и прокси-серверах для сбора показателей использования.
+Эти показатели использовались для прогнозирования будущих потребностей в серверном и дисковом пространстве.
 
 *Навыки:* {cpp}, Windows SDK, Microsoft Foundation Classes, SQL Server, Windows NT, Visual {cpp}, Visual SourceSafe
 
