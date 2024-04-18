@@ -36,7 +36,7 @@ image:images/me.jpg[]
 == Work History
 
 [[Synchronoss]]
-== Contract Software Engineer @ Synchronoss, Dublin, Ireland (Jan '16 - Mar '24)
+== Инженер-программист по контракту @ Synchronoss, Дублин, Ирландия (01/16-03/24)
 
 I have worked on several of the core services, and many of the shared libraries, of Synchronoss' Personal Cloud product suite (https://synchronoss.com/products/cloud/personal-cloud-solution/). Personal Cloud is used by mobile telecommunications providers such as Verizon, AT&T, SoftBank and BT.
 
@@ -52,7 +52,7 @@ I have worked on several of the core services, and many of the shared libraries,
 
 * Smart Albums -- uses geo-location and timestamp information in images and videos to automatically create and maintain albums as content is being uploaded to Digital Vault.
 
-=== Achievements
+=== Достижения
 
 * Re-designed the processing pipe-line of the Smart Album component to increase through-put and avoid the need for expensive rollback operations.
 
@@ -74,14 +74,14 @@ I have worked on several of the core services, and many of the shared libraries,
 
 * Troubleshooting issues with customer deployments
 
-*Skills:* Java, Groovy, Spring, Spring Boot, Spring Cloud, Spring Security, Spring Data, JAX-RS (Jersey), Docker, Kubernetes, Cassandra, MariaDB/MySQL, Oracle, Eureka, Memcached, Kafka, RabbitMQ, SwiftMQ, MacOS, Linux, Git, Maven, Gradle, Helm, JIRA, Bamboo, Confluence, Stash/Bitbucket, AsciiDoctor, Docbook, Cucumber, Sonar, NexusIQ, Fortify
+*Навыки:* Java, Groovy, Spring, Spring Boot, Spring Cloud, Spring Security, Spring Data, JAX-RS (Jersey), Docker, Kubernetes, Cassandra, MariaDB/MySQL, Oracle, Eureka, Memcached, Kafka, RabbitMQ, SwiftMQ, MacOS, Linux, Git, Maven, Gradle, Helm, JIRA, Bamboo, Confluence, Stash/Bitbucket, AsciiDoctor, Docbook, Cucumber, Sonar, NexusIQ, Fortify
 
 [[THBS]]
-== Contract Portal Lead @ Torry Harris Business Solutions, Dublin, Ireland (Jan '14 - Dec '15)
+== Ведущий специалист портала по контрактy @ Torry Harris Business Solutions, Дублин, Ирландия (01/14-12/15)
 
 I worked on-site with eir (http://www.eir.ie) leading the development, deployment and integration of portal projects for business customers (https://advantagemanager.eir.ie).
 
-=== Achievements
+=== Достижения
 
 * Led the deployment and integration of the Loki Portals (http://www.leonidsystems.com/products/lokiportals) self-care portal for the VoIP services of the SIP Trunking, Mobile Extension and Hosted Office projects at eir (http://www.eir.ie).
 
@@ -103,113 +103,113 @@ I worked on-site with eir (http://www.eir.ie) leading the development, deploymen
 
 * Created RESTful and SOAP web services to support user provisioning by internal order processing systems and external vendor platforms.
 
-*Skills:* Java, JavaScript, Ruby, PHP, Spring, Spring Security, Spring Security SAML, Spring Web Services, Thymeleaf, Smarty Templates, jQuery, AngularJS, Bootstrap, SimpleSAMLphp, Redhat Linux, Windows Server, Tomcat, SQL Server, MySQL, OpenAM, OpenDJ, Memcached, Postfix, IntelliJ, Git, Maven, Grunt, Jenkins, Chef, Vagrant, Docbook
+*Навыки:* Java, JavaScript, Ruby, PHP, Spring, Spring Security, Spring Security SAML, Spring Web Services, Thymeleaf, Smarty Templates, jQuery, AngularJS, Bootstrap, SimpleSAMLphp, Redhat Linux, Windows Server, Tomcat, SQL Server, MySQL, OpenAM, OpenDJ, Memcached, Postfix, IntelliJ, Git, Maven, Grunt, Jenkins, Chef, Vagrant, Docbook
 
 [[Daon]]
-== Contract Software Engineer @ Daon, Dublin, Ireland (Sep - Dec '13)
+== Инженер-программист по контракту @ Daon, Дублин, Ирландия (09-12/13)
 
 At Daon, I worked independently developing features for the IdentityX product suite (http://www.identityx.com) which uses biometric and multi-factor authentication to secure banking transactions on mobile devices.
 I migrated the bulk of the IdentityX code-base from a legacy Ant-based build system to a Maven-based one, implemented the support for RSA SecurID based authentication for IdentityX, and introduced the Jasmine test framework to unit test the server-side JavaScript scripts that glued together many of the modules of the IdentityX server component.
 
-*Skills:* Java, JavaScript, Spring, Jasmine, Redhat Linux, Windows Server, Tomcat, Oracle, SQL Server, MySQL, Eclipse, Subversion, Maven, Ant, Jenkins
+*Навыки:* Java, JavaScript, Spring, Jasmine, Redhat Linux, Windows Server, Tomcat, Oracle, SQL Server, MySQL, Eclipse, Subversion, Maven, Ant, Jenkins
 
 [[Realex]]
-== Contract Software Engineer @ Realex Payments, Dublin, Ireland (Feb - Aug '13)
+== Инженер-программист по контракту @ Realex Payments, Дублин, Ирландия (02-08/13)
 
 At Realex Payments, I was member of the team responsible for maintaining the Fraud Management module Real Control 2 and developing the Hosted Payments Page.
 Real Control 2 is the tool that merchants use to configure security checks for credit chard transactions.
 Hosted Payments Page is a secure check-out solution for merchants that don't want to host their own solution.
 I completed the Fraud Management module of ReadControl 2, Designed and implemented the white-labeling solution for Hosted Payments Page using Apache Jackrabbit and Thymeleaf, and designed and implemented the integration with alternative payment methods (e.g. PayPal) and exchange rate quoting using Spring Integration.
 
-*Skills:* Java, JavaScript, Spring, Spring Security, Spring Integration, Thymeleaf, Apache Jackrabbit, myBatis, Redhat Linux, SpringSource tcServer, SQL Server, Memcached, Eclipse, Maven
+*Навыки:* Java, JavaScript, Spring, Spring Security, Spring Integration, Thymeleaf, Apache Jackrabbit, myBatis, Redhat Linux, SpringSource tcServer, SQL Server, Memcached, Eclipse, Maven
 
 [[Fujitsu2]]
-== Contract Software Engineer @ Fujitsu, Dublin, Ireland (Jan - Feb '13)
+== Инженер-программист по контракту @ Fujitsu, Дублин, Ирландия (01-02/13)
 
 At Fujitsu, I implemented document management features of Road Transport Operator Licencing application using OpenCMIS and Alfresco.
 
-*Skills:* Java, Spring Framework, Tomcat, JSF, OpenCMIS, Alfresco
+*Навыки:* Java, Spring Framework, Tomcat, JSF, OpenCMIS, Alfresco
 
 [[Newbay]]
-== Contract Software Engineer @ Newbay, Dublin, Ireland (Jan - Oct '12)
+== Инженер-программист по контракту @ Newbay, Дублин, Ирландия (01-10/12)
 
 At Newbay, I developed and maintained SyncDrive, which was a white label application offered to mobile phone operators to allow users synchronize content between their PCs, mobile devices and cloud based storage.
 Initially, I resolved high priority defects in order to complete the first version of SyncDrive for Mac OS X and deliver on time to the operator.
 Then I extensively refactored the code-base to separate presentation, business logic and data concerns in order to eliminate inherent race conditions in the synchronization process and make it possible to write more comprehensive unit tests.
 
-*Skills:* Objective-C, CoreData, Cocoa, OSXFUSE, OCMock, Growl, MacOS X 10.6+, XCode 4, Perforce, JIRA, Confluence, Bamboo, Nexus, Maven
+*Навыки:* Objective-C, CoreData, Cocoa, OSXFUSE, OCMock, Growl, MacOS X 10.6+, XCode 4, Perforce, JIRA, Confluence, Bamboo, Nexus, Maven
 
 [[LeasePlan]]
-== Contract Software Engineer @ LeasePlan, Dublin, Ireland (Jul '11 - Jan '12)
+== Инженер-программист по контракту @ LeasePlan, Дублин, Ирландия (07/11-01/12)
 
 At LeasePlan, I was re-engineering their Internet Quotation web application to improve the user experience and address security concerns raised by external auditors.
 I migrated the code base from Spring 2 to Spring 3, implemented support for dynamic look and feel using Apache Jackrabbit as the content repository to allow individual business units and brokers have distinct look and feels, and addressed performance issues when proxying remote content (car images) provided by 3rd party systems by introducing caching and image scaling
 
-*Skills:* Java, Javascript, Spring, Spring Security, Struts 2, SQLMaps, Apache Jackrabbit, iSeries, WebShphere, WebSphereMQ, Maven, Subversion, JIRA, Greenhopper, Artifactory, Selenium, Eclipse
+*Навыки:* Java, Javascript, Spring, Spring Security, Struts 2, SQLMaps, Apache Jackrabbit, iSeries, WebShphere, WebSphereMQ, Maven, Subversion, JIRA, Greenhopper, Artifactory, Selenium, Eclipse
 
 [[DnB]]
-== Contract Technical Architect @ D&B, Dublin, Ireland (May – Jul '11)
+== Технический архитектор по контракту @ D&B, Дублин, Ирландия (05–07/11)
 
 I was taken on by D&B to be an architect on user interface and input handler components of their new Data Supply Chain infrastructure.
 The Data Supply Chain infrastructure is responsible for processing all inbound data used by D&B to accumulate business intelligence, derive linkage information and calculate credit scores.
 The project had not progressed past the requirements gathering phase when I left.
 
 [[Fujitsu1]]
-== Contract SOA Architect @ Fujitsu, Dublin, Ireland (Jun '10 – Apr '11)
+== Технический архитектор по контракту @ Fujitsu, Дублин, Ирландия (06/10–04/11)
 
 At Fujitsu I designed and implemented solutions for the Irish Department of Transport and the Irish Courts Service.
 I designed the integration for the Department of Transport with its equivalents in other EU jurisdictions to share driver, vehicle and owner information using Oracle SOA Suite 10g, implemented web services to allow the Road Safety Authority and Taxi Regulator access the driver and vehicle database maintained by the Department of Transport and implemented a web service and front end to allow vehicle owners recover the PIN they need to pay motor tax online.
 I proposed the development toolset and open source technology stack for the Irish Courts Service and designed and led the implementation a proof of concept for the Irish Courts Service to allow plaintiffs seek judgements for liquidated sums online using JBoss, Spring, Spring Web Services, Hibernate and JBoss ESB.
 In addition, I upgraded the integration of Murex trading and SWIFT settlement systems at KBC Bank.
 
-*Skills:* Java, Shell Scripting, BPEL, Javascript, Spring, Spring Security, Spring Webflow, Spring Web Services, Hibernate, EHCache, jBPM, Drools, Solaris, WebSphere MQ, OC4J, JBoss, Oracle SOA Suite, JBossESB, Apache, OpenLDAP, Active Directory, MySQL, Ingres, Oracle, Maven, ANT, Fisheye, Bamboo, Crucible, Proximity, Grinder, JMeter, Benerator, Eclipse
+*Навыки:* Java, Shell Scripting, BPEL, Javascript, Spring, Spring Security, Spring Webflow, Spring Web Services, Hibernate, EHCache, jBPM, Drools, Solaris, WebSphere MQ, OC4J, JBoss, Oracle SOA Suite, JBossESB, Apache, OpenLDAP, Active Directory, MySQL, Ingres, Oracle, Maven, ANT, Fisheye, Bamboo, Crucible, Proximity, Grinder, JMeter, Benerator, Eclipse
 
 [[Corvil]]
-== Contract Software Engineer @ Corvil, Dublin, Ireland (Oct '09 - Jun '10)
+== Инженер-программист по контракту @ Corvil, Дублин, Ирландия (10/09 -06/10)
 
 At Corvil (http://www.corvil.com), I developed decoders to handle market data feed, trading and middle-ware protocols in order to perform gap detection and message correlation within their latency analysis tools.
 I implemented a generic template driven decoder that exceeded the performance targets handling feeds from the Deutsche Börse, London, NASDAQ, NYSE, Tokyo and Osaka exchanges and a custom decoder for Tibco Rendezvous by reverse engineering sample traffic.
 
-*Skills:* {cpp}, PERL, Python, Boost, STL, Expat, Xerces, BSD Linux, g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Valgrind
+*Навыки:* {cpp}, PERL, Python, Boost, STL, Expat, Xerces, BSD Linux, g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Valgrind
 
 [[Vodafone]]
-== Contract Technical Architect @ Vodafone, London, UK (Feb - Sep '09)
+== Технический архитектор по контракту @ Vodafone, Лондон, Великобритания (02-09/09)
 
 At Vodafone, I was the technical architect for My Web (http://myweb.vodafone.com), Vodafone’s new mobile portal that evolved into Vodafone 360.
 It was originally launched for Egypt, Germany, Greece, Ireland, Italy, Netherlands, Portugal, Spain, South Africa, Turkey and UK in 2009.
 I re-designed the software architecture to ensure the system would meet non-functional performance and stability requirements to support an initial active user base  of 7.5m with a peak load of 1,600 page views per second.
 In addition, I migrated the build and improved the automation from ANT to Maven 2.
 
-*Skills:* Java, PHP, Javascript, Spring, Spring LDAP, Struts, Hibernate, EHCache, JGroups, Apache Commons, OSGi, Ext/JS, JBoss AS, Apache Felix, Apache HTTPD Server, Oracle 10g, Solaris, Maven, Hudson, Archiva, Eclipse, Subversion, Grinder, JProbe, Mercury Quality Centre
+*Навыки:* Java, PHP, Javascript, Spring, Spring LDAP, Struts, Hibernate, EHCache, JGroups, Apache Commons, OSGi, Ext/JS, JBoss AS, Apache Felix, Apache HTTPD Server, Oracle 10g, Solaris, Maven, Hudson, Archiva, Eclipse, Subversion, Grinder, JProbe, Mercury Quality Centre
 
 [[TerraNua]]
-== Director @ TerraNua, Dublin, Ireland & Tunis, Tunisia (Aug '06 – Jul '08)
+== Директор @ TerraNua, Дублин, Ирландия & Тунис, Тунис (08/06 – 07/08)
 
 At TerraNua, I was mainly responsible for designing the architecture and overseeing the implementation of MyComplianceOffice (http://www.mycomplianceoffice.com/) which was a “Software as a Service” (SaaS) hosted/multi-tenant solution that allows US-based registered investment advisors and hedge funds manage their compliance related business processes.
 I designed the physical and software architecture for MyComplianceOffice using portal server, workflow and document management technologies, recruited and led the development team for release 1.0, led the architecture team.
 I later relocated to Tunisia to recruit and  mentor an offshore development team.
 
-*Skills:* Java, Javascript, Spring, Acegi, Spring Web Services, Apache Axis, Spring LDAP, Hibernate, Compass, Lucene, Quartz, Drools, JUG, CGLIB, EhCache, Shark, Jetspeed 2, IBM WebSphere, Netscape iPlanet, SunONE Directory Server, Documentum, Oracle 10g, Solaris, Maven, Continuum, Archiva, Eclipse, Clearcase, Apache HTTP Server, Apache Tomcat, Oracle XE, Windows, Sharepoint, JIRA, LoadRunner, QuickTest Pro, MediaWiki
+*Навыки:* Java, Javascript, Spring, Acegi, Spring Web Services, Apache Axis, Spring LDAP, Hibernate, Compass, Lucene, Quartz, Drools, JUG, CGLIB, EhCache, Shark, Jetspeed 2, IBM WebSphere, Netscape iPlanet, SunONE Directory Server, Documentum, Oracle 10g, Solaris, Maven, Continuum, Archiva, Eclipse, Clearcase, Apache HTTP Server, Apache Tomcat, Oracle XE, Windows, Sharepoint, JIRA, LoadRunner, QuickTest Pro, MediaWiki
 
 [[Fidelity2]]
-== Information Security Consultant @ Fidelity Investments, Dublin, Ireland (Oct '05 - Jul '06)
+== Консультант по информационной безопасности @ Fidelity Investments, Дублин, Ирландия (10/05-07/06)
 
 When I returned to Fidelity Investments from my secondment to KVH I was the architect supporting teams responsible for developing and maintaining Fidelity Investments' enterprise-wide identity management, automated access provisioning, risk management and reporting system.
 The core components were an intranet facing application for raising and processing access requests developed in ASP.NET and workflow engine that integrated the various 3rd party solutions and automate the provisioning processes that I designed and implemented using NxBRE rules engine.
 
-*Skills:* C#, .NET, ASP.NET, NxBRE, IIS, Active Directory, Oracle 9i, Sun Identity Manager, BMC Enterprise Security Station, Windows 2003 Server, Solaris, Visual Studio, Clearcase, ClearQuest
+*Навыки:* C#, .NET, ASP.NET, NxBRE, IIS, Active Directory, Oracle 9i, Sun Identity Manager, BMC Enterprise Security Station, Windows 2003 Server, Solaris, Visual Studio, Clearcase, ClearQuest
 
 [[KVH]]
-== Lead System Architect @ KVH, Tokyo, Japan (Oct '03 – September '05)
+== Ведущий системный архитектор @ KVH, Токио, Япония (10/03–09/05)
 
 I was seconded to a private telecommunications company owned by Fidelity Investments called KVH.
 At KVH I reported to the CIO but also worked closely with the CTO and CFO designing the integration of and supporting the implementation of Business and Operations Support Systems.
 I created and maintained the blueprint and roadmap for the overall architecture of the OSS/BSS platform, conducted product evaluations and engaged in vendor negotiations, designed and supported the development of eKVH (http://ekvh.co.jp/) - a Business to Consumer (B2C) portal developed using BEA WebLogic Portal by an outsourced team in India, and designed and developed a Business to Employee (B2E) portal implemented in Struts.
 
-*Skills:* Java, Struts, Apache FOP, Hibernate, Velocity, BEA WebLogic Portal, Tomcat, webMethods, Siebel, Oracle eBusiness Suite, Portal Infranet, Micromuse Netcool, Infovista, Eclipse, CVS, LoadRunner, QuickTest Pro
+*Навыки:* Java, Struts, Apache FOP, Hibernate, Velocity, BEA WebLogic Portal, Tomcat, webMethods, Siebel, Oracle eBusiness Suite, Portal Infranet, Micromuse Netcool, Infovista, Eclipse, CVS, LoadRunner, QuickTest Pro
 
 [[Fidelity1]]
-== Principal Consultant @ Fidelity Investments, Dublin, Ireland (Jun '00 – Sep '03)
+== Главный консультант @ Fidelity Investments, Дублин, Ирландия (06/00–09/03)
 
 At Fidelity Investments, I played a leading role in three major product developments.
 
@@ -225,117 +225,117 @@ In addition to my project specific roles, I was a member of the Development Audi
 The DAT audited projects to ensure they adhered to best practices from a project management perspective during the project initiation, requirements gathering and solution design phases.
 The TRB reviewed the proposed architectures and detailed designs of projects to ensure that those projects were technically feasible and following best practices.
 
-*Skills:* Java, {cpp}, Javascript, Struts, STL, MFC, RougeWave Libraries, COM/ATL, ADO, IBM WebSphere, Sybase, Solaris, Windows 95/NT/ME/2000, Eclipse, Visual {cpp}, Clearcase, LoadRunner, WinRunner, ClearQuest, Test Director
+*Навыки:* Java, {cpp}, Javascript, Struts, STL, MFC, RougeWave Libraries, COM/ATL, ADO, IBM WebSphere, Sybase, Solaris, Windows 95/NT/ME/2000, Eclipse, Visual {cpp}, Clearcase, LoadRunner, WinRunner, ClearQuest, Test Director
 
 [[IFS]]
-== Software Development Manager @ IFS, Dublin, Ireland (Aug '99 - May '00)
+== Менеджер по разработке программного обеспечения @ IFS, Дублин, Ирландия (08/99-05/00)
 
 I joined IFS as the Senior Software Architect to design the architecture for a new margin trading system that would replace the company's existing thick client product offering called MarginMan.
 I designed the architecture for the new CORBA based n-tier collateralized margin trading system and then took on the role of Software Development Manager with responsibility for teams based in Dublin, Singapore and Manila
 
-*Skills:* {cpp}, Orbix, Microsoft Foundation Classes, Windows NT, Visual {cpp}, Visual SourceSafe
+*Навыки:* {cpp}, Orbix, Microsoft Foundation Classes, Windows NT, Visual {cpp}, Visual SourceSafe
 
 [[ATT2]]
-== Contract Technical Lead @ AT&T Labs, Redditch, UK (Oct '98 – Jul '99)
+== Технический руководитель по контракту @ AT&T Labs, Реддич, Великобритания (10/98–07/99)
 
 At AT&T Labs I worked for the IP Technology Organization developing a platform to construct and manage network services called Common Open IP Platform (COIPP).
 I provided CORBA expertise to the team responsible for implementing the middle-tier components of the provisioning, billing and management systems, ported existing components from Orbix to VisiBroker and assisted the team that ported the existing components from Windows to Solaris.
 In addition, I migrated the team’s version control solution from PVCS to Clearcase.
 
-*Skills:* Java, {cpp}, Orbix, VisiBroker, MQSeries, Oracle, Solaris, Visual {cpp}, Sun {cpp}, Clearcase, PVCS
+*Навыки:* Java, {cpp}, Orbix, VisiBroker, MQSeries, Oracle, Solaris, Visual {cpp}, Sun {cpp}, Clearcase, PVCS
 
 [[IBM2]]
-== Contract Project Lead @ IBM, Dublin, Ireland (Oct '97 – Sep '98)
+== Руководитель проекта по контракту @ IBM, Дублин, Ирландия (10/97–09/98)
 
 At IBM I worked with the Insurance Solutions Development Centre developing a customer relationship management application for insurance companies called Client Information & Integration System (CIIS).
 I led the teams that designed the overall architecture for CIIS and developed the middle-tier components.
 
-*Skills:* Java, {cpp}, Swing, Orbix, OrbixWeb, DB2, Solaris, Visual {cpp}, Visual SourceSafe, make
+*Навыки:* Java, {cpp}, Swing, Orbix, OrbixWeb, DB2, Solaris, Visual {cpp}, Visual SourceSafe, make
 
 [[Microsoft]]
-== Contract Software Engineer @ Microsoft, Seattle, WA, USA (Apr '96 – Sep '97)
+== Инженер-программист по контракту @ Microsoft, Сиэтл, Вашингтон, США (04/96–09/97)
 
 At Microsoft I worked for the Infrastructure and Automation Tools team.
 I was responsible for developing agents that were installed on over 3,000 file, database, e-mail, web and proxy servers to collect usage metrics.
 Those metrics were used to predict future server and disk space needs.
 
-*Skills:* {cpp}, Windows SDK, Microsoft Foundation Classes, SQL Server, Windows NT, Visual {cpp}, Visual SourceSafe
+*Навыки:* {cpp}, Windows SDK, Microsoft Foundation Classes, SQL Server, Windows NT, Visual {cpp}, Visual SourceSafe
 
 [[Lotus]]
-== Contract Software Engineer @ Lotus, Dublin, Ireland (Sep '95 – Mar '96)
+== Инженер-программист по контракту @ Lotus, Дублин, Ирландия (09/95–03/96)
 
 At Lotus I worked for the Global QA team that developed test, automation and localization tools used to test and localize Lotus' office application suite called Lotus SmartSuite.
 I developed plug-ins to instrument Lotus' custom controls and unified the code-base to eliminate the need for separate builds for each flavour of Windows.
 
-*Skills:* {cpp}, Windows SDK, Windows 3.x/95/NT,  Visual {cpp}, PVCS, Lotus Notes
+*Навыки:* {cpp}, Windows SDK, Windows 3.x/95/NT,  Visual {cpp}, PVCS, Lotus Notes
 
 [[Lehman]]
-== Contract Project Lead @ Lehman Brothers, London, UK (Aug '94 – Aug '95)
+== Руководитель проекта по контракту @ Lehman Brothers, Лондон, Великобритания (08/94–08/95)
 
 At Lehman Brothers I led worked with a small team that developed and maintained applications support the purchasing, goods inwards and accounting departments in the London office.
 I recruited and led the development team, ported existing components from OS/2 to Windows 3.x and carried out maintenance and implemented enhancements to meet changing business practices.
 
-*Skills:* {cpp}, OS/2 SDK, Object Windows Library, Lotus Notes, Sybase, Windows 3.x, OS/2, Borland {cpp}, {csetpp}, PVCS
+*Навыки:* {cpp}, OS/2 SDK, Object Windows Library, Lotus Notes, Sybase, Windows 3.x, OS/2, Borland {cpp}, {csetpp}, PVCS
 
 [[HP]]
-== Contract Software Engineer @ Hewlett-Packard, Grenoble, France (Apr – Jul '94)
+== Инженер-программист по контракту @ Hewlett-Packard, Гренобль, Франция (04–07/94)
 
 At HP I was part of a small team that ported a product called Omnishare to run on a standard IBM compatible PC.
 Omnishare was a conferencing tool that allowed users to share and annotate documents using the same telephone line for voice and data.
 It had been originally designed to run on custom hardware.
 
-*Skills:* {cpp}, Windows SDK, Microsoft Foundation Classes, Windows 3.x, Visual {cpp}, Visual SourceSafe
+*Навыки:* {cpp}, Windows SDK, Microsoft Foundation Classes, Windows 3.x, Visual {cpp}, Visual SourceSafe
 
 [[IBM1]]
-== Contract Technical Lead @ IBM, Dublin, Ireland (Oct '93 – Mar '94)
+== Технический руководитель по контракту @ IBM, Дублин, Ирландия (10/93–03/94)
 
 At IBM I was originally hired to address issues that were preventing a data warehousing tool called DataRefresher from being accepted by the QA team for testing.
 I was able to identify and correct significant memory leaks, race conditions and inter-process communication issues and thereby unblock the project's progress.
 Afterwards I went on to implement product features, provide mentoring to the development team and improve the engineering processes.
 
-*Skills:* {cpp}, OS/2, DB2, Communications Manager, {csetpp}
+*Навыки:* {cpp}, OS/2, DB2, Communications Manager, {csetpp}
 
 [[BR]]
-== Contract Software Engineer @ British Rail, Darlington, UK (Mar - Sep '93)
+== Инженер-программист по контракту @ British Rail, Дарлингтон, Великобритания (03-09/93)
 
 At British Rail I was part of the team that developed a client-server application called Advanced Transmanche Operations Management System (ATOMS).
 ATOMS was the passenger booking and rolling stock management system developed for British Rail, SNCF France and SNCF Belgium to operate services running through the Euro Tunnel.
 In addition to delivering specific features, I also designed and implemented the framework for the ATOMS user interface and I stream-lined the build process allowing regular deliveries to the off-site QA team.
 
-*Skills:* {cpp}, MFC, Windows 3.x, Oracle, Visual {cpp}, PVCS
+*Навыки:* {cpp}, MFC, Windows 3.x, Oracle, Visual {cpp}, PVCS
 
 [[ATT1]]
-== Contract Software Engineer @ AT&T Istel, Redditch, UK (Sep '92 – Jan '93)
+== Инженер-программист по контракту @ AT&T Istel, Реддич, Великобритания (09/92 – 01/93)
 
 At AT&T we implemented a light-weight object request broker that allowed inter-process communication between processes on a personal computer and with remote processes running on Unix servers.
 I developed an inter-process communication mechanism for co-located Windows applications using Dynamic Data Exchange (DDE) and the client-side communication between the Windows applications and server processes over a serial connection.
 The object request broker pre-dated Common Object Request Broker Architecture (CORBA) and was based on Advanced Network Systems Architecture (ANSA).
 
-*Skills:* {cpp},  Windows 3.x, Unix, Visual {cpp}, PVCS
+*Навыки:* {cpp},  Windows 3.x, Unix, Visual {cpp}, PVCS
 
 [[Polydata]]
-== Senior Software Engineer @ Polydata, Dublin Ireland (Apr '89 - Aug '92)
+== Старший инженер-программист @ Polydata, Дублин, Ирландия (04/89 - 08/92)
 
 At Polydata we designed and developed bespoke applications for materials producers (petrochemical, metal powder and sheet and rolled metal).
 These applications were searchable electronic catalogues describing the material properties of the products manufactured and sold by those companies.
 I was responsible for a developing the solutions for many of the key clients such as DOW Chemical, DuPont, ICI, Bayer and Elf Atochem.
 My major contribution was the consolidation and re-factoring of the existing source code developed for different customers into a single code base and partial automation of the release engineering process.
 
-*Skills:* Pascal, C, {cpp}, Assembler, MS-DOS, Turbo Pascal, Turbo {cpp}, RCS
+*Навыки:* Pascal, C, {cpp}, Assembler, MS-DOS, Turbo Pascal, Turbo {cpp}, RCS
 
-== Qualifications
+== Квалификации
 
-*B.Sc. in Computer Applications* +
+*Бакалавр наук в области компьютерных приложений* +
 Dublin City University +
-Graduated with honours in November 1990
+Окончил университет с отличием в ноябре 1990 года
 
-== Language Skills
+== Языки
 
-* Native Speaker -- English
+* родной язык -- английский
 
-* Elementary -- Russian and French
+* среднее знание -- русский и французский
 
-== References
+== Рекомендации
 
-Available upon request.
+Предоставляется по запросу.
 
