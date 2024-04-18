@@ -264,16 +264,17 @@ Those metrics were used to predict future server and disk space needs.
 [[Lotus]]
 == Инженер-программист по контракту @ Lotus, Дублин, Ирландия (09/95–03/96)
 
-At Lotus I worked for the Global QA team that developed test, automation and localization tools used to test and localize Lotus' office application suite called Lotus SmartSuite.
-I developed plug-ins to instrument Lotus' custom controls and unified the code-base to eliminate the need for separate builds for each flavour of Windows.
+В Lotus я работал в глобальной команде контроля качества, которая разрабатывала инструменты тестирования, автоматизации и локализации, используемые для тестирования и локализации пакета офисных приложений Lotus под названием Lotus SmartSuite.
+Я разработал плагины для настройки пользовательских элементов управления Lotus и унифицировал базу кода, чтобы исключить необходимость в отдельных сборках для каждой версии Windows.
 
 *Навыки:* {cpp}, Windows SDK, Windows 3.x/95/NT,  Visual {cpp}, PVCS, Lotus Notes
 
 [[Lehman]]
 == Руководитель проекта по контракту @ Lehman Brothers, Лондон, Великобритания (08/94–08/95)
 
-At Lehman Brothers I led worked with a small team that developed and maintained applications support the purchasing, goods inwards and accounting departments in the London office.
-I recruited and led the development team, ported existing components from OS/2 to Windows 3.x and carried out maintenance and implemented enhancements to meet changing business practices.
+В HP я был частью небольшой команды, которая портировала продукт под названием Omni share для работы на стандартном IBM-совместимом ПК.
+Omnishare - это инструмент для конференц-связи, который позволял пользователям обмениваться документами и комментировать их, используя одну и ту же телефонную линию для передачи голоса и данных.
+Изначально он был разработан для работы на пользовательском оборудовании.
 
 *Навыки:* {cpp}, OS/2 SDK, Object Windows Library, Lotus Notes, Sybase, Windows 3.x, OS/2, Borland {cpp}, {csetpp}, PVCS
 
@@ -289,37 +290,37 @@ It had been originally designed to run on custom hardware.
 [[IBM1]]
 == Технический руководитель по контракту @ IBM, Дублин, Ирландия (10/93–03/94)
 
-At IBM I was originally hired to address issues that were preventing a data warehousing tool called DataRefresher from being accepted by the QA team for testing.
-I was able to identify and correct significant memory leaks, race conditions and inter-process communication issues and thereby unblock the project's progress.
-Afterwards I went on to implement product features, provide mentoring to the development team and improve the engineering processes.
+Первоначально меня наняли в IBM для решения проблем, из-за которых команда контроля качества не могла принять инструмент для хранения данных под названием DataRefresher для тестирования.
+Я смог выявить и устранить значительные утечки памяти, проблемы с межпроцессным взаимодействием и, таким образом, разблокировать прогресс проекта.
+После этого я приступил к внедрению функций продукта, наставничеству команды разработчиков и совершенствованию технологических процессов.
 
 *Навыки:* {cpp}, OS/2, DB2, Communications Manager, {csetpp}
 
 [[BR]]
 == Инженер-программист по контракту @ British Rail, Дарлингтон, Великобритания (03-09/93)
 
-At British Rail I was part of the team that developed a client-server application called Advanced Transmanche Operations Management System (ATOMS).
-ATOMS was the passenger booking and rolling stock management system developed for British Rail, SNCF France and SNCF Belgium to operate services running through the Euro Tunnel.
-In addition to delivering specific features, I also designed and implemented the framework for the ATOMS user interface and I stream-lined the build process allowing regular deliveries to the off-site QA team.
+В British Rail я был частью команды, которая разрабатывала клиент-серверное приложение под названием Advanced Transmanche Operations Management System (ATOMS).
+ATOMS - это система бронирования пассажиров и управления подвижным составом, разработанная для British Rail, SNCF France и SNCF Belgium для обслуживания рейсов, проходящих через Евротоннель.
+В дополнение к предоставлению конкретных функций, я также разработал и внедрил фреймворк для пользовательского интерфейса ATOMS и упростил процесс сборки, обеспечив регулярные поставки в отдел контроля качества за пределами площадки.
 
 *Навыки:* {cpp}, MFC, Windows 3.x, Oracle, Visual {cpp}, PVCS
 
 [[ATT1]]
 == Инженер-программист по контракту @ AT&T Istel, Реддич, Великобритания (09/92 – 01/93)
 
-At AT&T we implemented a light-weight object request broker that allowed inter-process communication between processes on a personal computer and with remote processes running on Unix servers.
-I developed an inter-process communication mechanism for co-located Windows applications using Dynamic Data Exchange (DDE) and the client-side communication between the Windows applications and server processes over a serial connection.
-The object request broker pre-dated Common Object Request Broker Architecture (CORBA) and was based on Advanced Network Systems Architecture (ANSA).
+В AT&T мы внедрили облегченный брокер объектных запросов, который позволял осуществлять межпроцессное взаимодействие между процессами на персональном компьютере и с удаленными процессами, запущенными на Unix-серверах.
+Я разработал механизм межпроцессного взаимодействия для совместно размещенных приложений Windows, используя динамический обмен данными (DDE) и взаимодействие на стороне клиента между приложениями Windows и серверными процессами по последовательному соединению.
+Брокер объектных запросов предшествовал архитектуре Common Object Request Broker (CORBA) и был основан на архитектуре Advanced Network Systems Architecture (ANSA).
 
-*Навыки:* {cpp},  Windows 3.x, Unix, Visual {cpp}, PVCS
+*Навыки:* {cpp}, Windows 3.x, Unix, Visual {cpp}, PVCS
 
 [[Polydata]]
 == Старший инженер-программист @ Polydata, Дублин, Ирландия (04/89 - 08/92)
 
-At Polydata we designed and developed bespoke applications for materials producers (petrochemical, metal powder and sheet and rolled metal).
-These applications were searchable electronic catalogues describing the material properties of the products manufactured and sold by those companies.
-I was responsible for a developing the solutions for many of the key clients such as DOW Chemical, DuPont, ICI, Bayer and Elf Atochem.
-My major contribution was the consolidation and re-factoring of the existing source code developed for different customers into a single code base and partial automation of the release engineering process.
+В Polydata мы разработали специальные приложения для производителей материалов (нефтехимических, для производства металлических порошков, листового металла и проката).
+Эти приложения представляли собой электронные каталоги с возможностью поиска, описывающие свойства материалов, производимых и продаваемых этими компаниями.
+Я отвечал за разработку решений для многих ключевых клиентов, таких как DOW Chemical, DuPont, ICI, Bayer и Elf Atochem.
+Моим основным вкладом стала консолидация и рефакторинг существующего исходного кода, разработанного для разных заказчиков, в единую базу кода и частичная автоматизация процесса разработки релизов.
 
 *Навыки:* Pascal, C, {cpp}, Assembler, MS-DOS, Turbo Pascal, Turbo {cpp}, RCS
 
