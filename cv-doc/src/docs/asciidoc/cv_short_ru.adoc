@@ -37,41 +37,46 @@ image:images/me.jpg[]
 [[Synchronoss]]
 == Инженер-программист по контракту @ Synchronoss, Дублин, Ирландия (01/16-03/24)
 
-I have worked on several of the core services, and many of the shared libraries, of Synchronoss' Personal Cloud product suite (https://synchronoss.com/products/cloud/personal-cloud-solution/). Personal Cloud is used by mobile telecommunications providers such as Verizon, AT&T, SoftBank and BT.
+Я работал над несколькими основными сервисами и многими общими библиотеками пакета продуктов Synchronoss Personal Cloud (https://synchronoss.com/products/cloud/personal-cloud-solution/).
+Personal Cloud используется такими операторами мобильной связи, как Verizon, AT&T, SoftBank и BT.
 
-* Collection Manager -- manages collections of media content for photo albums and music playlists
+* Collection Manager -- управляет коллекциями медиаконтента для фотоальбомов и музыкальных плейлистов.
 
-* Message Minder -- provides APIs to back-up, restore and manage call logs and SMS, MMS and RCS messages from users' mobile devices.
+* Message Minder -- предоставляет API для резервного копирования, восстановления журналов вызовов и SMS, MMS и RCS-сообщений и управления ими с мобильных устройств пользователей.
 
-* Authentication, Tokens & Provisioning -- provides APIs to provision and authenticate users and to refresh authentication tokens.
+* Authentication, Tokens & Provisioning -- API-интерфейсы для подготовки и проверки подлинности пользователей, а также для обновления токенов проверки подлинности.
 
-* Digital Vault -- provides APIs to manage meta-data about content backed up from users' mobile and desktop devices.
+* Digital Vault -- предоставляет API-интерфейсы для управления метаданными о контенте, резервными копиями которого являются мобильные и настольные устройства пользователей.
 
-* Cloud Share -- provides APIs to share uploaded content with other users.
+* Cloud Share -- предоставляет API-интерфейсы для обмена загруженным контентом с другими пользователями.
 
-* Smart Albums -- uses geo-location and timestamp information in images and videos to automatically create and maintain albums as content is being uploaded to Digital Vault.
+* Smart Albums -- использует информацию о геолокации и временных метках в изображениях и видео для автоматического создания и поддержки альбомов по мере загрузки контента в Digital Vault.
 
 === Достижения
 
-* Re-designed the processing pipe-line of the Smart Album component to increase through-put and avoid the need for expensive rollback operations.
+* Переработал конвейер обработки компонента Smart Albums, чтобы увеличить пропускную способность и избежать необходимости в дорогостоящих операциях отката.
 
-* Upgraded Message Minder to Spring Boot 2.4 and replaced Jersey 2 with Spring WebMVC
+* Обновил Message Minder до версии Spring Boot 2.4 и заменил Jersey 2 на Spring WebMVC
 
-* Migrated Message Minder and ATP components to Spring Boot 1.5 and upgraded JAX-RS implementations to Jersey 2.
+* Перенес компоненты Message Minder и ATP в Spring Boot 1.5 и обновил реализации JAX-RS до версии Jersey 2.
 
-* Implemented support for RCS messages in Message Minder.
+* Реализовал поддержку RCS-сообщений в Message Minder.
 
-* Re-designed the persistence mechanisms in Message Minder to address design flaws in the original product that were leading to data corruption in Cassandra database clusters.
+* Переработал механизмы сохранения данных в Message Minder, чтобы устранить недостатки дизайна в исходном продукте, которые приводили к повреждению данных в кластерах базы данных Cassandra.
 
-* Added support for family sharing to Digital Vault which allows family members to share quota and content.
+* Добавил поддержку семейного доступа в Digital Vault, которая позволяет членам семьи делиться квотами и контентом.
 
-* Introduced the bill-of-materials concept to ensure consistency in the use of 3rd party libraries across all core services and shared libraries.
+* Представил концепцию спецификации материалов, чтобы обеспечить согласованность в использовании сторонних библиотек во всех основных службах и общих библиотеках.
 
-* Designed and developed the Collection Manager component for managing photo albums and music playlists.
+* Разработал компонент Collection Manager для управления фотоальбомами и музыкальными плейлистами.
 
-* Performing deployments to shared development environments and coordinating the production deployments
+* Выполнял развертывания в общих средах разработки и координировал производственные развертывания.
 
-* Troubleshooting issues with customer deployments
+* Устранял неполадки при развертывании клиентами.
+
+* Обновил компоненты до Spring Boot 2.7 и Java 17 и ввел Jib для создания образов контейнеров.
+
+* Обновил общие библиотеки до версии Spring Boot 3.2 и предоставил инструкции для команд разработчиков по обновлению своих компонентов до версии Spring Boot 3.2.
 
 *Навыки:* Java, Groovy, Spring, Spring Boot, Spring Cloud, Spring Security, Spring Data, JAX-RS (Jersey), Docker, Kubernetes, Cassandra, MariaDB/MySQL, Oracle, Eureka, Memcached, Kafka, RabbitMQ, SwiftMQ, MacOS, Linux, Git, Maven, Gradle, Helm, JIRA, Bamboo, Confluence, Stash/Bitbucket, AsciiDoctor, Docbook, Cucumber, Sonar, NexusIQ, Fortify
 

@@ -74,6 +74,10 @@ I have worked on several of the core services, and many of the shared libraries,
 
 * Troubleshooting issues with customer deployments
 
+* Updated many of the components to Spring Boot 2.7 and Java 17 and introduced Jib for building container images
+
+* Updated shared libraries to Spring Boot 3.2 and provided instructions for the development teams to upgrade their components to Spring Boot 3.2.
+
 *Skills:* Java, Groovy, Spring, Spring Boot, Spring Cloud, Spring Security, Spring Data, JAX-RS (Jersey), Docker, Kubernetes, Cassandra, MariaDB/MySQL, Oracle, Eureka, Memcached, Kafka, RabbitMQ, SwiftMQ, MacOS, Linux, Git, Maven, Gradle, Helm, JIRA, Bamboo, Confluence, Stash/Bitbucket, AsciiDoctor, Docbook, Cucumber, Sonar, NexusIQ, Fortify
 
 [[THBS]]
