@@ -78,29 +78,29 @@ I have worked on several of the core services, and many of the shared libraries,
 [[THBS]]
 == Ведущий специалист портала по контрактy @ Torry Harris Business Solutions, Дублин, Ирландия (01/14-12/15)
 
-I worked on-site with eir (http://www.eir.ie) leading the development, deployment and integration of portal projects for business customers (https://advantagemanager.eir.ie).
+Я работал на месте в eir (http://www.eir.ie), возглавляя разработку, развертывание и интеграцию портальных проектов для бизнес-клиентов (https://advantagemanager.eir.ie).
 
 === Достижения
 
-* Led the deployment and integration of the Loki Portals (http://www.leonidsystems.com/products/lokiportals) self-care portal for the VoIP services of the SIP Trunking, Mobile Extension and Hosted Office projects at eir (http://www.eir.ie).
+* Руководил развертыванием и интеграцией этих Loki Portals (http://www.leonidsystems.com/products/lokiportals) - портала самообслуживания для VoIP-сервисов SIP-транкинга, мобильного расширения и размещенных офисных проектов в eir (http://www.eir.ie).
 
-* Integrated the Loki Portals with the OpenAM single sign-on platform using SAML 2.0.
+* Интегрировал Loki Portals с платформой единого входа OpenAM, используя SAML 2.0.
 
-* Coordinated between the project owners, suppliers and the security, network and server operations teams.
+* Координировал работу владельцев проектов, поставщиков и групп по обеспечению безопасности, эксплуатации сетей и серверов.
 
-* Identified and ensured the resolution of security and performance issues in the vendor supplied products.
+* Выявил и обеспечил устранение проблем с безопасностью и производительностью в продуктах, поставляемых поставщиком.
 
-* Coordinated with the off-shore development team responsible for customizing the look & feel of Loki Portals to adhere to the eir branding.
+* Координировал свои действия с оффшорной командой разработчиков, ответственной за настройку внешнего вида Loki Portals в соответствии с брендингом eir.
 
-* Created high- and low-level design documentation for the overall solution.
+* Создал высокоуровневую и низкоуровневую проектную документацию для общего решения.
 
-* Part of the RFP team that evaluated and selected converged billing analytics and presentment tools for corporate customers. The selected product was Optimiser from Soft-ex. Afterwards, I was responsible for integrating Optimiser into the eir Business portals.
+* Входил в состав команды RFP, которая оценивала и выбирала конвергентную аналитику выставления счетов и инструменты презентации для корпоративных клиентов. Выбранным продуктом был Optimiser от Softex. Впоследствии я отвечал за интеграцию Optimiser в порталов eir Business Online.
 
-* Deployed the single sign-on platform (OpenAM) for eir Business Online portals and integrated it with the VoIP self-care and bill analytics solutions.
+* Развернул платформу единого входа (OpenAM) для порталов eir Business Online и интегрировал ее с решениями для самообслуживания VoIP и анализа счетов.
 
-* Created a web application for use by customers and eir staff to manage access to eir Business Online portal features on behalf of users.
+* Создал веб-приложение для использования клиентами и сотрудниками eir для управления доступом к функциям порталов eir Business Online от имени пользователей.
 
-* Created RESTful and SOAP web services to support user provisioning by internal order processing systems and external vendor platforms.
+* Создал веб-сервисы RESTful и SOAP для поддержки подготовки пользователей с помощью внутренних систем обработки заказов и платформ внешних поставщиков.
 
 *Навыки:* Java, JavaScript, Ruby, PHP, Spring, Spring Security, Spring Security SAML, Spring Web Services, Thymeleaf, Smarty Templates, jQuery, AngularJS, Bootstrap, SimpleSAMLphp, Redhat Linux, Windows Server, Tomcat, SQL Server, MySQL, OpenAM, OpenDJ, Memcached, Postfix, IntelliJ, Git, Maven, Grunt, Jenkins, Chef, Vagrant, Docbook
 

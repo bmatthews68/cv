@@ -95,7 +95,7 @@ I worked on-site with eir (http://www.eir.ie) leading the development, deploymen
 
 * Created high- and low-level design documentation for the overall solution.
 
-* Part of the RFP team that evaluated and selected converged billing analytics and presentment tools for corporate customers. The selected product was Optimiser from Soft-ex. Afterwards, I was responsible for integrating Optimiser into the eir Business portals.
+* Part of the RFP team that evaluated and selected converged billing analytics and presentment tools for corporate customers. The selected product was Optimiser from Soft-ex. Afterwards, I was responsible for integrating Optimiser into the eir Business Online portal.
 
 * Deployed the single sign-on platform (OpenAM) for eir Business Online portals and integrated it with the VoIP self-care and bill analytics solutions.
 
