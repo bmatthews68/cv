@@ -11,11 +11,8 @@
 ! Name
 ! BRIAN THOMAS MATTHEWS
 ! Address
-! UL. 14-YA LINIYA, D. 70 KB. 10, +
-ROSTOV-ON-DON, +
-344019, +
+! ROSTOV-ON-DON, +
 RUSSIA
-! Phone    ! +7 961 310 5068
 ! E-mail   ! bmatthews68@gmail.com
 ! LinkedIn ! http://ie.linkedin.com/in/bmatthews68
 ! GitHub   ! https://github.com/bmatthews68
@@ -147,9 +144,9 @@ Then I extensively refactored the code-base to separate presentation, business l
 == Contract Software Engineer @ LeasePlan, Dublin, Ireland (Jul '11 - Jan '12)
 
 At LeasePlan, I was re-engineering their Internet Quotation web application to improve the user experience and address security concerns raised by external auditors.
-I migrated the code base from Spring 2 to Spring 3, implemented support for dynamic look and feel using Apache Jackrabbit as the content repository to allow individual business units and brokers have distinct look and feels, and addressed performance issues when proxying remote content (car images) provided by 3rd party systems by introducing caching and image scaling
+I migrated the code base from Spring 2 to Spring 3, implemented support for dynamic look and feel using Apache Jackrabbit as the content repository to allow individual business units and brokers have distinct look and feels, and addressed performance issues when proxying remote content (car images) provided by 3rd party systems by introducing caching and image scaling.
 
-*Skills:* Java, Javascript, Spring, Spring Security, Struts 2, SQLMaps, Apache Jackrabbit, iSeries, WebShphere, WebSphereMQ, Maven, Subversion, JIRA, Greenhopper, Artifactory, Selenium, Eclipse
+*Skills:* Java, Javascript, Spring, Spring Security, Struts 2, iBatis, Apache Jackrabbit, iSeries, WebShphere, WebSphereMQ, Maven, Subversion, JIRA, Greenhopper, Artifactory, Selenium, Eclipse
 
 [[DnB]]
 == Contract Technical Architect @ D&B, Dublin, Ireland (May – Jul '11)
@@ -157,6 +154,8 @@ I migrated the code base from Spring 2 to Spring 3, implemented support for dyna
 I was taken on by D&B to be an architect on user interface and input handler components of their new Data Supply Chain infrastructure.
 The Data Supply Chain infrastructure is responsible for processing all inbound data used by D&B to accumulate business intelligence, derive linkage information and calculate credit scores.
 The project had not progressed past the requirements gathering phase when I left.
+
+*Skills:* Java, Spring, SOA
 
 [[Fujitsu1]]
 == Contract SOA Architect @ Fujitsu, Dublin, Ireland (Jun '10 – Apr '11)
@@ -174,7 +173,7 @@ In addition, I upgraded the integration of Murex trading and SWIFT settlement sy
 At Corvil (http://www.corvil.com), I developed decoders to handle market data feed, trading and middle-ware protocols in order to perform gap detection and message correlation within their latency analysis tools.
 I implemented a generic template driven decoder that exceeded the performance targets handling feeds from the Deutsche Börse, London, NASDAQ, NYSE, Tokyo and Osaka exchanges and a custom decoder for Tibco Rendezvous by reverse engineering sample traffic.
 
-*Skills:* {cpp}, PERL, Python, Boost, STL, Expat, Xerces, BSD Linux, g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Valgrind
+*Skills:* {cpp}, PERL, Python, Boost C++, STL, Expat, Xerces, BSD Linux, g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Valgrind
 
 [[Vodafone]]
 == Contract Technical Architect @ Vodafone, London, UK (Feb - Sep '09)
@@ -235,7 +234,7 @@ The TRB reviewed the proposed architectures and detailed designs of projects to 
 == Software Development Manager @ IFS, Dublin, Ireland (Aug '99 - May '00)
 
 I joined IFS as the Senior Software Architect to design the architecture for a new margin trading system that would replace the company's existing thick client product offering called MarginMan.
-I designed the architecture for the new CORBA based n-tier collateralized margin trading system and then took on the role of Software Development Manager with responsibility for teams based in Dublin, Singapore and Manila
+I designed the architecture for the new CORBA based n-tier collateralized margin trading system and then took on the role of Software Development Manager with responsibility for teams based in Dublin, Singapore and Manila.
 
 *Skills:* {cpp}, Orbix, Microsoft Foundation Classes, Windows NT, Visual {cpp}, Visual SourceSafe
 
@@ -325,7 +324,7 @@ These applications were searchable electronic catalogues describing the material
 I was responsible for a developing the solutions for many of the key clients such as DOW Chemical, DuPont, ICI, Bayer and Elf Atochem.
 My major contribution was the consolidation and re-factoring of the existing source code developed for different customers into a single code base and partial automation of the release engineering process.
 
-*Skills:* Pascal, C, {cpp}, Assembler, MS-DOS, Turbo Pascal, Turbo {cpp}, RCS
+*Skills:* Pascal, C, {cpp}, x86 Assembly, MS-DOS, Turbo Pascal, Turbo {cpp}, RCS
 
 == Qualifications
 
