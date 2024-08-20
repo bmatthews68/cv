@@ -6,7 +6,7 @@
 [cols="2a,1a",frame=none,grid=none]
 |===
 |
-[cols="1h,3",frame=none,grid=none]
+[cols="1h,3a",frame=none,grid=none]
 !===
 ! Name
 ! BRIAN THOMAS MATTHEWS
@@ -16,6 +16,10 @@ RUSSIA
 ! E-mail   ! bmatthews68@gmail.com
 ! LinkedIn ! http://ie.linkedin.com/in/bmatthews68
 ! GitHub   ! https://github.com/bmatthews68
+! Work Authorizations ! * *Ireland* -- Irish citizenship
+* *EU* -- Irish citizenship
+* *UK* -- Common Travel Area
+* *Russia* - Permanent Resident
 !===
 |
 image:images/me.jpg[]
@@ -31,6 +35,11 @@ I have experience coordinating development teams based across multiple geographi
 I have worked with off-shore development teams in Tunisia, India, Singapore and Philippines and I have worked in Ireland, UK, France, USA, Japan, Tunisia, and Russia.
 
 == Work History
+
+[[Buralo]]
+=== Director of Consulting @ Búraló Technologies, Rostov-on-Don, Russia (Oct '17 - Present)
+
+At Búraló Technologies we provide consulting and training for cloud native application development to organisations that work with Java, Spring Boot, Docker and Kubernetes.
 
 [[Synchronoss]]
 == Contract Software Engineer @ Synchronoss, Dublin, Ireland (Jan '16 - Mar '24)
@@ -325,6 +334,16 @@ I was responsible for a developing the solutions for many of the key clients suc
 My major contribution was the consolidation and re-factoring of the existing source code developed for different customers into a single code base and partial automation of the release engineering process.
 
 *Skills:* Pascal, C, {cpp}, x86 Assembly, MS-DOS, Turbo Pascal, Turbo {cpp}, RCS
+
+== Voluntary Work
+
+=== CoderDojo (May '03 - Present)
+
+I have been helping young children and teenagers learn how to program in Scratch, Python, and Java and to create web-sites using HTML, CSS and Javascript as a mentor with CoderDojo.
+
+I started mentoring at a dojo in Dublin city centre and later took on the leadership role which involved recruiting other mentors, organising the venue, and dealing with background checks,
+
+When I relocated to Russia in 2017, Elena and I established a CoderDojo in Rostov-on-Don.
 
 == Qualifications
 
