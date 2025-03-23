@@ -18,7 +18,7 @@
 ! Work Authorizations ! * *Ирландия* -- Ирландское гражданство
 * *ЕС* -- Ирландское гражданство
 * *Великобритания* -- Общая зона для путешествий
-* *Россия* - внж
+* *Россия* -- внж
 !===
 |
 image:images/me.jpg[]
@@ -84,7 +84,7 @@ Personal Cloud используется такими операторами мо
 
 * Обновил общие библиотеки до версии Spring Boot 3.2 и предоставил инструкции для команд разработчиков по обновлению своих компонентов до версии Spring Boot 3.2.
 
-*Навыки:* Java, Groovy, Spring, Spring Boot, Spring Cloud, Spring Security, Spring Data, JAX-RS (Jersey), Docker, Kubernetes, Cassandra, MariaDB/MySQL, Oracle, Eureka, Memcached, Kafka, RabbitMQ, SwiftMQ, MacOS, Linux, Git, Maven, Gradle, Helm, JIRA, Bamboo, Confluence, Stash/Bitbucket, AsciiDoctor, Docbook, Cucumber, Sonar, NexusIQ, Fortify
+*Навыки:* Java, Groovy, Spring, Spring Boot, Spring Cloud, Spring Security, Spring Data, JAX-RS (Jersey), Docker, Kubernetes, Cassandra, MariaDB/MySQL, Oracle, Eureka, Memcached, Kafka, RabbitMQ, SwiftMQ, MacOS, Linux, Git, Maven, Gradle, Helm, IntelliJ, JIRA, Bamboo, Confluence, Stash/Bitbucket, AsciiDoctor, Docbook, Cucumber, Sonar, NexusIQ, Fortify
 
 [[THBS]]
 == Ведущий специалист портала по контрактy @ Torry Harris Business Solutions, Дублин, Ирландия (01/14-12/15)
