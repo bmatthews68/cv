@@ -16,8 +16,7 @@ RUSSIA
 ! E-mail   ! bmatthews68@gmail.com
 ! LinkedIn ! http://ie.linkedin.com/in/bmatthews68
 ! GitHub   ! https://github.com/bmatthews68
-! Work Authorizations ! * *Ireland* -- Irish citizenship
-* *EU* -- Irish citizenship
+! Work Authorizations ! * *Ireland & EU* -- Irish citizenship
 * *UK* -- Common Travel Area
 * *Russia* -- Permanent Resident
 !===
@@ -28,18 +27,24 @@ image:images/me.jpg[]
 I am an IT professional with 35 years hands-on experience developing and delivering solutions for the banking/finance, government, insurance, software, telecommunications and transportation industries on Java and .NET stacks.
 My preferred technology stack is Java and Spring Boot.
 
+I gave a presentation at JPoint 2025 about Testcontainers and Docker Compose integration in Spring Boot that is available on YouTube at https://www.youtube.com/watch?v=SE8cFkxpUIw.
+Previously, I had given presentations at Dublin Java User Group on reactive programming in May 2019 and May and July 2018.
+One of these is also available on YouTube at https://www.youtube.com/watch?v=nIRs2cthO4o.
+
 I have over 20 years project management experience using waterfall-based, iterative and agile software development life cycles.
-I am a practitioner of the SCRUM agile project management technique but have complete a post-graduate diploma in traditional project management with the Open University.
+I am a practitioner of the SCRUM agile project management technique but have completed a post-graduate diploma in traditional project management with the Open University.
 
 I have experience coordinating development teams based across multiple geographic locations and time zones.
-I have worked with off-shore development teams in Tunisia, India, Singapore and Philippines and I have worked in Ireland, UK, France, USA, Japan, Tunisia, and Russia.
+I have worked with offshore development teams in Tunisia, India, Singapore and Philippines and I have worked in Ireland, UK, France, USA, Japan, Tunisia, and Russia.
 
 == Work History
 
 [[Buralo]]
 === Director of Consulting @ Búraló Technologies, Rostov-on-Don, Russia (Oct '17 - Present)
 
-At Búraló Technologies we provide consulting and training for cloud native application development to organisations that work with Java, Spring Boot, Docker and Kubernetes.
+At Búraló Technologies we provide consulting and training for cloud native application development to organisations that work with Java, Spring Boot, Spring Cloud, Docker and/or Kubernetes.
+
+*Skills:* Java, Spring Boot, Spring Cloud, Spring Data, Spring Vault, Docker, Testcontainers, Kubernetes, Istio, Telepresence, HashiCorp Vault, MariaDB, PostgreSQL, VueJS, Helm, Maven, Gradle
 
 [[Synchronoss]]
 == Contract Software Engineer @ Synchronoss, Dublin, Ireland (Jan '16 - Mar '24)
@@ -101,7 +106,7 @@ I worked on-site with eir (http://www.eir.ie) leading the development, deploymen
 
 * Identified and ensured the resolution of security and performance issues in the vendor supplied products.
 
-* Coordinated with the off-shore development team responsible for customizing the look & feel of Loki Portals to adhere to the eir branding.
+* Coordinated with the offshore development team responsible for customizing the look & feel of Loki Portals to adhere to the eir branding.
 
 * Created high- and low-level design documentation for the overall solution.
 
@@ -169,7 +174,7 @@ The project had not progressed past the requirements gathering phase when I left
 [[Fujitsu1]]
 == Contract SOA Architect @ Fujitsu, Dublin, Ireland (Jun '10 – Apr '11)
 
-At Fujitsu I designed and implemented solutions for the Irish Department of Transport and the Irish Courts Service.
+At Fujitsu, I designed and implemented solutions for the Irish Department of Transport and the Irish Courts Service.
 I designed the integration for the Department of Transport with its equivalents in other EU jurisdictions to share driver, vehicle and owner information using Oracle SOA Suite 10g, implemented web services to allow the Road Safety Authority and Taxi Regulator access the driver and vehicle database maintained by the Department of Transport and implemented a web service and front end to allow vehicle owners recover the PIN they need to pay motor tax online.
 I proposed the development toolset and open source technology stack for the Irish Courts Service and designed and led the implementation a proof of concept for the Irish Courts Service to allow plaintiffs seek judgements for liquidated sums online using JBoss, Spring, Spring Web Services, Hibernate and JBoss ESB.
 In addition, I upgraded the integration of Murex trading and SWIFT settlement systems at KBC Bank.
@@ -215,7 +220,7 @@ The core components were an intranet facing application for raising and processi
 == Lead System Architect @ KVH, Tokyo, Japan (Oct '03 – September '05)
 
 I was seconded to a private telecommunications company owned by Fidelity Investments called KVH.
-At KVH I reported to the CIO but also worked closely with the CTO and CFO designing the integration of and supporting the implementation of Business and Operations Support Systems.
+At KVH, I reported to the CIO but also worked closely with the CTO and CFO designing the integration of and supporting the implementation of Business and Operations Support Systems.
 I created and maintained the blueprint and roadmap for the overall architecture of the OSS/BSS platform, conducted product evaluations and engaged in vendor negotiations, designed and supported the development of eKVH (http://ekvh.co.jp/) - a Business to Consumer (B2C) portal developed using BEA WebLogic Portal by an outsourced team in India, and designed and developed a Business to Employee (B2E) portal implemented in Struts.
 
 *Skills:* Java, Struts, Apache FOP, Hibernate, Velocity, BEA WebLogic Portal, Tomcat, webMethods, Siebel, Oracle eBusiness Suite, Portal Infranet, Micromuse Netcool, Infovista, Eclipse, CVS, LoadRunner, QuickTest Pro
@@ -250,7 +255,7 @@ I designed the architecture for the new CORBA based n-tier collateralized margin
 [[ATT2]]
 == Contract Technical Lead @ AT&T Labs, Redditch, UK (Oct '98 – Jul '99)
 
-At AT&T Labs I worked for the IP Technology Organization developing a platform to construct and manage network services called Common Open IP Platform (COIPP).
+At AT&T Labs, I worked for the IP Technology Organization developing a platform to construct and manage network services called Common Open IP Platform (COIPP).
 I provided CORBA expertise to the team responsible for implementing the middle-tier components of the provisioning, billing and management systems, ported existing components from Orbix to VisiBroker and assisted the team that ported the existing components from Windows to Solaris.
 In addition, I migrated the team’s version control solution from PVCS to Clearcase.
 
@@ -259,7 +264,7 @@ In addition, I migrated the team’s version control solution from PVCS to Clear
 [[IBM2]]
 == Contract Project Lead @ IBM, Dublin, Ireland (Oct '97 – Sep '98)
 
-At IBM I worked with the Insurance Solutions Development Centre developing a customer relationship management application for insurance companies called Client Information & Integration System (CIIS).
+At IBM, I worked with the Insurance Solutions Development Centre developing a customer relationship management application for insurance companies called Client Information & Integration System (CIIS).
 I led the teams that designed the overall architecture for CIIS and developed the middle-tier components.
 
 *Skills:* Java, {cpp}, Swing, Orbix, OrbixWeb, DB2, Solaris, Visual {cpp}, Visual SourceSafe, make
@@ -267,7 +272,7 @@ I led the teams that designed the overall architecture for CIIS and developed th
 [[Microsoft]]
 == Contract Software Engineer @ Microsoft, Seattle, WA, USA (Apr '96 – Sep '97)
 
-At Microsoft I worked for the Infrastructure and Automation Tools team.
+At Microsoft, I worked for the Infrastructure and Automation Tools team.
 I was responsible for developing agents that were installed on over 3,000 file, database, e-mail, web and proxy servers to collect usage metrics.
 Those metrics were used to predict future server and disk space needs.
 
@@ -276,7 +281,7 @@ Those metrics were used to predict future server and disk space needs.
 [[Lotus]]
 == Contract Software Engineer @ Lotus, Dublin, Ireland (Sep '95 – Mar '96)
 
-At Lotus I worked for the Global QA team that developed test, automation and localization tools used to test and localize Lotus' office application suite called Lotus SmartSuite.
+At Lotus, I worked for the Global QA team that developed test, automation and localization tools used to test and localize Lotus' office application suite called Lotus SmartSuite.
 I developed plug-ins to instrument Lotus' custom controls and unified the code-base to eliminate the need for separate builds for each flavour of Windows.
 
 *Skills:* {cpp}, Windows SDK, Windows 3.x/95/NT,  Visual {cpp}, PVCS, Lotus Notes
@@ -284,7 +289,7 @@ I developed plug-ins to instrument Lotus' custom controls and unified the code-b
 [[Lehman]]
 == Contract Project Lead @ Lehman Brothers, London, UK (Aug '94 – Aug '95)
 
-At Lehman Brothers I led worked with a small team that developed and maintained applications support the purchasing, goods inwards and accounting departments in the London office.
+At Lehman Brothers, I led worked with a small team that developed and maintained applications support the purchasing, goods inwards and accounting departments in the London office.
 I recruited and led the development team, ported existing components from OS/2 to Windows 3.x and carried out maintenance and implemented enhancements to meet changing business practices.
 
 *Skills:* {cpp}, OS/2 SDK, Object Windows Library, Lotus Notes, Sybase, Windows 3.x, OS/2, Borland {cpp}, {csetpp}, PVCS
@@ -292,7 +297,7 @@ I recruited and led the development team, ported existing components from OS/2 t
 [[HP]]
 == Contract Software Engineer @ Hewlett-Packard, Grenoble, France (Apr – Jul '94)
 
-At HP I was part of a small team that ported a product called Omnishare to run on a standard IBM compatible PC.
+At HP, I was part of a small team that ported a product called Omnishare to run on a standard IBM compatible PC.
 Omnishare was a conferencing tool that allowed users to share and annotate documents using the same telephone line for voice and data.
 It had been originally designed to run on custom hardware.
 
@@ -301,16 +306,16 @@ It had been originally designed to run on custom hardware.
 [[IBM1]]
 == Contract Technical Lead @ IBM, Dublin, Ireland (Oct '93 – Mar '94)
 
-At IBM I was originally hired to address issues that were preventing a data warehousing tool called DataRefresher from being accepted by the QA team for testing.
+At IBM, I was originally hired to address issues that were preventing a data warehousing tool called DataRefresher from being accepted by the QA team for testing.
 I was able to identify and correct significant memory leaks, race conditions and inter-process communication issues and thereby unblock the project's progress.
-Afterwards I went on to implement product features, provide mentoring to the development team and improve the engineering processes.
+Afterward I went on to implement product features, provide mentoring to the development team and improve the engineering processes.
 
 *Skills:* {cpp}, OS/2, DB2, Communications Manager, {csetpp}
 
 [[BR]]
 == Contract Software Engineer @ British Rail, Darlington, UK (Mar - Sep '93)
 
-At British Rail I was part of the team that developed a client-server application called Advanced Transmanche Operations Management System (ATOMS).
+At British Rail, I was part of the team that developed a client-server application called Advanced Transmanche Operations Management System (ATOMS).
 ATOMS was the passenger booking and rolling stock management system developed for British Rail, SNCF France and SNCF Belgium to operate services running through the Euro Tunnel.
 In addition to delivering specific features, I also designed and implemented the framework for the ATOMS user interface and I stream-lined the build process allowing regular deliveries to the off-site QA team.
 
@@ -319,7 +324,7 @@ In addition to delivering specific features, I also designed and implemented the
 [[ATT1]]
 == Contract Software Engineer @ AT&T Istel, Redditch, UK (Sep '92 – Jan '93)
 
-At AT&T we implemented a light-weight object request broker that allowed inter-process communication between processes on a personal computer and with remote processes running on Unix servers.
+At AT&T, we implemented a light-weight object request broker that allowed inter-process communication between processes on a personal computer and with remote processes running on Unix servers.
 I developed an inter-process communication mechanism for co-located Windows applications using Dynamic Data Exchange (DDE) and the client-side communication between the Windows applications and server processes over a serial connection.
 The object request broker pre-dated Common Object Request Broker Architecture (CORBA) and was based on Advanced Network Systems Architecture (ANSA).
 
@@ -328,7 +333,7 @@ The object request broker pre-dated Common Object Request Broker Architecture (C
 [[Polydata]]
 == Senior Software Engineer @ Polydata, Dublin Ireland (Apr '89 - Aug '92)
 
-At Polydata we designed and developed bespoke applications for materials producers (petrochemical, metal powder and sheet and rolled metal).
+At Polydata, we designed and developed bespoke applications for materials producers (petrochemical, metal powder and sheet and rolled metal).
 These applications were searchable electronic catalogues describing the material properties of the products manufactured and sold by those companies.
 I was responsible for a developing the solutions for many of the key clients such as DOW Chemical, DuPont, ICI, Bayer and Elf Atochem.
 My major contribution was the consolidation and re-factoring of the existing source code developed for different customers into a single code base and partial automation of the release engineering process.
@@ -339,7 +344,7 @@ My major contribution was the consolidation and re-factoring of the existing sou
 
 === CoderDojo (May '03 - Present)
 
-I have been helping young children and teenagers learn how to program in Scratch, Python, and Java and to create web-sites using HTML, CSS and Javascript as a mentor with CoderDojo.
+I have been helping young children and teenagers learn how to program in Scratch, Python, and Java, create web-sites using HTML, CSS and Javascript, and build electronic devices using Arduino as a mentor with CoderDojo.
 
 I started mentoring at a dojo in Dublin city centre and later took on the leadership role which involved recruiting other mentors, organising the venue, and dealing with background checks,
 
