@@ -27,18 +27,15 @@ RUSSIA
 image:images/me.jpg[]
 |===
 
-I am an IT professional with 35 years hands-on experience developing and delivering solutions for the banking/finance, government, insurance, software, telecommunications and transportation industries on Java and .NET stacks.
-My preferred technology stack is Java and Spring Boot.
+== Professional Summary
 
-I gave a presentation at JPoint 2025 about Testcontainers and Docker Compose integration in Spring Boot that is available on YouTube at https://www.youtube.com/watch?v=SE8cFkxpUIw.
-Previously, I had given presentations at Dublin Java User Group on reactive programming in May 2019 and May and July 2018.
-One of these is also available on YouTube at https://www.youtube.com/watch?v=nIRs2cthO4o.
+IT professional with 35 years of hands-on experience designing, building, and delivering enterprise software solutions across the banking and finance, government, insurance, software, telecommunications, and transportation sectors. Extensive expertise working with both Java and .NET ecosystems, with a primary focus on Java, Spring Boot, and Kubernetes for modern cloud-native platforms.
 
-I have over 20 years project management experience using waterfall-based, iterative and agile software development life cycles.
-I am a practitioner of the SCRUM agile project management technique but have completed a post-graduate diploma in traditional project management with the Open University.
+Active contributor to the developer community and conference speaker. Presented at JPoint 2025 on Testcontainers and Docker Compose integration with Spring Boot (video available: https://www.youtube.com/watch?v=SE8cFkxpUIw). Previously delivered multiple talks at the Dublin Java User Group on reactive programming (2018–2019), including a recorded session available at https://www.youtube.com/watch?v=nIRs2cthO4o.
 
-I have experience coordinating development teams based across multiple geographic locations and time zones.
-I have worked with offshore development teams in Tunisia, India, Singapore and Philippines and I have worked in Ireland, UK, France, USA, Japan, Tunisia, and Russia.
+Brings over 20 years of project management experience across waterfall, iterative, and agile delivery models. Practicing Scrum professional with a postgraduate diploma in traditional project management from the Open University, combining structured governance with modern agile execution.
+
+Proven track record leading and coordinating geographically distributed engineering teams across multiple time zones. Experienced in working with offshore teams in Tunisia, India, Singapore, and the Philippines, and in delivering projects internationally across Ireland, the United Kingdom, France, the United States, Japan, Tunisia, and Russia.
 
 == Work History
 
