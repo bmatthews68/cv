@@ -68,7 +68,7 @@ image:images/me.jpg[]
 | Oct '17 - Present >| Rostov-on-Don, Russia
 |===
 
-At Búraló Technologies, we provide consulting and training for cloud native application development to organisations that work with Java, Spring Boot, Spring Cloud, Docker and/or Kubernetes.
+At Búraló Technologies, I provide expert consulting and training services to organizations specializing in cloud-native application development, focusing on Java, Spring Boot, Spring Cloud, Docker, and/or Kubernetes. This expertise enables clients to leverage these technologies to build scalable, efficient, and secure applications that meet their unique needs.
 
 [cols="2*a",grid=none,frame=none]
 |===
@@ -76,7 +76,7 @@ At Búraló Technologies, we provide consulting and training for cloud native ap
 | Jan '16 - Mar '24 >| Dublin, Ireland
 |===
 
-As a key contributor to Synchronoss' Personal Cloud product suite, I have successfully improved the performance, reliability, and scalability of several core services and shared libraries. By introducing new features, optimizing existing functionality, and ensuring consistent use of third-party libraries, I have enhanced the overall quality and user experience of the platform."
+As a key contributor to Synchronoss' Personal Cloud product suite, I have successfully improved the performance, reliability, and scalability of several core services and shared libraries. By introducing new features, optimizing existing functionality, and ensuring consistent use of third-party libraries, I have enhanced the overall quality and user experience of the platform.
 
 [cols="2*a",grid=none,frame=none]
 |===
@@ -188,19 +188,7 @@ I was seconded to KVH, a private telecommunications company owned by Fidelity In
 | Jun '00 – Sep '03 >| Dublin, Ireland
 |===
 
-At Fidelity Investments, I played a leading role in three major product developments.
-
-I led the development team that ported Fidelity International Limited's (FIL) PlanViewer (http://www.planviewer.co.uk/) pension scheme administration application from a proprietary model-view-controller framework to Apache Struts 1.1.
-
-I led one the 3 development teams that delivered ActiveTrader Pro (http://personal.fidelity.com/accounts/activetrader) which was a desktop trading application provided by Fidelity eBusiness to the high net worth and active trader market segments to access their brokerage accounts, place trades, receive streaming quotes and review market news.
-I also personally designed and implemented the framework for the user interface of ActiveTrader Pro using {cpp} and ActiveX used by all 3 development teams.
-
-I acted as the product manager for Fidelity Online Xpress+ (FOX+) which was Fidelity Investments' original desktop trading application available to all customer segments.
-I streamlined the configuration management and release engineering practices for FOX+, dramatically reduced the size of the downloadable product installer for FOX+ by 75% and successfully delivered quarterly releases of FOX+.
-
-In addition to my project specific roles, I was a member of the Development Audit Team (DAT) and founding member of the Technical Review Board (TRB).
-The DAT audited projects to ensure they adhered to best practices from a project management perspective during the project initiation, requirements gathering and solution design phases.
-The TRB reviewed the proposed architectures and detailed designs of projects to ensure that those projects were technically feasible and following best practices.
+At Fidelity Investments, I led three major product developments, including migrating FIL's PlanViewer pension scheme administration application to Apache Struts 1.1 and delivering components of ActiveTrader Pro, a desktop trading application. As product manager for Fidelity Online Xpress+, I streamlined configuration management and release engineering practices, reducing the installer size by 75% and delivering quarterly releases. Additionally, I was a member of the Development Audit Team (DAT) and founding member of the Technical Review Board (TRB), ensuring projects followed best practices during development. These roles showcased my technical expertise in supporting business growth and strategy at Fidelity Investments.
 
 [cols="2*a",grid=none,frame=none]
 |===
@@ -208,8 +196,7 @@ The TRB reviewed the proposed architectures and detailed designs of projects to 
 | Aug '99 - May '00 >| Dublin, Ireland
 |===
 
-* Designed the architecture for a new margin trading system that would replace the company's existing thick client product offering called MarginMan.
-I designed the architecture for the new CORBA based n-tier collateralized margin trading system and then took on the role of Software Development Manager with responsibility for teams based in Dublin, Singapore and Manila.
+I joined IFS as Senior Software Architect to design the architecture for a new margin trading system, which would replace the company's existing MarginMan thick client product offering. This project involved designing the architecture for a CORBA-based n-tier collateralized margin trading system, and subsequently took on additional responsibilities as Software Development Manager, overseeing teams based in Dublin, Singapore, and Manila."
 
 [cols="2*a",grid=none,frame=none]
 |===
@@ -217,11 +204,9 @@ I designed the architecture for the new CORBA based n-tier collateralized margin
 | Oct '98 – Jul '99 >| Redditch, UK
 |===
 
-* Developed a platform to construct and manage network services called Common Open IP Platform (COIPP).
+At AT&T Labs, I worked for the IP Technology Organization on the development of the Common Open IP Platform (COIPP), a platform designed to construct and manage network services. My responsibilities included providing CORBA expertise to support the implementation of middle-tier components in provisioning, billing, and management systems, as well as porting existing components from Orbix to VisiBroker and migrating them from Windows to Solaris.
 
-* Provided CORBA expertise to the team responsible for implementing the middle-tier components of the provisioning, billing and management systems, ported existing components from Orbix to VisiBroker and assisted the team that ported the existing components from Windows to Solaris.
-
-* Migrated the team’s version control solution from PVCS to Clearcase.
+In addition to these technical contributions, I also oversaw the migration of our version control solution from PVCS to Clearcase, ensuring a seamless transition for the team.
 
 [cols="2*a",grid=none,frame=none]
 |===
@@ -229,9 +214,7 @@ I designed the architecture for the new CORBA based n-tier collateralized margin
 | Oct '97 – Sep '98 >| Dublin, Ireland
 |===
 
-* Developed a customer relationship management application for insurance companies called Client Information & Integration System (CIIS).
-
-* Led the teams that designed the overall architecture for CIIS and developed the middle-tier components.
+At IBM's Insurance Solutions Development Centre, I contributed to the development of the Client Information & Integration System (CIIS), a customer relationship management application designed specifically for insurance companies. My responsibilities included leading cross-functional teams in designing the overall architecture and developing the middle-tier components that enable seamless interaction between applications.
 
 [cols="2*a",grid=none,frame=none]
 |===
@@ -239,7 +222,7 @@ I designed the architecture for the new CORBA based n-tier collateralized margin
 | Apr '96 – Sep '97 >| Seattle, WA, USA
 |===
 
-* Developing agents that were installed on over 3,000 file, database, e-mail, web and proxy servers to collect usage metrics.
+At Microsoft, I worked as a member of the Infrastructure and Automation Tools team. My responsibilities included developing agents that were installed on over 3,000 servers across various file, database, email, web, and proxy platforms to collect usage metrics. The resulting data was then used to predict future server and disk space requirements.
 
 [cols="2*a",grid=none,frame=none]
 |===
@@ -247,9 +230,7 @@ I designed the architecture for the new CORBA based n-tier collateralized margin
 | Sep '95 – Mar '96 >| Dublin, Ireland
 |===
 
-* Developed test, automation and localization tools used to test and localize Lotus' office application suite called Lotus SmartSuite.
-
-* Developed plug-ins to instrument Lotus' custom controls and unified the code-base to eliminate the need for separate builds for each flavour of Windows.
+At Lotus, I was a member of the Global QA team that developed comprehensive test, automation, and localization tools used to thoroughly test and deploy Lotus SmartSuite, the company's office application suite. As part of this effort, I created plug-ins to instrument Lotus' custom controls, streamlining development and eliminating the need for separate builds for each Windows flavor.
 
 [cols="2*a",grid=none,frame=none]
 |===
@@ -257,13 +238,7 @@ I designed the architecture for the new CORBA based n-tier collateralized margin
 | Aug '94 – Aug '95 >| London, UK
 |===
 
-* Developed and maintained applications support the purchasing, goods inwards and accounting departments in the London office.
-
-* Recruited and led the development team
-
-* Ported existing components from OS/2 to Windows 3.x
-
-* Carried out maintenance and implemented enhancements to meet changing business practices.
+At Lehman Brothers, I led a small team that developed and maintained applications to support the purchasing, goods inwards, and accounting departments in our London office. As part of this effort, I successfully recruited and led a development team, ported existing components from OS/2 to Windows 3.x, and carried out maintenance and implemented enhancements to meet evolving business practices.
 
 [cols="2*a",grid=none,frame=none]
 |===
@@ -271,7 +246,7 @@ I designed the architecture for the new CORBA based n-tier collateralized margin
 | Apr – Jul '94 >| Grenoble, France
 |===
 
-* Ported a conferencing tool called Omnishare to run on a standard IBM compatible PC instead of dedicated hardware.
+At HP, I was part of a small team that successfully ported the Omnishare product to run on standard IBM-compatible PCs. Omnishare was a conferencing tool that enabled users to share and annotate documents using both voice and data over a single telephone line. Originally designed to run on custom hardware, our porting effort ensured that Omnishare could be easily deployed and utilized by a wider range of users.
 
 [cols="2*a",grid=none,frame=none]
 |===
@@ -279,11 +254,9 @@ I designed the architecture for the new CORBA based n-tier collateralized margin
 | Oct '93 – Mar '94 >| Dublin, Ireland
 |===
 
-* Initially hired to identify and correct issues that were preventing a data warehousing tool called DataRefresher from being accepted by the QA team for testing.
+At IBM, I was initially hired to troubleshoot issues that were hindering the adoption of DataRefresher, a data warehousing tool, by the QA team for testing. Through thorough analysis, I identified and corrected critical memory leaks, race conditions, and inter-process communication issues, which enabled the project to progress smoothly.
 
-* Implemented additional product features to connect to various data sources and sinks.
-
-* Provided mentoring to the development team and improved the engineering processes.
+Subsequent to resolving these issues, I took on additional responsibilities, implementing product features, providing guidance and mentorship to the development team, and refining our engineering processes to improve overall quality and efficiency.
 
 [cols="2*a",frame=none,grid=none]
 |===
@@ -291,11 +264,9 @@ I designed the architecture for the new CORBA based n-tier collateralized margin
 | Mar - Sep '93 >| Darlington, UK
 |===
 
-* Developed passenger booking and rolling stock management for a client-server application called Advanced Transmanche Operations Management System (ATOMS).
+At British Rail, I was part of a team that developed a client-server application called Advanced Transmanche Operations Management System (ATOMS), which served as the passenger booking and rolling stock management system for British Rail, SNCF France, and SNCF Belgium. The system enabled services to operate through the Euro Tunnel.
 
-* Designed and implemented the framework for the ATOMS user interface.
-
-* Stream-lined the build process allowing regular deliveries to the off-site QA team.
+In addition to delivering specific features, I also played a key role in designing and implementing the framework for the ATOMS user interface and streamlining the build process. This allowed for regular deliveries of the software to the off-site QA team.
 
 [cols="2*a",frame=none,grid=none]
 |===
@@ -303,9 +274,7 @@ I designed the architecture for the new CORBA based n-tier collateralized margin
 | Sep '92 – Jan '93 >| Redditch, UK
 |===
 
-* Developed an inter-process communication mechanism for co-located Windows applications using Dynamic Data Exchange (DDE).
-
-* Developed the client-side communication between the Windows applications and Unix server processes over a serial connection.
+I contributed to the implementation of a lightweight object request broker at AT&T, enabling inter-process communication between personal computers and remote Unix servers. I also developed an inter-process communication mechanism specifically designed for co-located Windows applications using Dynamic Data Exchange (DDE), and worked on client-side communication over a serial connection. The solution predates Common Object Request Broker Architecture (CORBA) and was based on Advanced Network Systems Architecture (ANSA), demonstrating AT&T's forward-thinking approach to distributed computing. This work showcased my technical expertise in developing innovative solutions for inter-process communication across different platforms.
 
 [cols="2*a",frame=none,grid=none]
 |===
@@ -313,9 +282,7 @@ I designed the architecture for the new CORBA based n-tier collateralized margin
 | Apr '89 - Aug '92 >| Dublin Ireland
 |===
 
-* Developed searchable electronic catalogues describing the material properties of products sold by many of the key clients such as DOW Chemical, DuPont, ICI, Bayer and Elf Atochem.
-
-* Consolidation and re-factoring of the existing source code developed for different customers into a single code base and partial automation of the release engineering process.
+At Polydata, I designed and developed bespoke applications tailored to the materials industries, creating searchable electronic catalogues that described material properties. As part of this project, I led efforts for key clients such as DOW Chemical, DuPont, and others, streamlining the development process through code consolidation and automation. My major contribution was consolidating existing source code into a single, unified code base, which improved efficiency and reduced manual errors. This effort improved the manufacturing pipeline's accuracy and productivity.
 
 == Skills
 

@@ -42,7 +42,7 @@ Proven track record leading and coordinating geographically distributed engineer
 [[Buralo]]
 === Director of Consulting @ Búraló Technologies, Rostov-on-Don, Russia (Oct '17 - Present)
 
-At Búraló Technologies, we provide consulting and training for cloud native application development to organisations that work with Java, Spring Boot, Spring Cloud, Docker and/or Kubernetes.
+At Búraló Technologies, I provide expert consulting and training services to organizations specializing in cloud-native application development, focusing on Java, Spring Boot, Spring Cloud, Docker, and/or Kubernetes. This expertise enables clients to leverage these technologies to build scalable, efficient, and secure applications that meet their unique needs.
 
 *Skills:* Java, Spring Boot, Spring Cloud, Spring Data, Spring Vault, Docker, Testcontainers, Kubernetes, Istio, Telepresence, HashiCorp Vault, MariaDB, PostgreSQL, VueJS, Helm, Maven, Gradle
 
@@ -216,115 +216,106 @@ I was seconded to KVH, a private telecommunications company owned by Fidelity In
 [[Fidelity1]]
 == Principal Consultant @ Fidelity Investments, Dublin, Ireland (Jun '00 – Sep '03)
 
-At Fidelity Investments, I played a leading role in three major product developments.
+At Fidelity Investments, I led three major product developments. Key highlights include:
 
-I led the development team that ported Fidelity International Limited's (FIL) PlanViewer (http://www.planviewer.co.uk/) pension scheme administration application from a proprietary model-view-controller framework to Apache Struts 1.1.
+* Migrating FIL's PlanViewer pension scheme administration application from a proprietary framework to Apache Struts 1.1.
 
-I led one the 3 development teams that delivered ActiveTrader Pro (http://personal.fidelity.com/accounts/activetrader) which was a desktop trading application provided by Fidelity eBusiness to the high net worth and active trader market segments to access their brokerage accounts, place trades, receive streaming quotes and review market news.
-I also personally designed and implemented the framework for the user interface of ActiveTrader Pro using {cpp} and ActiveX used by all 3 development teams.
+* Delivering ActiveTrader Pro, a desktop trading application, which I personally designed and implemented the user interface framework using {cpp} and ActiveX.
 
-I acted as the product manager for Fidelity Online Xpress+ (FOX+) which was Fidelity Investments' original desktop trading application available to all customer segments.
-I streamlined the configuration management and release engineering practices for FOX+, dramatically reduced the size of the downloadable product installer for FOX+ by 75% and successfully delivered quarterly releases of FOX+.
+* Serving as product manager for Fidelity Online Xpress+, where I streamlined configuration management and release engineering practices, reducing the installer size by 75% and delivering quarterly releases.
 
-In addition to my project specific roles, I was a member of the Development Audit Team (DAT) and founding member of the Technical Review Board (TRB).
-The DAT audited projects to ensure they adhered to best practices from a project management perspective during the project initiation, requirements gathering and solution design phases.
-The TRB reviewed the proposed architectures and detailed designs of projects to ensure that those projects were technically feasible and following best practices.
+In addition to these roles, I was also a member of the Development Audit Team (DAT) and founding member of the Technical Review Board (TRB). The DAT ensured projects followed best practices during project initiation, requirements gathering, and solution design phases. The TRB reviewed proposed architectures and designs to ensure technical feasibility and adherence to best practices.
 
 *Skills:* Java, {cpp}, Javascript, Struts, STL, MFC, RougeWave Libraries, COM/ATL, ADO, IBM WebSphere, Sybase, Solaris, Windows 95/NT/ME/2000, Eclipse, Visual {cpp}, Clearcase, LoadRunner, WinRunner, ClearQuest, Test Director
 
 [[IFS]]
 == Software Development Manager @ IFS, Dublin, Ireland (Aug '99 - May '00)
 
-I joined IFS as the Senior Software Architect to design the architecture for a new margin trading system that would replace the company's existing thick client product offering called MarginMan.
-I designed the architecture for the new CORBA based n-tier collateralized margin trading system and then took on the role of Software Development Manager with responsibility for teams based in Dublin, Singapore and Manila.
+I joined IFS as Senior Software Architect to design the architecture for a new margin trading system, which would replace the company's existing MarginMan thick client product offering. This project involved designing the architecture for a CORBA-based n-tier collateralized margin trading system, and subsequently took on additional responsibilities as Software Development Manager, overseeing teams based in Dublin, Singapore, and Manila.
 
 *Skills:* {cpp}, Orbix, Microsoft Foundation Classes, Windows NT, Visual {cpp}, Visual SourceSafe
 
 [[ATT2]]
 == Contract Technical Lead @ AT&T Labs, Redditch, UK (Oct '98 – Jul '99)
 
-At AT&T Labs, I worked for the IP Technology Organization developing a platform to construct and manage network services called Common Open IP Platform (COIPP).
-I provided CORBA expertise to the team responsible for implementing the middle-tier components of the provisioning, billing and management systems, ported existing components from Orbix to VisiBroker and assisted the team that ported the existing components from Windows to Solaris.
-In addition, I migrated the team’s version control solution from PVCS to Clearcase.
+At AT&T Labs, I worked for the IP Technology Organization on the development of the Common Open IP Platform (COIPP), a platform designed to construct and manage network services. My responsibilities included providing CORBA expertise to support the implementation of middle-tier components in provisioning, billing, and management systems, as well as porting existing components from Orbix to VisiBroker and migrating them from Windows to Solaris.
+
+In addition to these technical contributions, I also oversaw the migration of our version control solution from PVCS to Clearcase, ensuring a seamless transition for the team.
 
 *Skills:* Java, {cpp}, Orbix, VisiBroker, MQSeries, Oracle, Solaris, Visual {cpp}, Sun {cpp}, Clearcase, PVCS
 
 [[IBM2]]
 == Contract Project Lead @ IBM, Dublin, Ireland (Oct '97 – Sep '98)
 
-At IBM, I worked with the Insurance Solutions Development Centre developing a customer relationship management application for insurance companies called Client Information & Integration System (CIIS).
-I led the teams that designed the overall architecture for CIIS and developed the middle-tier components.
+At IBM's Insurance Solutions Development Centre, I contributed to the development of the Client Information & Integration System (CIIS), a customer relationship management application designed specifically for insurance companies. My responsibilities included leading cross-functional teams in designing the overall architecture and developing the middle-tier components that enable seamless interaction between applications.
 
 *Skills:* Java, {cpp}, Swing, Orbix, OrbixWeb, DB2, Solaris, Visual {cpp}, Visual SourceSafe, make
 
 [[Microsoft]]
 == Contract Software Engineer @ Microsoft, Seattle, WA, USA (Apr '96 – Sep '97)
 
-At Microsoft, I worked for the Infrastructure and Automation Tools team.
-I was responsible for developing agents that were installed on over 3,000 file, database, e-mail, web and proxy servers to collect usage metrics.
-Those metrics were used to predict future server and disk space needs.
+At Microsoft, I worked as a member of the Infrastructure and Automation Tools team. My responsibilities included developing agents that were installed on over 3,000 servers across various file, database, email, web, and proxy platforms to collect usage metrics. The resulting data was then used to predict future server and disk space requirements.
 
 *Skills:* {cpp}, Windows SDK, Microsoft Foundation Classes, SQL Server, Windows NT, Visual {cpp}, Visual SourceSafe
 
 [[Lotus]]
 == Contract Software Engineer @ Lotus, Dublin, Ireland (Sep '95 – Mar '96)
 
-At Lotus, I worked for the Global QA team that developed test, automation and localization tools used to test and localize Lotus' office application suite called Lotus SmartSuite.
-I developed plug-ins to instrument Lotus' custom controls and unified the code-base to eliminate the need for separate builds for each flavour of Windows.
+At Lotus, I was a member of the Global QA team that developed comprehensive test, automation, and localization tools used to thoroughly test and deploy Lotus SmartSuite, the company's office application suite. As part of this effort, I created plug-ins to instrument Lotus' custom controls, streamlining development and eliminating the need for separate builds for each Windows flavor.
 
 *Skills:* {cpp}, Windows SDK, Windows 3.x/95/NT,  Visual {cpp}, PVCS, Lotus Notes
 
 [[Lehman]]
 == Contract Project Lead @ Lehman Brothers, London, UK (Aug '94 – Aug '95)
 
-At Lehman Brothers, I led worked with a small team that developed and maintained applications support the purchasing, goods inwards and accounting departments in the London office.
-I recruited and led the development team, ported existing components from OS/2 to Windows 3.x and carried out maintenance and implemented enhancements to meet changing business practices.
+At Lehman Brothers, I led a small team that developed and maintained applications to support the purchasing, goods inwards, and accounting departments in our London office. As part of this effort, I successfully recruited and led a development team, ported existing components from OS/2 to Windows 3.x, and carried out maintenance and implemented enhancements to meet evolving business practices.
 
 *Skills:* {cpp}, OS/2 SDK, Object Windows Library, Lotus Notes, Sybase, Windows 3.x, OS/2, Borland {cpp}, {csetpp}, PVCS
 
 [[HP]]
 == Contract Software Engineer @ Hewlett-Packard, Grenoble, France (Apr – Jul '94)
 
-At HP, I was part of a small team that ported a product called Omnishare to run on a standard IBM compatible PC.
-Omnishare was a conferencing tool that allowed users to share and annotate documents using the same telephone line for voice and data.
-It had been originally designed to run on custom hardware.
+At HP, I was part of a small team that successfully ported the Omnishare product to run on standard IBM-compatible PCs. Omnishare was a conferencing tool that enabled users to share and annotate documents using both voice and data over a single telephone line. Originally designed to run on custom hardware, our porting effort ensured that Omnishare could be easily deployed and utilized by a wider range of users.
 
 *Skills:* {cpp}, Windows SDK, Microsoft Foundation Classes, Windows 3.x, Visual {cpp}, Visual SourceSafe
 
 [[IBM1]]
 == Contract Technical Lead @ IBM, Dublin, Ireland (Oct '93 – Mar '94)
 
-At IBM, I was originally hired to address issues that were preventing a data warehousing tool called DataRefresher from being accepted by the QA team for testing.
-I was able to identify and correct significant memory leaks, race conditions and inter-process communication issues and thereby unblock the project's progress.
-Afterward I went on to implement product features, provide mentoring to the development team and improve the engineering processes.
+At IBM, I was initially hired to troubleshoot issues that were hindering the adoption of DataRefresher, a data warehousing tool, by the QA team for testing. Through thorough analysis, I identified and corrected critical memory leaks, race conditions, and inter-process communication issues, which enabled the project to progress smoothly.
+
+Subsequent to resolving these issues, I took on additional responsibilities, implementing product features, providing guidance and mentorship to the development team, and refining our engineering processes to improve overall quality and efficiency.
 
 *Skills:* {cpp}, OS/2, DB2, Communications Manager, {csetpp}
 
 [[BR]]
 == Contract Software Engineer @ British Rail, Darlington, UK (Mar - Sep '93)
 
-At British Rail, I was part of the team that developed a client-server application called Advanced Transmanche Operations Management System (ATOMS).
-ATOMS was the passenger booking and rolling stock management system developed for British Rail, SNCF France and SNCF Belgium to operate services running through the Euro Tunnel.
-In addition to delivering specific features, I also designed and implemented the framework for the ATOMS user interface and I stream-lined the build process allowing regular deliveries to the off-site QA team.
+At British Rail, I was part of a team that developed a client-server application called Advanced Transmanche Operations Management System (ATOMS), which served as the passenger booking and rolling stock management system for British Rail, SNCF France, and SNCF Belgium. The system enabled services to operate through the Euro Tunnel.
+
+In addition to delivering specific features, I also played a key role in designing and implementing the framework for the ATOMS user interface and streamlining the build process. This allowed for regular deliveries of the software to the off-site QA team.
 
 *Skills:* {cpp}, MFC, Windows 3.x, Oracle, Visual {cpp}, PVCS
 
 [[ATT1]]
 == Contract Software Engineer @ AT&T Istel, Redditch, UK (Sep '92 – Jan '93)
 
-At AT&T, we implemented a light-weight object request broker that allowed inter-process communication between processes on a personal computer and with remote processes running on Unix servers.
-I developed an inter-process communication mechanism for co-located Windows applications using Dynamic Data Exchange (DDE) and the client-side communication between the Windows applications and server processes over a serial connection.
-The object request broker pre-dated Common Object Request Broker Architecture (CORBA) and was based on Advanced Network Systems Architecture (ANSA).
+At AT&T, I contributed to the implementation of a lightweight object request broker that enabled inter-process communication between personal computers and remote Unix servers. This solution allowed for seamless interaction between applications running on different platforms.
+
+In addition to this work, I developed an inter-process communication mechanism specifically designed for co-located Windows applications using Dynamic Data Exchange (DDE). I also worked on client-side communication between the Windows applications and server processes over a serial connection.
+
+Furthermore, the object request broker predates the Common Object Request Broker Architecture (CORBA) and was based on Advanced Network Systems Architecture (ANSA). This innovative solution demonstrated the company's forward-thinking approach to distributed computing.
 
 *Skills:* {cpp},  Windows 3.x, Unix, Visual {cpp}, PVCS
 
 [[Polydata]]
 == Senior Software Engineer @ Polydata, Dublin Ireland (Apr '89 - Aug '92)
 
-At Polydata, we designed and developed bespoke applications for materials producers (petrochemical, metal powder and sheet and rolled metal).
-These applications were searchable electronic catalogues describing the material properties of the products manufactured and sold by those companies.
-I was responsible for a developing the solutions for many of the key clients such as DOW Chemical, DuPont, ICI, Bayer and Elf Atochem.
-My major contribution was the consolidation and re-factoring of the existing source code developed for different customers into a single code base and partial automation of the release engineering process.
+At Polydata, I designed and developed bespoke applications tailored to the specific needs of materials producers in the petrochemical, metal powder, sheet, and rolled metal industries. These applications were searchable electronic catalogues that described the material properties of products manufactured and sold by these companies.
+
+As part of this project, I led efforts to develop solutions for key clients such as DOW Chemical, DuPont, ICI, Bayer, and Elf Atochem. My major contribution was the consolidation and re-factoring of existing source code developed for each customer into a single, unified code base, as well as partial automation of the release engineering process.
+
+I streamlined the development process by creating a centralized repository of code components, which improved efficiency and reduced manual errors in the manufacturing pipeline.
 
 *Skills:* Pascal, C, {cpp}, x86 Assembly, MS-DOS, Turbo Pascal, Turbo {cpp}, RCS
 
