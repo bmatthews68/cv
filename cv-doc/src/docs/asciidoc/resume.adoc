@@ -1,0 +1,367 @@
+= Résumé - Brian Thomas Matthews
+
+== Personal Details
+
+[cols="2a,1a",frame=none,grid=none]
+|===
+|
+[cols="1h,3a",frame=none,grid=none]
+!===
+! Address
+! ul. Suvorova, 10 kv. 20-22, +
+Rostov-on-don, +
+344002, +
+Russia
+! Phone    ! +7 961 310 5068
+! E-mail   ! bmatthews68@gmail.com
+! LinkedIn ! http://ie.linkedin.com/in/bmatthews68
+! GitHub   ! https://github.com/bmatthews68
+! Work Authorizations ! * *Ireland, EU & UK* -- Irish citizen
+* *Russia* -- Permanent resident (PRP)
+!===
+|
+image:images/me.jpg[]
+|===
+
+== Professional Experience
+
+=== Summary
+
+[%header%footer,frame=none,grid=none,options="autowidth"]
+|===
+| Company | From | To | Role | Key Skills
+| Búraló Technologies | Oct{nbsp}17 | Now | Director of Consulting | Java, Spring Boot, Kubernetes
+| Synchronoss | Jan{nbsp}16 | Mar{nbsp}24  | Software Engineer^*^ | Java, Spring Boot, MariaDB, Cassandra, Kubernetes
+| THBS | Jan{nbsp}14 | Dec{nbsp}15  | Portal Team Lead^*^ | Java, Spring, SQL Server, Chef
+| Daon | Sep{nbsp}13 | Dec{nbsp}13  | Software Engineer^*^ | Java, Oracle
+| Realex Payments | Feb{nbsp}13 | Aug{nbsp}13  | Software Engineer^*^ | Java, Spring, SQL Server
+| Fujitsu | Jan{nbsp}13 | Feb{nbsp}13  | Software Engineer^*^ | Java, Spring, SOA
+| Newbay | Jan{nbsp}12 | Oct{nbsp}12 | Software Engineer^*^ | Objective-C
+| LeasePlan | Jul{nbsp}11 | Jan{nbsp}12 | Software Engineer^*^ | Java, Spring
+| D&B | May{nbsp}11 | Jul{nbsp}11 | Technical Architect ^*^ | Java, SOA, Oracle
+| Fujitsu | Jun{nbsp}10 | Apr{nbsp}11 | SOA Architect^*^ | Java, Spring, SOA, Ingres
+| Corvil | Oct{nbsp}09 | Jun{nbsp}10 | Software Engineer^*^ | C++
+| Vodafone | Feb{nbsp}09 | Sep{nbsp}09 | Technical Architect^*^ | Java, OSGi, Oracle
+| TerraNua | Aug{nbsp}06 | Jul{nbsp}08 | Director | Java, Spring, Oracle
+| Fidelity Investments | Oct{nbsp}05 | Jul{nbsp}06 | Information Security Consultant | C#, Identity Management
+| KVH | Oct{nbsp}03 | Sep{nbsp}05 | Lead Systems Architect | Java, Oracle, Siebel
+| Fidelity | Jun{nbsp}00 | Sep{nbsp}03 | Principal Consultant | C++, Java, Struts, Oracle
+| IFS | Aug{nbsp}99 | May{nbsp}00 | Software Development Manager | C++, CORBA
+| AT&T | Oct{nbsp}98 | Jul{nbsp}99 | Technical Lead^*^ | C++, Java, CORBA
+| IBM | Oct{nbsp}97 | Sep{nbsp}98 | Project Lead^*^| C++, Java, CORBA, DB2
+| Microsoft | Apr{nbsp}96 | Sep{nbsp}97  | Software Engineer^*^| C++, SQL Server
+| Lotus | Sep{nbsp}95 | Mar{nbsp}96  | Software Engineer^*^ | C++
+| Lehman Brothers | Aug{nbsp}94 | Aug{nbsp}95  | Project Lead^*^ | C++, Sybase
+| Hewlett-Packard | Apr{nbsp}94 | Jul{nbsp}94  | Software Engineer^*^ | C++
+| IBM | Oct{nbsp}93 | Mar{nbsp}94  | Technical Lead^*^ | C++, DB2
+| British Rail | Mar{nbsp}93 | Sep{nbsp}93  | Software Engineer^*^ | C++, Oracle
+| AT&T | Sep{nbsp}92 | Jan{nbsp}93  | Software Engineer^*^ | C++
+| Polydata | Apr{nbsp}89 | Aug{nbsp}92  | Senior Software Engineer | Pascal
+5+| Positions marked with an asterisk (*) indicate contract roles
+|===
+
+=== Detailed
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Búraló Technologies, _Director of Consulting_
+| Oct '17 - Present >| Rostov-on-Don, Russia
+|===
+
+At Búraló Technologies, we provide consulting and training for cloud native application development to organisations that work with Java, Spring Boot, Spring Cloud, Docker and/or Kubernetes.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Synchronoss, _Contract Software Engineer_
+| Jan '16 - Mar '24 >| Dublin, Ireland
+|===
+
+As a key contributor to Synchronoss' Personal Cloud product suite, I have successfully improved the performance, reliability, and scalability of several core services and shared libraries. By introducing new features, optimizing existing functionality, and ensuring consistent use of third-party libraries, I have enhanced the overall quality and user experience of the platform."
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Torry Harris Business Solutions, _Contract Portal Lead_
+| Jan '14 - Dec '15 >| Dublin, Ireland
+|===
+
+As a Portal Project Lead at eir, I successfully led the development, deployment, and integration of portal projects for business customers, delivering seamless self-care experiences for VoIP services. I collaborated with cross-functional teams to resolve security and performance issues, ensuring high-quality user experiences and integrating Loki Portals with OpenAM single sign-on platform using SAML 2.0. Additionally, I played a key role in evaluating and selecting converged billing analytics and presentment tools for corporate customers, integrating Optimiser from Soft-ex into eir Business Online portal. My expertise in portal development and integration, combined with my ability to lead cross-functional teams and collaborate with offshore partners, has enabled me to deliver successful outcomes in this project.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Daon, _Contract Software Engineer_
+| Sep - Dec '13 >| Daon, Dublin, Ireland
+|===
+
+I developed features independently for Daon's IdentityX product suite (http://www.identityx.com), utilizing biometric and multifactor authentication to secure banking transactions on mobile devices. I successfully migrated the codebase from Ant to Maven, introduced RSA SecurID based authentication support and implemented unit testing using Jasmine. This work enhanced the overall security and reliability of the IdentityX platform.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Realex Payments, _Contract Software Engineer_
+| Feb - Aug '13 >| Dublin, Ireland
+|===
+
+I contributed to the maintenance and development of Realex Payments' Fraud Management module Real Control 2 and Hosted Payments Page. I successfully completed the upgrade to Real Control 2's Fraud Management module and implemented a white-labeling solution for Hosted Payments Page. Additionally, I integrated alternative payment methods such as PayPal and quote exchange rates using Spring Integration. This experience showcased my technical skills in developing secure payment solutions.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Fujitsu, _Contract Software Engineer_
+| Jan - Feb '13 >| Dublin, Ireland
+|===
+
+At Fujitsu, I designed and implemented document management features for the Road Transport Operator Licensing application, utilizing the OpenCMIS and Alfresco content management systems.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Newbay, _Contract Software Engineer_
+| Jan - Oct '12 >| Dublin, Ireland
+|===
+
+At Newbay, I developed and maintained SyncDrive, a white-label application that allowed mobile phone operators to synchronize content across PCs, mobile devices, and cloud storage. Initially, I identified and resolved high-priority defects in order to deliver the first version of SyncDrive for Mac OS X on time. Next, I refactored the codebase to separate presentation, business logic, and data concerns, eliminating inherent race conditions and enabling the creation of more comprehensive unit tests.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| LeasePlan, _Contract Software Engineer_
+| Jul '11 - Jan '12 >| Dublin, Ireland
+|===
+
+At LeasePlan, I led the re-engineering of their Internet Quotation web application to enhance user experience and address security concerns raised by external auditors. This involved migrating the codebase from Spring 2 to Spring 3 and implementing a dynamic content repository using Apache Jackrabbit, allowing individual business units and brokers to customize their look and feel. Additionally, I addressed performance issues related to proxying remote content (car images) provided by third-party systems by introducing caching and image scaling.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| D&B, _Contract Technical Architect_
+| May – Jul '11 >| Dublin, Ireland
+|===
+
+I worked as an architect on user interface and input handler components for D&B's new Data Supply Chain infrastructure. The Data Supply Chain infrastructure is responsible for processing all inbound data used by D&B to accumulate business intelligence, derive linkage information, and calculate credit scores. At the time of my departure, the project had not yet progressed past the requirements gathering phase.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Fujitsu, _Contract SOA Architect_
+| Jun '10 – Apr '11 >| Dublin, Ireland
+|===
+
+At Fujitsu, I designed and implemented solutions to support the Irish Department of Transport and the Irish Courts Service. I developed an integration framework with EU jurisdiction counterparts using Oracle SOA Suite 10g, and created web services for the Road Safety Authority and Taxi Regulator to access critical data from the Department of Transport's centralized database. For the Irish Courts Service, I proposed a technology stack and developed a proof-of-concept project to enable online judgments for liquidated sums using JBoss, Spring, and other technologies. Additionally, I upgraded the integration with Murex trading and SWIFT settlement systems at KBC Bank.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Corvil, _Contract Software Engineer_
+| Oct '09 - Jun '10 >| Dublin, Ireland
+|===
+
+At Corvil (http://www.corvil.com), I developed decoders to handle market data feeds and trading protocols, enabling gap detection and message correlation within their latency analysis tools. Specifically, I designed and implemented a generic template-driven decoder that exceeded performance targets, successfully handling feeds from multiple exchanges, including the Deutsche Börse, London, NASDAQ, NYSE, Tokyo, and Osaka, as well as a custom decoder for Tibco Rendezvous by reverse-engineering sample traffic.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Vodafone, _Contract Technical Architect_
+| Feb - Sep '09 >| London, UK
+|===
+
+At Vodafone, I served as technical architect for My Web, a mobile portal that evolved into Vodafone 360. Originally launched in 2009, it was initially rolled out across multiple countries and required significant architecture changes to support a large user base. To achieve this, I re-designed the software architecture, migrated from ANT to Maven 2, and improved automation processes, ensuring non-functional performance and stability requirements were met. This success supported a initial active user base of 7.5 million with a peak load of 1,600 page views per second.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| TerraNua, _Director_
+| Aug '06 – Jul '08 >| Dublin, Ireland & Tunis, Tunisia
+|===
+
+At TerraNua, I served as lead architect for MyComplianceOffice, a Software as a Service (SaaS) hosted/multi-tenant solution designed to manage compliance-related business processes for US-based registered investment advisors and hedge funds. I led the design and implementation of the physical and software architecture, utilizing portal server, workflow, and document management technologies. As part of my role, I also recruited and led the development team for release 1.0 and led the architecture team. Later, I relocated to Tunisia to establish and mentor an offshore development team.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h|Fidelity Investments, _Information Security Consultant_
+| Oct '05 - Jul '06 >| Dublin, Ireland
+|===
+
+hen I returned to Fidelity Investments from my secondment to KVH, I served as architect for a team responsible for developing and maintaining the enterprise-wide identity management, automated access provisioning, risk management, and reporting system. The core components of this system included an intranet-facing application in ASP.NET that enabled raising and processing access requests, as well as a workflow engine that integrated third-party solutions to automate provisioning processes. I designed and implemented the NxBRE rules engine, which played a critical role in streamlining the automated provisioning process.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| KVH, _Lead System Architect_
+| Oct '03 – Sep '05 >| Tokyo, Japan
+|===
+
+I was seconded to KVH, a private telecommunications company owned by Fidelity Investments, where I collaborated with senior leadership to design and support the integration of Business and Operations Support Systems (BSS/OSS). I created and maintained the overall architecture blueprint and roadmap for the OSS/BSS platform, conducted product evaluations, and vendor negotiations. Additionally, I led the development of two key portals: eKVH, a B2C portal developed using BEA WebLogic Portal, and a B2E portal implemented using Struts.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Fidelity Investments, _Principal Consultant_
+| Jun '00 – Sep '03 >| Dublin, Ireland
+|===
+
+At Fidelity Investments, I played a leading role in three major product developments.
+
+I led the development team that ported Fidelity International Limited's (FIL) PlanViewer (http://www.planviewer.co.uk/) pension scheme administration application from a proprietary model-view-controller framework to Apache Struts 1.1.
+
+I led one the 3 development teams that delivered ActiveTrader Pro (http://personal.fidelity.com/accounts/activetrader) which was a desktop trading application provided by Fidelity eBusiness to the high net worth and active trader market segments to access their brokerage accounts, place trades, receive streaming quotes and review market news.
+I also personally designed and implemented the framework for the user interface of ActiveTrader Pro using {cpp} and ActiveX used by all 3 development teams.
+
+I acted as the product manager for Fidelity Online Xpress+ (FOX+) which was Fidelity Investments' original desktop trading application available to all customer segments.
+I streamlined the configuration management and release engineering practices for FOX+, dramatically reduced the size of the downloadable product installer for FOX+ by 75% and successfully delivered quarterly releases of FOX+.
+
+In addition to my project specific roles, I was a member of the Development Audit Team (DAT) and founding member of the Technical Review Board (TRB).
+The DAT audited projects to ensure they adhered to best practices from a project management perspective during the project initiation, requirements gathering and solution design phases.
+The TRB reviewed the proposed architectures and detailed designs of projects to ensure that those projects were technically feasible and following best practices.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| IFS, _Software Development Manager_
+| Aug '99 - May '00 >| Dublin, Ireland
+|===
+
+* Designed the architecture for a new margin trading system that would replace the company's existing thick client product offering called MarginMan.
+I designed the architecture for the new CORBA based n-tier collateralized margin trading system and then took on the role of Software Development Manager with responsibility for teams based in Dublin, Singapore and Manila.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| AT&T Labs, IP Technology Organization, _Contract Technical Lead_
+| Oct '98 – Jul '99 >| Redditch, UK
+|===
+
+* Developed a platform to construct and manage network services called Common Open IP Platform (COIPP).
+
+* Provided CORBA expertise to the team responsible for implementing the middle-tier components of the provisioning, billing and management systems, ported existing components from Orbix to VisiBroker and assisted the team that ported the existing components from Windows to Solaris.
+
+* Migrated the team’s version control solution from PVCS to Clearcase.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| IBM, _Contract Project Lead_
+| Oct '97 – Sep '98 >| Dublin, Ireland
+|===
+
+* Developed a customer relationship management application for insurance companies called Client Information & Integration System (CIIS).
+
+* Led the teams that designed the overall architecture for CIIS and developed the middle-tier components.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Microsoft, _Contract Software Engineer_
+| Apr '96 – Sep '97 >| Seattle, WA, USA
+|===
+
+* Developing agents that were installed on over 3,000 file, database, e-mail, web and proxy servers to collect usage metrics.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Lotus, _Contract Software Engineer_
+| Sep '95 – Mar '96 >| Dublin, Ireland
+|===
+
+* Developed test, automation and localization tools used to test and localize Lotus' office application suite called Lotus SmartSuite.
+
+* Developed plug-ins to instrument Lotus' custom controls and unified the code-base to eliminate the need for separate builds for each flavour of Windows.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| Lehman Brothers, _Contract Project Lead_
+| Aug '94 – Aug '95 >| London, UK
+|===
+
+* Developed and maintained applications support the purchasing, goods inwards and accounting departments in the London office.
+
+* Recruited and led the development team
+
+* Ported existing components from OS/2 to Windows 3.x
+
+* Carried out maintenance and implemented enhancements to meet changing business practices.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h|Hewlett-Packard, _Contract Software Engineer_
+| Apr – Jul '94 >| Grenoble, France
+|===
+
+* Ported a conferencing tool called Omnishare to run on a standard IBM compatible PC instead of dedicated hardware.
+
+[cols="2*a",grid=none,frame=none]
+|===
+2+h| IBM, _Contract Technical Lead_
+| Oct '93 – Mar '94 >| Dublin, Ireland
+|===
+
+* Initially hired to identify and correct issues that were preventing a data warehousing tool called DataRefresher from being accepted by the QA team for testing.
+
+* Implemented additional product features to connect to various data sources and sinks.
+
+* Provided mentoring to the development team and improved the engineering processes.
+
+[cols="2*a",frame=none,grid=none]
+|===
+2+h| British Rail, _Contract Software Engineer_
+| Mar - Sep '93 >| Darlington, UK
+|===
+
+* Developed passenger booking and rolling stock management for a client-server application called Advanced Transmanche Operations Management System (ATOMS).
+
+* Designed and implemented the framework for the ATOMS user interface.
+
+* Stream-lined the build process allowing regular deliveries to the off-site QA team.
+
+[cols="2*a",frame=none,grid=none]
+|===
+2+h|AT&T Istel, _Contract Software Engineer_
+| Sep '92 – Jan '93 >| Redditch, UK
+|===
+
+* Developed an inter-process communication mechanism for co-located Windows applications using Dynamic Data Exchange (DDE).
+
+* Developed the client-side communication between the Windows applications and Unix server processes over a serial connection.
+
+[cols="2*a",frame=none,grid=none]
+|===
+2+h|Polydata, _Senior Software Engineer_
+| Apr '89 - Aug '92 >| Dublin Ireland
+|===
+
+* Developed searchable electronic catalogues describing the material properties of products sold by many of the key clients such as DOW Chemical, DuPont, ICI, Bayer and Elf Atochem.
+
+* Consolidation and re-factoring of the existing source code developed for different customers into a single code base and partial automation of the release engineering process.
+
+== Skills
+
+*Programming Languages:*  C, C++, C#, Groovy, *Java*, *JavaScript*, Kotlin, Objective-C, Pascal, PERL, PHP, Python, Ruby, Scala, *Shell Scripting*, x86 Assembly
+
+*Frameworks & Libraries:*
+* Windows SDK, OS/2 SDK
+* Microsoft Foundation Classes, Boost C++, Object Windows Library, Standard Template Library, RogueWave, COM/ATL, ADO, Orbix, Expat
+* .NET, ASP.NET,
+* Swing, Struts, Struts 2, Apache FOP, Hibernate, iBatis/myBatis, Velocity, Spring Framework, Spring Webflow, Spring Security (Acegi), Spring Boot, Spring Cloud, Spring Framework, Spring Integration, Spring Web Services, Apache Axis, Spring LDAP, Compass, Lucene, Quartz, JUG, CGLIB, EhCache, Shark, Jetspeed 2, JGroups, Apache Commons, OSGi, JSF, OpenCMIS, OrbixWeb, VisiBroker, Apache Jackrabbit, Thymeleaf, Xerces, JAX-RS (Jersey), Netflix Eureka, Spring Security SAML
+* https://getbootstrap.com/[Bootstrap], https://vuejs.org/[Vue.js], Ext/JS, jQuery, AngularJS,
+* CoreData, Cocoa, OSXFUSE, OCMock, Growl
+* Smarty Templates, SimpleSAMLphp
+
+*Containers:* Docker, Kubernetes, Istio, Helm, Skaffold, Telepresence, Kustomize, Vagrant
+
+*Build Automation and Deployment:* ANT, Chef, *Gradle*, Grunt, make, *Maven*,
+
+*CI Servers & Artifact Repositories:* *Bamboo*, Continuum, Hudson, Jenkins, Archiva, Artifactory, *Nexus*, Proximity
+
+*Workflow and Rules:* BPEL, *BPMN*, *Flowable*, jBPM, Drools, NxBRE
+
+*Databases & Caches:* Oracle, DB2, Sybase, *PostgreSQL*, MS SQL Server, MySQL/*MariaDB*, Ingres, *Cassandra*, *Redis*, *Memcached*
+
+*Web and Application Servers:* IBM WebSphere, BEA WebLogic Portal, *Apache Tomcat*, IIS, Netscape iPlanet, Apache HTTPD Server, JBoss AS, SpringSource tc Server, Oracle SOA Suite, OC4J, Apache Felix
+
+*Directory and Identity Management Servers:* Active Directory, Sun ONE Directory Server, OpenLDAP, OpenDJ, OpenAM, Sun Identity Manager
+
+*Messaging:* MQSeries, webMethods, WebSphereMQ, JBoss ESB, *RabbitMQ*, SwiftMQ, *Kafka*
+
+*Operating Systems:* MS-DOS, Windows 3.x/95/NT/ME/2000/2003, Unix, OS/2, Solaris, BSD Unix (BusyBox), MacOS, *Linux (Alpine, RedHat, Ubuntu)*, iSeries
+
+*Version Control:* RCS, PVCS, Visual SourceSafe, Clearcase, Subversion, Perforce, *Git (GitHub, Gitlab, Stash/Bitbucket)*
+
+*IDEs:* Turbo Pascal, Turbo C++, Visual C++, Borland C++, Eclipse, XCode, IntelliJ, Sun C++, g++, IBM C Set++
+
+*?:* IBM Communications Manager, Lotus Notes, Siebel, Oracle eBusiness Suite, Portal Infranet, Micromuse Netcool, Infovista, BMC Enterprise Security Station, Alfresco, Documentum, Sharepoint, Postfix
+
+*Testing Tools:* LoadRunner, WinRunner, ClearQuest, Test Director, QuickTest Pro, Grinder, Mercury Quality Centre, JIRA, Greenhopper, JMeter, Valgrind, JProbe, Jasmine, Selenium, Benerator, Mockito, Spring Test, AssertJ, Hamcrest, DataFaker
+
+*Documentation:* mediaWiki, Confluence, Docbook, AsciiDoctor
+
+*Code Quality and Visualisation Tools:* Sonar, NexusIQ, Fortify, Fisheye, Crucible
+
+== Education
+
+*B.Sc. in Computer Applications* +
+Dublin City University +
+Graduated with honours in November 1990
