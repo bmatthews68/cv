@@ -320,11 +320,11 @@ I streamlined the development process by creating a centralized repository of co
 
 === CoderDojo (May '03 - Present)
 
-I have been helping young children and teenagers learn how to program in Scratch, Python, and Java, create web-sites using HTML, CSS and Javascript, and build electronic devices using Arduino as a mentor with CoderDojo.
+As a mentor with CoderDojo, I have been empowering young children and teenagers to learn programming skills through hands-on projects using Scratch, Python, Java, HTML, CSS, and Javascript. My experience includes guiding students in building electronic devices with Arduino.
 
-I started mentoring at a dojo in Dublin city centre and later took on the leadership role which involved recruiting other mentors, organising the venue, and dealing with background checks,
+I began mentoring at a Dublin-based dojo, where I eventually took on leadership responsibilities, which included recruiting additional mentors, managing the venue, and facilitating background checks.
 
-When I relocated to Russia in 2017, Elena and I established a CoderDojo in Rostov-on-Don.
+In 2017, upon relocating to Russia, Elena and I co-founded a CoderDojo in Rostov-on-Don, bringing coding education to a new community.
 
 == Qualifications
 
