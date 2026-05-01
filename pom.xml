@@ -10,8 +10,10 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.build.timestamp.format>yyyy-MM-dd</maven.build.timestamp.format>
-        <maven.compiler.source>21</maven.compiler.source>
-        <maven.compiler.target>21</maven.compiler.target>
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
+        <maven.version.ignore>^(?i).+[-\.](M|CR|RC|alpha|beta|legacy).*$</maven.version.ignore>
+        <processDependencyManagementTransitive>false</processDependencyManagementTransitive>
     </properties>
     <modules>
         <module>cv-theme</module>
@@ -69,7 +71,7 @@
                         <configuration>
                             <rules>
                                 <requireMavenVersion>
-                                    <version>3.9.14</version>
+                                    <version>3.9.15</version>
                                 </requireMavenVersion>
                             </rules>
                         </configuration>
