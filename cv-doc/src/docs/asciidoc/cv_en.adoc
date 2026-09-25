@@ -11,9 +11,9 @@
 ! Name
 ! BRIAN THOMAS MATTHEWS
 ! Address
-! UL. 14-YA LINIYA, D. 70 KB. 10, +
+! UL. SUVOROVA, D. 10 KB. 20-22, +
 ROSTOV-ON-DON, +
-344019, +
+344002, +
 RUSSIA
 ! Phone    ! +7 961 310 5068
 ! E-mail   ! bmatthews68@gmail.com
@@ -44,7 +44,7 @@ Proven track record leading and coordinating geographically distributed engineer
 
 At Búraló Technologies, I provide expert consulting and training services to organizations specializing in cloud-native application development, focusing on Java, Spring Boot, Spring Cloud, Docker, and/or Kubernetes. This expertise enables clients to leverage these technologies to build scalable, efficient, and secure applications that meet their unique needs.
 
-*Skills:* Java, Spring Boot, Spring Cloud, Spring Data, Spring Vault, Docker, Testcontainers, Kubernetes, Istio, Telepresence, HashiCorp Vault, MariaDB, PostgreSQL, VueJS, Helm, Maven, Gradle
+*Skills:* Java, Spring Boot, Spring Cloud, Spring Data, Spring Vault, Docker, Testcontainers, Kubernetes, Istio, Telepresence, HashiCorp Vault, MariaDB, PostgreSQL, Helm, Maven, Gradle
 
 [[Synchronoss]]
 == Contract Software Engineer @ Synchronoss, Dublin, Ireland (Jan '16 - Mar '24)
@@ -54,17 +54,17 @@ The suite serves mobile telecommunications providers such as Verizon, AT&T, Soft
 
 The core services include:
 
-* Collection Manager: manages media content for photo albums and music playlists
+* *Collection Manager* -- manages media content for photo albums and music playlists
 
-* Message Minder: provides APIs for backing up, restoring, and managing call logs, SMS, MMS, and RCS messages from users' mobile devices
+* *Message Minder* -- provides APIs for backing up, restoring, and managing call logs, SMS, MMS, and RCS messages from users' mobile devices
 
-* Authentication, Tokens & Provisioning (ATP): provisions and authenticates users, refreshing authentication tokens as needed
+* *Authentication, Tokens & Provisioning (ATP)* -- provisions and authenticates users, refreshing authentication tokens as needed
 
-* Digital Vault: manages metadata about content backed up from mobile and desktop devices
+* *Digital Vault* -- manages metadata about content backed up from mobile and desktop devices
 
-* Cloud Share: enables sharing uploaded content with other users
+* *Cloud Share* -- enables sharing uploaded content with other users
 
-* Smart Albums: uses geolocation and timestamp information to automatically create and maintain albums
+* *Smart Albums* -- uses geolocation and timestamp information to automatically create and maintain albums
 
 === Achievements
 
@@ -202,7 +202,7 @@ At TerraNua, I served as lead architect  for MyComplianceOffice, a Software as a
 [[Fidelity2]]
 == Information Security Consultant @ Fidelity Investments, Dublin, Ireland (Oct '05 - Jul '06)
 
-hen I returned to Fidelity Investments from my secondment to KVH, I served as architect for a team responsible for developing and maintaining the enterprise-wide identity management, automated access provisioning, risk management, and reporting system. The core components of this system included an intranet-facing application in ASP.NET that enabled raising and processing access requests, as well as a workflow engine that integrated third-party solutions to automate provisioning processes. I designed and implemented the NxBRE rules engine, which played a critical role in streamlining the automated provisioning process.
+When I returned to Fidelity Investments from my secondment to KVH, I served as architect for a team responsible for developing and maintaining the enterprise-wide identity management, automated access provisioning, risk management, and reporting system. The core components of this system included an intranet-facing application in ASP.NET that enabled raising and processing access requests, as well as a workflow engine that integrated third-party solutions to automate provisioning processes. I designed and implemented the NxBRE rules engine, which played a critical role in streamlining the automated provisioning process.
 
 *Skills:* C#, .NET, ASP.NET, NxBRE, IIS, Active Directory, Oracle 9i, Sun Identity Manager, BMC Enterprise Security Station, Windows 2003 Server, Solaris, Visual Studio, Clearcase, ClearQuest
 
@@ -261,7 +261,7 @@ At Microsoft, I worked as a member of the Infrastructure and Automation Tools te
 [[Lotus]]
 == Contract Software Engineer @ Lotus, Dublin, Ireland (Sep '95 – Mar '96)
 
-At Lotus, I was a member of the Global QA team that developed comprehensive test, automation, and localization tools used to thoroughly test and deploy Lotus SmartSuite, the company's office application suite. As part of this effort, I created plug-ins to instrument Lotus' custom controls, streamlining development and eliminating the need for separate builds for each Windows flavor.
+At Lotus, I was a member of the Global QA team that developed comprehensive test, automation, and localization tools used to thoroughly test and deploy Lotus SmartSuite, the company's office application suite. As part of this effort, I created plug-ins to instrument Lotus' custom controls, streamlining development and eliminating the need for separate builds for each Windows flavour.
 
 *Skills:* {cpp}, Windows SDK, Windows 3.x/95/NT,  Visual {cpp}, PVCS, Lotus Notes
 
